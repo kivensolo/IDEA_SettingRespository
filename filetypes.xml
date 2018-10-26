@@ -9,13 +9,13 @@
     <setting name="fileTypeChangedCounter" value="1" />
   </component>
   <component name="FileTypeManager" version="16">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
       <mapping pattern="CountDownLatch" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="grovvy" type="PLAIN_TEXT" />
       <mapping ext="dll" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <removed_mapping ext="dll" type="UNKNOWN" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
