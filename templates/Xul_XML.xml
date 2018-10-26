@@ -1,0 +1,123 @@
+<templateSet group="Xul/XML">
+  <template name="area" value="&lt;area type=&quot;$defined$&quot; class=&quot;$item_class$&quot;&gt;&#10;&#10;&lt;/area&gt;" description="area structure" toReformat="false" toShortenFQNames="true">
+    <variable name="defined" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="item_class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="item" value="&lt;item type=&quot;$defined$&quot; class=&quot;$item_class$&quot;&gt;&#10;&#10;&lt;/item&gt;" description="item defined" toReformat="false" toShortenFQNames="true">
+    <variable name="defined" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="item_class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="label" value="&lt;item id=&quot;$item_id$&quot; type=&quot;label&quot; class=&quot;global_nofocus&quot;&gt;&#10;    &lt;attr name=&quot;x&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;y&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;width&quot;&gt;match_parent&lt;/attr&gt;&#10;    &lt;attr name=&quot;height&quot;&gt;wrap_parent&lt;/attr&gt;&#10;    &lt;attr name=&quot;text&quot;&gt;&lt;/attr&gt;&#10;    &lt;style name=&quot;font-size&quot;&gt;&lt;/style&gt;&#10;    &lt;style name=&quot;font-color&quot;&gt;&lt;/style&gt;&#10;    &lt;style name=&quot;font-align&quot;&gt;&lt;/style&gt;&#10;&lt;/item&gt;" description="item of label" toReformat="false" toShortenFQNames="true">
+    <variable name="item_id" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="image" value="&lt;item type=&quot;image&quot; class=&quot;$item_class$&quot;&gt;&#10;    &lt;attr name=&quot;x&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;y&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;width&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;height&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;text&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;img.0&quot;&gt;&lt;/attr&gt;&#10;    &lt;style name=&quot;font-size&quot;&gt;&lt;/style&gt;&#10;    &lt;style name=&quot;font-color&quot;&gt;&lt;/style&gt;&#10;    &lt;style name=&quot;font-align&quot;&gt;&lt;/style&gt;&#10;    &lt;attr name=&quot;img.0.mode&quot;&gt;center&lt;/attr&gt;&#10;    &lt;attr name=&quot;img.0.width&quot;&gt;&lt;/attr&gt;&#10;    &lt;attr name=&quot;img.0.height&quot;&gt;&lt;/attr&gt;&#10;&lt;/item&gt;" description="item of l image" toReformat="false" toShortenFQNames="true">
+    <variable name="item_class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="fonts" value="&lt;style name=&quot;font-size&quot;&gt;&lt;/style&gt;" description="style of font-size" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="fonta" value="&lt;style name=&quot;font-align&quot;&gt;&lt;/style&gt;" description="style of font-align" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="fontc" value="&lt;style name=&quot;font-color&quot;&gt;&lt;/style&gt;" description="style of font-color" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="horizontal-d" value="&lt;attr name=&quot;direction&quot;&gt;horizontal&lt;/attr&gt;&#10;" description="attr of direction- horizontal" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="vertical-d" value="&lt;attr name=&quot;direction&quot;&gt;vertical&lt;/attr&gt;" description="attr of direction- vertical" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="bkg-c" value="&lt;style name=&quot;background-color&quot;&gt;&lt;/style&gt;" description="background-color" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="bkg-i" value="&lt;style name=&quot;background-image&quot;&gt;&lt;/style&gt;" description="background-image" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="bord" value="&lt;style name=&quot;border&quot;&gt;1,ff00ff00&lt;/style&gt;" description="border" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="event-act" value="&lt;action event=&quot;$event$&quot; type=&quot;&quot;&gt;&lt;/action&gt;&#10;" description="action type" toReformat="false" toShortenFQNames="true">
+    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="mtfa" value="&lt;style name=&quot;main_text.font-align&quot;&gt;$align$,$align$&lt;/style&gt;&#10;&lt;style name=&quot;sub_text.font-align&quot;&gt;$align$,$align$&lt;/style&gt;&#10;" description="(main-text_font-align)" toReformat="false" toShortenFQNames="true">
+    <variable name="align" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="disp" value="&lt;style name=&quot;display&quot;&gt;$display$&lt;/style&gt;" description="style of display" toReformat="false" toShortenFQNames="true">
+    <variable name="display" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+</templateSet>

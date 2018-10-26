@@ -1,0 +1,11 @@
+<application>
+  <component name="KeyPromoterConfiguration">
+    <option name="settings">
+      <KeyPromoterSettings>
+        <option name="menusEnabled" value="false" />
+        <option name="toolbarButtonsEnabled" value="false" />
+        <option name="toolWindowButtonsEnabled" value="false" />
+      </KeyPromoterSettings>
+    </option>
+  </component>
+</application>
