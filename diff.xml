@@ -55,7 +55,7 @@
       </entry>
       <entry key="CommitDialog">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+          <option name="HIGHLIGHT_POLICY" value="DO_NOT_HIGHLIGHT" />
         </PlaceSettings>
       </entry>
       <entry key="Default">
