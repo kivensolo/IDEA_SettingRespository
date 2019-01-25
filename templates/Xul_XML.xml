@@ -80,8 +80,8 @@
   <template name="disp" value="&lt;style name=&quot;display&quot;&gt;$display$&lt;/style&gt;" description="style of display" toReformat="false" toShortenFQNames="true">
     <variable name="display" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
       <option name="XML" value="true" />
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
 </templateSet>

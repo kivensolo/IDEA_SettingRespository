@@ -2,9 +2,9 @@
   <template name="ifn" value="if($name$ == null){&#10;    $name$ = &quot;&quot;;&#10;}" description="if xxx == null" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="JSON" value="true" />
       <option name="XML" value="true" />
+      <option name="JSON" value="true" />
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
   <template name="tue" value="TextUtils.equals($arg1$,$arg2$);" description="equals two String" toReformat="false" toShortenFQNames="true">
