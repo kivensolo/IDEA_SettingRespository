@@ -184,5 +184,6 @@
     <ignoreAction name="Language Injection/Edit Injection Settings" />
     <ignoreAction name="Language Injection/Un-inject Language/Reference" />
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Java/Control Flow/Unwrap 'else' branch" />
   </component>
 </application>
