@@ -11,6 +11,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="CountDownLatch" type="PLAIN_TEXT" />
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
       <mapping ext="grovvy" type="PLAIN_TEXT" />
