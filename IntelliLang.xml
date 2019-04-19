@@ -1,9 +1,8 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="JSON" injector-id="java">
+      <display-name>Intent.putExtra (android.content)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("putExtra").withParameters("java.lang.String", "java.lang.String").definedInClass("android.content.Intent"))]]></place>
+    </injection>
   </component>
 </application>
