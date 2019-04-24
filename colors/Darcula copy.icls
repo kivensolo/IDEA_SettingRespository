@@ -1,10 +1,9 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_NAME" value="Courier New" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="19" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
