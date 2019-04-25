@@ -125,7 +125,6 @@
     <ignoreAction name="Java/JUnit/Replace assertTrue, assertFalse, or assertNull with assertEquals" />
     <ignoreAction name="Java/Modifiers/Make Package-Local" />
     <ignoreAction name="Java/Modifiers/Make Private" />
-    <ignoreAction name="Java/Modifiers/Make Protected" />
     <ignoreAction name="Java/Modifiers/Make Public" />
     <ignoreAction name="Java/Numbers/Convert to Binary" />
     <ignoreAction name="Java/Numbers/Convert to Decimal" />
@@ -185,5 +184,6 @@
     <ignoreAction name="Language Injection/Un-inject Language/Reference" />
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
     <ignoreAction name="Java/Control Flow/Unwrap 'else' branch" />
+    <ignoreAction name="Java/Modifiers/Make Package-Private" />
   </component>
 </application>
