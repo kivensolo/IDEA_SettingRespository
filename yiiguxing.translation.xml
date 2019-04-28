@@ -1,0 +1,11 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="final" />
+      <item value="Fuzzy Words" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+  </component>
+</application>
