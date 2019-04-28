@@ -1,11 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extends" />
       <item value="final" />
       <item value="Fuzzy Words" />
     </histories>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
     <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6953e2b0635b37a0" />
+        <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="ENGLISH" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
