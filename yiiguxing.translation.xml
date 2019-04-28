@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Override" />
+      <item value="Open Image Action" />
+      <item value="private" />
+      <item value="Notification" />
+      <item value="Logger" />
       <item value="extends" />
       <item value="final" />
       <item value="Fuzzy Words" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="14" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
