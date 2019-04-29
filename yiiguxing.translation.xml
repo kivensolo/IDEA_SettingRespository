@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This method is called when new component state is loaded. The method can and will be called several times, if * config files were externally changed while IDEA running. * @param state loaded component state" />
       <item value="consumer" />
       <item value="consume" />
       <item value="Override" />
