@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consumer" />
+      <item value="consume" />
       <item value="Override" />
       <item value="Open Image Action" />
       <item value="private" />
@@ -12,7 +14,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
