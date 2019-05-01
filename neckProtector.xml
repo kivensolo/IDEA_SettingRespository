@@ -1,6 +1,5 @@
 <application>
   <component name="neckProtector">
     <option name="remindImageUrl" value="file:/$USER_HOME$/Pictures/Camera%20Roll/08b89e75-c03a-41aa-9cb6-d3dd822cdfbe.jpg" />
-    <option name="periodMinutes" value="45" />
   </component>
 </application>
