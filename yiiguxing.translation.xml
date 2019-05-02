@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="often" />
       <item value="instanceof" />
       <item value="effects" />
       <item value="composed" />
@@ -23,7 +24,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
