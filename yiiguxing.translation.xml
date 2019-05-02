@@ -2,8 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="instanceof" />
-      <item value="composed" />
       <item value="effects" />
+      <item value="composed" />
       <item value="side" />
       <item value="operate" />
       <item value="expected" />
@@ -22,7 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
