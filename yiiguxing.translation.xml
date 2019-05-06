@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Patching" />
       <item value="evict entries" />
       <item value="evict" />
       <item value="often" />
@@ -26,7 +27,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
