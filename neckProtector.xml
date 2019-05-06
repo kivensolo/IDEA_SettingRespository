@@ -1,5 +1,5 @@
 <application>
   <component name="neckProtector">
-    <option name="remindImageUrl" value="file:/$USER_HOME$/Pictures/Camera%20Roll/08b89e75-c03a-41aa-9cb6-d3dd822cdfbe.jpg" />
+    <option name="remindImageUrl" value="file:$APPLICATION_PLUGINS_DIR$/neck_protect_cache/bing/951AEF88EA2A53279C82425A7E7F137B.jpg" />
   </component>
 </application>
