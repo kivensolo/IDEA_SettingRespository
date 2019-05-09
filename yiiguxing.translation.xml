@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="component UI" />
       <item value="available" />
       <item value="permits" />
       <item value="semaphore" />
@@ -31,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="61" />
       </map>
     </option>
   </component>
