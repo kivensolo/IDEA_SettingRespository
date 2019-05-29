@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
       <item value="component UI" />
       <item value="available" />
       <item value="permits" />
@@ -32,7 +33,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
