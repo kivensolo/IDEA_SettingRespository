@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delta" />
+      <item value="_xul Time Delta" />
+      <item value="Delta" />
+      <item value="delay" />
       <item value="gray" />
       <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
       <item value="component UI" />
@@ -34,7 +38,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
