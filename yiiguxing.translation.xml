@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="认证" />
       <item value="Solver" />
       <item value="parallel" />
       <item value="delta" />
@@ -40,7 +41,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
