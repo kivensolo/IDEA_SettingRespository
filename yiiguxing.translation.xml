@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reentrant" />
+      <item value="ReentrantLock" />
       <item value="认证" />
       <item value="Solver" />
       <item value="parallel" />
@@ -41,7 +43,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
