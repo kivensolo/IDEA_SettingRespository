@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="直接" />
+      <item value="间接" />
       <item value="Reentrant" />
       <item value="ReentrantLock" />
       <item value="认证" />
@@ -43,7 +45,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
