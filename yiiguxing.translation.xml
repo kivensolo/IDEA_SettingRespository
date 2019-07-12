@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pending" />
+      <item value="Schedule" />
       <item value="trippe" />
       <item value="tripped" />
       <item value="直接" />
@@ -47,7 +49,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="ENGLISH" value="79" />
       </map>
     </option>
   </component>
