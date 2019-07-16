@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bulk" />
       <item value="increments" />
       <item value="pending" />
       <item value="Schedule" />
@@ -50,7 +51,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="ENGLISH" value="81" />
       </map>
     </option>
   </component>
