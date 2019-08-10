@@ -745,10 +745,70 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="608b4e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="ff7f00" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c66ace" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="3dc9b0" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="JS.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="608b4e" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="JS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="b5cea8" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="a9b7c6" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="1ad619" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="ce9178" />
       </value>
     </option>
     <option name="LINE_FULL_COVERAGE">
