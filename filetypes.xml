@@ -16,6 +16,7 @@
       <mapping pattern="CountDownLatch" type="PLAIN_TEXT" />
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
       <mapping ext="grovvy" type="PLAIN_TEXT" />
+      <mapping ext="err" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
