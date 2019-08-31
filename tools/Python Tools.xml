@@ -1,0 +1,16 @@
+<toolSet name="Python Tools">
+  <tool name="PyUIC" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Python37\python3.exe" />
+      <option name="PARAMETERS" value="-m PyQt5.uic.pyuic $FileName$ -o $FileNameWithoutExtension$.py" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+  <tool name="Qt Designer" description="qt ui编辑器" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\kviensolo\AppData\Roaming\Python\Python37\site-packages\pyqt5_tools\designer.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pyqt5_tools" />
+    </exec>
+  </tool>
+</toolSet>
