@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\kviensolo\AppData\Roaming\Python\Python37\site-packages\pyqt5_tools\designer.exe" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/pyqt5_tools" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/kviensolo/AppData/Roaming/Python/Python37/site-packages/pyqt5_tools" />
     </exec>
   </tool>
 </toolSet>
