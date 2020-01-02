@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No CODEPAGE record, no encoding_override: will use 'ascii'" />
       <item value="If fewer than corePoolSize threads are running" />
       <item value="bulk" />
       <item value="increments" />
@@ -51,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="85" />
       </map>
     </option>
   </component>
