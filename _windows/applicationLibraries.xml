@@ -139,15 +139,15 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.7 (PythonDemo-master) interpreter library">
+    <library name="Python 3.7 (DemoTest) interpreter library">
       <CLASSES>
         <root url="file://C:/Program Files (x86)/Python37/Lib" />
         <root url="file://C:/Program Files (x86)/Python37/DLLs" />
-        <root url="file://F:/github/kviensolo/PythonDemo-master/venv" />
-        <root url="file://F:/github/kviensolo/PythonDemo-master/venv/Lib/site-packages" />
-        <root url="jar://F:/github/kviensolo/PythonDemo-master/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://F:/github/kviensolo/PythonDemo-master/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1453737498" />
+        <root url="file://F:/github/kviensolo/DemoTest/venv" />
+        <root url="file://F:/github/kviensolo/DemoTest/venv/Lib/site-packages" />
+        <root url="jar://F:/github/kviensolo/DemoTest/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://F:/github/kviensolo/DemoTest/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/1414698527" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -158,11 +158,11 @@
       <SOURCES>
         <root url="file://C:/Program Files (x86)/Python37/Lib" />
         <root url="file://C:/Program Files (x86)/Python37/DLLs" />
-        <root url="file://F:/github/kviensolo/PythonDemo-master/venv" />
-        <root url="file://F:/github/kviensolo/PythonDemo-master/venv/Lib/site-packages" />
-        <root url="jar://F:/github/kviensolo/PythonDemo-master/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://F:/github/kviensolo/PythonDemo-master/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1453737498" />
+        <root url="file://F:/github/kviensolo/DemoTest/venv" />
+        <root url="file://F:/github/kviensolo/DemoTest/venv/Lib/site-packages" />
+        <root url="jar://F:/github/kviensolo/DemoTest/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://F:/github/kviensolo/DemoTest/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/1414698527" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
