@@ -1386,7 +1386,14 @@
     </option>
     <option name="XPATH.XPATH_NAME">
       <value>
-        <option name="FOREGROUND" value="da4939" />
+        <option name="FOREGROUND" value="f07a79" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="10ccd4" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XPATH.XPATH_VARIABLE">
