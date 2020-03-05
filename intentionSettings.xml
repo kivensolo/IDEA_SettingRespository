@@ -186,6 +186,5 @@
     <ignoreAction name="Java/Control Flow/Unwrap 'else' branch" />
     <ignoreAction name="Java/Modifiers/Make Package-Private" />
     <ignoreAction name="Java/Modifiers/Make Protected" />
-    <ignoreAction name="Python/Add type hint for variable" />
   </component>
 </application>

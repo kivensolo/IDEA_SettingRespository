@@ -1,11 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="List Comprehensions" />
-      <item value="This is a design principle for all mutable data structures in Python." />
-      <item value="asynchronous" />
-      <item value="No CODEPAGE record, no encoding_override: will use 'ascii'" />
-      <item value="If fewer than corePoolSize threads are running" />
       <item value="bulk" />
       <item value="increments" />
       <item value="pending" />
@@ -51,11 +46,12 @@
       <item value="Logger" />
       <item value="extends" />
       <item value="final" />
+      <item value="Fuzzy Words" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="81" />
       </map>
     </option>
   </component>

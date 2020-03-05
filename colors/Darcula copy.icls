@@ -1,10 +1,9 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Microsoft YaHei" />
+  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_NAME" value="Courier New" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -107,6 +106,12 @@
         <option name="FOREGROUND" value="ff0000" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="Block comment">
+      <value>
+        <option name="FOREGROUND" value="4d9d45" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
@@ -293,6 +298,11 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
+    <option name="Class">
+      <value>
+        <option name="FOREGROUND" value="77aacc" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
@@ -343,6 +353,8 @@
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -501,13 +513,12 @@
     </option>
     <option name="GString">
       <value>
-        <option name="FOREGROUND" value="6a8759" />
+        <option name="FOREGROUND" value="51b550" />
       </value>
     </option>
     <option name="Groovydoc comment">
       <value>
         <option name="FOREGROUND" value="629755" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Groovydoc tag">
@@ -614,7 +625,7 @@
     </option>
     <option name="Instance field">
       <value>
-        <option name="FOREGROUND" value="9876aa" />
+        <option name="FOREGROUND" value="bb6bca" />
       </value>
     </option>
     <option name="Instance property reference ID">
@@ -734,15 +745,70 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="608b4e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="ff7f00" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c66ace" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="3dc9b0" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="JS.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="608b4e" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="JS.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="b5cea8" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="a9b7c6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION">
+    <option name="JS.REGEXP">
       <value>
-        <option name="FOREGROUND" value="bbb529" />
+        <option name="FOREGROUND" value="1ad619" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="ce9178" />
       </value>
     </option>
     <option name="LINE_FULL_COVERAGE">
@@ -773,6 +839,11 @@
         <option name="FOREGROUND" value="ff6b68" />
       </value>
     </option>
+    <option name="Line comment">
+      <value>
+        <option name="FOREGROUND" value="479842" />
+      </value>
+    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -793,7 +864,7 @@
     </option>
     <option name="Map key">
       <value>
-        <option name="FOREGROUND" value="d0d0ff" />
+        <option name="FOREGROUND" value="629755" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -940,6 +1011,93 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="e6c495" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="48b1e1" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="e6c495" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="b2ab39" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="61aeee" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="16cb92" />
+      </value>
+    </option>
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="3997cb" />
+      </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="77aadd" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ec6ce" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="61aeee" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="1cb121" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2c7eb8" />
@@ -1056,8 +1214,8 @@
     </option>
     <option name="Static field">
       <value>
-        <option name="FOREGROUND" value="d0d0ff" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="be8807" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -1076,7 +1234,7 @@
     </option>
     <option name="String">
       <value>
-        <option name="FOREGROUND" value="6a8759" />
+        <option name="FOREGROUND" value="629755" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
