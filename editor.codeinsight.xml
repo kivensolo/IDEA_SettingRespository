@@ -6,10 +6,12 @@
     <option name="SMART_BACKSPACE" value="0" />
     <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
     <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="" />
   </component>
   <component name="JavaCodeFoldingSettings">
-    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+    <option name="collapseInnerClasses" value="true" />
   </component>
 </application>
