@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="context" />
+      <item value="fun" />
+      <item value="operator" />
+      <item value="operation" />
+      <item value="initial" />
+      <item value="fold" />
+      <item value="available" />
       <item value="bulk" />
       <item value="increments" />
       <item value="pending" />
@@ -21,7 +28,6 @@
       <item value="gray" />
       <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
       <item value="component UI" />
-      <item value="available" />
       <item value="permits" />
       <item value="semaphore" />
       <item value="Conceptually" />
@@ -45,13 +51,11 @@
       <item value="Notification" />
       <item value="Logger" />
       <item value="extends" />
-      <item value="final" />
-      <item value="Fuzzy Words" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="91" />
       </map>
     </option>
   </component>
@@ -68,7 +72,6 @@
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
-        <option name="appKeyConfigured" value="true" />
         <option name="primaryLanguage" value="ENGLISH" />
       </youdao-translate>
     </option>
