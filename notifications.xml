@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
+    <notification groupId="FindBugs: Plugin Suggestion" displayType="NONE" shouldLog="false" />
+    <notification groupId="FindBugs: R-File Filter Suggestion" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
