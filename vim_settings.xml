@@ -1,0 +1,53 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1598875725652">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Github/CodeCommitTemplete/META-INF/plugin.xml" timestamp="1598935745928" />
+      <file name="E:/Github/CodeCommitTemplete-master/CodeCommitTemplete-master.iml" timestamp="1598875190886">
+        <mark key="[" line="1" column="16" />
+      </file>
+      <file name="E:/Github/CodeCommitTemplete-master/CodeCommitTemplete.iml" timestamp="1598875209047">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="13" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
