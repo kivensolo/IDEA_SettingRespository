@@ -24,14 +24,12 @@
       <file name="E:/work/HeBei/HB_Live/src/com/starcor/hbgd/live/App.java" timestamp="1598943051725">
         <mark key="[" line="57" column="0" />
       </file>
-      <file name="E:/work/HeBei/HB_Live/src/com/starcor/base/advertising/controller/ChannelWordADController.java" timestamp="1598946762409" />
       <file name="E:/work/HeBei/HB_Live/src/com/starcor/base/plugin/dataSource/Plugin.java" timestamp="1598943195863">
         <mark key="[" line="14" column="31" />
       </file>
-      <file name="E:/work/HeBei/HB_Live/src/com/starcor/base/plugin/eventCore/iface/bigdatareport/StarcorBigDataPost.java" timestamp="1598940783830" />
-      <file name="E:/work/HeBei/HB_Live/src/com/starcor/hbgd/live/activity/MediaPlayerActivity.java" timestamp="1598946839880" />
-      <file name="E:/work/HeBei/HB_Live/src/com/starcor/hbgd/live/render/XulLoadingRender.java" timestamp="1598946902063">
-        <mark key="[" line="61" column="0" />
+      <file name="E:/work/HeBei/HB_Live/src/com/starcor/hbgd/live/plugin/player/MediaPlayerBehavior.java" timestamp="1598947193536" />
+      <file name="E:/work/HeBei/HB_Live/src/com/starcor/hbgd/live/render/XulLoadingRender.java" timestamp="1598947179205">
+        <mark key="[" line="21" column="18" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="61" column="64" />
       </file>
@@ -55,7 +53,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
