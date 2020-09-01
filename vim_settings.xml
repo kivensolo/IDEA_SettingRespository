@@ -13,14 +13,26 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/work/HeBei/HB_Live/src/com/starcor/hbgd/live/App.java" timestamp="1598943051725">
+        <mark key="[" line="57" column="0" />
+      </file>
+      <file name="E:/work/HeBei/HB_Live/src/com/starcor/base/plugin/dataSource/Plugin.java" timestamp="1598943195863">
+        <mark key="[" line="14" column="31" />
+      </file>
       <file name="E:/work/HeBei/HB_Live/src/com/starcor/base/plugin/eventCore/iface/bigdatareport/StarcorBigDataPost.java" timestamp="1598940783830" />
     </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
   </component>
   <component name="VimSearchSettings">
     <search>
