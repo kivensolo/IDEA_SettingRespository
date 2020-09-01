@@ -17,7 +17,9 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="E:/work/HeBei/HB_Live/src/com/starcor/base/plugin/eventCore/iface/bigdatareport/StarcorBigDataPost.java" timestamp="1598940783830" />
+    </filemarks>
     <jumps />
   </component>
   <component name="VimSearchSettings">
