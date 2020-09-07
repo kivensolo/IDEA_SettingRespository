@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="focus" />
+      <item value="focuse" />
       <item value="channel" />
       <item value="Channle" />
       <item value="Channel" />
@@ -49,13 +51,11 @@
       <item value="Patching" />
       <item value="evict entries" />
       <item value="evict" />
-      <item value="often" />
-      <item value="instanceof" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="114" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
