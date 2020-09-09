@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jump" />
+      <item value="jummp" />
       <item value="RECOVER PLAYER LIMIT" />
       <item value="focus" />
       <item value="focuse" />
@@ -49,13 +51,11 @@
       <item value="permits" />
       <item value="semaphore" />
       <item value="Conceptually" />
-      <item value="Patching" />
-      <item value="evict entries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="117" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
