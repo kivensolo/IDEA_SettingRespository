@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="health" />
       <item value="classify" />
       <item value="jump" />
       <item value="jummp" />
@@ -50,12 +51,11 @@
       <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
       <item value="component UI" />
       <item value="permits" />
-      <item value="semaphore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="119" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
