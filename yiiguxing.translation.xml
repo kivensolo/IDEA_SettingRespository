@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mostly this is here for debugging purposes." />
+      <item value="BALANCE" />
       <item value="health" />
       <item value="classify" />
       <item value="jump" />
@@ -49,13 +51,11 @@
       <item value="delay" />
       <item value="gray" />
       <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
-      <item value="component UI" />
-      <item value="permits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="121" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
