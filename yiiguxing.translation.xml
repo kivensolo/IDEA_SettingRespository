@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="neutral click" />
       <item value="Mostly this is here for debugging purposes." />
       <item value="BALANCE" />
       <item value="health" />
@@ -50,12 +51,11 @@
       <item value="Delta" />
       <item value="delay" />
       <item value="gray" />
-      <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="122" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
