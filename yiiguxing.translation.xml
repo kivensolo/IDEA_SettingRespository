@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hit Enter to stop" />
+      <item value="blockquote" />
       <item value="EVENT CP PAYMENT GO BACK" />
       <item value="neutral click" />
       <item value="Mostly this is here for debugging purposes." />
@@ -49,13 +51,11 @@
       <item value="parallel" />
       <item value="delta" />
       <item value="_xul Time Delta" />
-      <item value="Delta" />
-      <item value="delay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="127" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
