@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="where {@code currentLoader} denotes the defining class loader of * the current class. *" />
+      <item value="Returns the {@code Class} object associated with the class or * interface with the given string name. Invoking this method is * equivalent to:" />
       <item value="Pluggable strategy for asynchronously executing requests" />
       <item value="The runnable that will be used for the main listening thread." />
       <item value="This class implements server sockets. A server socket waits for * requests to come in over the network. It performs some operation * based on that request, and then possibly returns a result to the requester. * &lt;p&gt; * The actual work of the server socket is performed by an instance * of the {@code SocketImpl} class. An application can * change the socket factory that creates the socket * implementation to configure itself to create sockets * appropriate to the local firewall." />
@@ -49,13 +51,11 @@
       <item value="直接" />
       <item value="间接" />
       <item value="Reentrant" />
-      <item value="ReentrantLock" />
-      <item value="认证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="139" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
