@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INCONSISTENT" />
+      <item value="INSTALL PARSE FAILED INCONSISTENT CERTIFICATES" />
       <item value="where {@code currentLoader} denotes the defining class loader of * the current class. *" />
       <item value="Returns the {@code Class} object associated with the class or * interface with the given string name. Invoking this method is * equivalent to:" />
       <item value="Pluggable strategy for asynchronously executing requests" />
@@ -49,13 +51,11 @@
       <item value="trippe" />
       <item value="tripped" />
       <item value="直接" />
-      <item value="间接" />
-      <item value="Reentrant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="143" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
