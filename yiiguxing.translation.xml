@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the set of products that were ordered by every customer" />
+      <item value="partition" />
       <item value="predicate" />
       <item value="predicates" />
       <item value="INCONSISTENT" />
@@ -49,13 +51,11 @@
       <item value="bulk" />
       <item value="increments" />
       <item value="pending" />
-      <item value="Schedule" />
-      <item value="trippe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="153" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
