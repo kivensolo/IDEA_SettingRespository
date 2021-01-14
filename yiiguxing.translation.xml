@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Crowd" />
       <item value="some Property" />
       <item value="Destructuring" />
       <item value="Destructuring In Lambdas" />
@@ -50,12 +51,11 @@
       <item value="sync" />
       <item value="async" />
       <item value="wait for completion of the request, including all its children" />
-      <item value="I'm done and I don't explicitly join my children that are still active" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="183" />
         <entry key="HINDI" value="3" />
       </map>
     </option>
