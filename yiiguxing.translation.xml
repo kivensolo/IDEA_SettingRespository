@@ -1,7 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attributes" />
       <item value="restriction" />
+      <item value="entity type" />
+      <item value="Search group or user information from Crowd server." />
+      <item value="information" />
+      <item value="Crowd server authentication object. This is a Crowd authentication class to be configured for a particular application (app_name) to authenticate users against a Crowd server (crowd_url). This module uses the Crowd JSON API for talking to Crowd. An application account must be configured in the Crowd server and permitted to authenticate users against one or more user directories prior to using this module. Please see the Crowd documentation for information about configuring additional applications to talk to Crowd. The ``ssl_verify`` parameter controls how and if certificates are verified. If ``True``, the SSL certificate will be verified. A CA_BUNDLE path can also be provided." />
+      <item value="Copyright 2012 Alexander Else &lt;aelse@else.id.au&gt;. # # This file is part of the python-crowd library. # # python-crowd is free software released under the BSD License. # Please see the LICENSE file included in this distribution for # terms of use. This LICENSE is also available at # https://github.com/aelse/python-crowd/blob/master/LICENSE" />
       <item value="Crowd" />
       <item value="some Property" />
       <item value="Destructuring" />
@@ -45,17 +51,11 @@
       <item value="Channle" />
       <item value="Channel" />
       <item value="declare thread-local variable" />
-      <item value="Decompiler" />
-      <item value="A key of this coroutine context element." />
-      <item value="avoid lambda creation" />
-      <item value="fast path" />
-      <item value="sync" />
-      <item value="async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="199" />
         <entry key="HINDI" value="3" />
       </map>
     </option>
