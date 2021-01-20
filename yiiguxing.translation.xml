@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Selects a set of keys whose corresponding channels are ready for I/O * operations. * * &lt;p&gt; This method performs a blocking &lt;a href=&quot;#selop&quot;&gt;selection * operation&lt;/a&gt;. It returns only after at least one channel is selected, * this selector's {@link #wakeup wakeup} method is invoked, the current * thread is interrupted, or the given timeout period expires, whichever * comes first. * * &lt;p&gt; This method does not offer real-time guarantees: It schedules the * timeout as if by invoking the {@link Object#wait(long)} method. &lt;/p&gt;" />
       <item value="There is insufficient memory for the Java Runtime Environment to continue. # Native memory allocation (malloc) failed to allocate 1256736 bytes for Chunk::new" />
       <item value="evaluate" />
       <item value="running" />
@@ -50,12 +51,11 @@
       <item value="jump" />
       <item value="jummp" />
       <item value="RECOVER PLAYER LIMIT" />
-      <item value="focus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="211" />
         <entry key="HINDI" value="3" />
       </map>
     </option>
