@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoking this method more than once between two successive selection * operations has the same effect as invoking it just once." />
+      <item value="Causes the first selection operation that has not yet returned to return * immediately." />
+      <item value="It returns only after at least one channel is selected, * this selector's {@link #wakeup wakeup} method is invoked, or the current * thread is interrupted, whichever comes first." />
+      <item value="It returns only after at least one channel is selected" />
+      <item value="This method performs a blocking &lt;a href=&quot;#selop&quot;&gt;selection * operation&lt;/a&gt;" />
       <item value="Returns this selector's selected-key set." />
       <item value="A token representing the registration of a {@link SelectableChannel} with a * {@link Selector}." />
       <item value="Selects a set of keys whose corresponding channels are ready for I/O * operations." />
@@ -46,16 +51,11 @@
       <item value="This class implements server sockets. A server socket waits for * requests to come in over the network. It performs some operation * based on that request, and then possibly returns a result to the requester. * &lt;p&gt; * The actual work of the server socket is performed by an instance * of the {@code SocketImpl} class. An application can * change the socket factory that creates the socket * implementation to configure itself to create sockets * appropriate to the local firewall." />
       <item value="favicon" />
       <item value="Hit Enter to stop" />
-      <item value="blockquote" />
-      <item value="EVENT CP PAYMENT GO BACK" />
-      <item value="neutral click" />
-      <item value="Mostly this is here for debugging purposes." />
-      <item value="BALANCE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="231" />
         <entry key="HINDI" value="3" />
       </map>
     </option>
