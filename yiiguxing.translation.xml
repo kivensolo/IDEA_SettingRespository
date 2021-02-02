@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="项目中没有这个文件" />
       <item value="获得selector中选中的项的迭代器，选中的项为注册的事件" />
       <item value="选中的项为注册的事件" />
       <item value="Invoking this method more than once between two successive selection * operations has the same effect as invoking it just once." />
@@ -50,12 +51,11 @@
       <item value="Returns the {@code Class} object associated with the class or * interface with the given string name. Invoking this method is * equivalent to:" />
       <item value="Pluggable strategy for asynchronously executing requests" />
       <item value="The runnable that will be used for the main listening thread." />
-      <item value="This class implements server sockets. A server socket waits for * requests to come in over the network. It performs some operation * based on that request, and then possibly returns a result to the requester. * &lt;p&gt; * The actual work of the server socket is performed by an instance * of the {@code SocketImpl} class. An application can * change the socket factory that creates the socket * implementation to configure itself to create sockets * appropriate to the local firewall." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="235" />
         <entry key="HINDI" value="3" />
       </map>
     </option>
