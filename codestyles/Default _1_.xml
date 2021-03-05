@@ -1,4 +1,8 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
