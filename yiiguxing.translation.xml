@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies that this function should not be called directly without inlining" />
+      <item value="actual inline" />
+      <item value="actual" />
+      <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
+      <item value="Returns a Java [Class] instance corresponding to the given [KClass] instance." />
       <item value="offer" />
       <item value="positive integer" />
       <item value="or greater than the specified object" />
@@ -46,16 +51,11 @@
       <item value="running" />
       <item value="Use TemporaryFolder create temp File or Folder during test" />
       <item value="counts Assets" />
-      <item value="attributes" />
-      <item value="restriction" />
-      <item value="entity type" />
-      <item value="Search group or user information from Crowd server." />
-      <item value="information" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="303" />
         <entry key="HINDI" value="3" />
       </map>
     </option>
