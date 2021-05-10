@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predicates" />
+      <item value="Returns a list containing the results of applying the given [transform] function * to each element in the original collection." />
       <item value="eager vs lazy evaluation" />
       <item value="Extensions on collections are inlined" />
       <item value="Reified generics" />
@@ -49,13 +51,11 @@
       <item value="选中的项为注册的事件" />
       <item value="Invoking this method more than once between two successive selection * operations has the same effect as invoking it just once." />
       <item value="Causes the first selection operation that has not yet returned to return * immediately." />
-      <item value="It returns only after at least one channel is selected, * this selector's {@link #wakeup wakeup} method is invoked, or the current * thread is interrupted, whichever comes first." />
-      <item value="It returns only after at least one channel is selected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="334" />
         <entry key="HINDI" value="3" />
       </map>
     </option>
