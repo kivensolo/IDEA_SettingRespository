@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Updates the CRC-32 checksum with the specified byte (the low * eight bits of the argument b)." />
+      <item value="checksum" />
+      <item value="class that can be used to compute the CRC-32 of a data stream. * * &lt;p&gt; Passing a {@code null} argument to a method in this class will cause * a {@link NullPointerException} to be thrown." />
       <item value="intern" />
       <item value="Returns a canonical representation for the string object. * &lt;p&gt; * A pool of strings, initially empty, is maintained privately by the * class {@code String}. * &lt;p&gt; * When the intern method is invoked, if the pool already contains a * string equal to this {@code String} object as determined by * the {@link #equals(Object)} method, then the string from the pool is * returned. Otherwise, this {@code String} object is added to the * pool and a reference to this {@code String} object is returned. * &lt;p&gt; * It follows that for any two strings {@code s} and {@code t}, * {@code s.intern() == t.intern()} is {@code true} * if and only if {@code s.equals(t)} is {@code true}. * &lt;p&gt; * All literal strings and string-valued constant expressions are * interned. String literals are defined in section 3.10.5 of the * &lt;cite&gt;The Java&amp;trade; Language Specification&lt;/cite&gt;. * * @return a string that has the same contents as this string, but is * guaranteed to be from a pool of unique strings." />
       <item value="Returns" />
@@ -48,14 +51,11 @@
       <item value="breakfast" />
       <item value="Destructuring In Lambdas" />
       <item value="higher Order" />
-      <item value="Returns the Java source which is to be compiled by the Java compiler into the class output directory. *" />
-      <item value="See the example below how {@link org.gradle.api.tasks.SourceSet} 'main' is accessed and how the {@link org.gradle.api.file.SourceDirectorySet} 'java' * is configured to exclude some package from compilation. *" />
-      <item value="The given closure is executed to configure the {@link SourceSetContainer}. The {@link SourceSetContainer} * is passed to the closure as its delegate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="343" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="3" />
       </map>
