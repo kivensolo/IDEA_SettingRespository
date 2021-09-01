@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the amount of date or time to be added to the field." />
+      <item value="subtract" />
       <item value="Updates the CRC-32 checksum with the specified byte (the low * eight bits of the argument b)." />
       <item value="checksum" />
       <item value="class that can be used to compute the CRC-32 of a data stream. * * &lt;p&gt; Passing a {@code null} argument to a method in this class will cause * a {@link NullPointerException} to be thrown." />
@@ -49,13 +51,11 @@
       <item value="Another bonus (Kotlin 1.1 feature). // Add the marker annotation to make impossible using &quot;item&quot; inside another &quot;item&quot;. // The code below shouldn't compile. // See _3HtmlBuilders/html.kt for the example if necessary." />
       <item value="Create new menu item, initialize it and add it to the 'items' list" />
       <item value="breakfast" />
-      <item value="Destructuring In Lambdas" />
-      <item value="higher Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="345" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="3" />
       </map>
