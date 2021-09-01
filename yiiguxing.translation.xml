@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the values for the calendar fields &lt;code&gt;YEAR&lt;/code&gt;, * &lt;code&gt;MONTH&lt;/code&gt;, and &lt;code&gt;DAY_OF_MONTH&lt;/code&gt;. * Previous values of other calendar fields are retained. If this is not desired, * call {@link #clear()} first." />
+      <item value="the value used to set the &lt;code&gt;YEAR&lt;/code&gt; calendar field." />
+      <item value="the value used to set the &lt;code&gt;MONTH&lt;/code&gt; calendar field" />
+      <item value="the value used to set the &lt;code&gt;DAY_OF_MONTH&lt;/code&gt; calendar field." />
+      <item value="the year minus 1900" />
       <item value="Leap" />
       <item value="the amount of date or time to be added to the field." />
       <item value="subtract" />
@@ -46,16 +51,11 @@
       <item value="Employee" />
       <item value="Stored Entity" />
       <item value="Add the marker annotation to make impossible using &quot;item&quot; inside another &quot;item&quot;." />
-      <item value="Another bonus" />
-      <item value="bonus" />
-      <item value="bonus: use the 'apply' function" />
-      <item value="Another bonus (Kotlin 1.1 feature). // Add the marker annotation to make impossible using &quot;item&quot; inside another &quot;item&quot;. // The code below shouldn't compile. // See _3HtmlBuilders/html.kt for the example if necessary." />
-      <item value="Create new menu item, initialize it and add it to the 'items' list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="346" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="352" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="3" />
       </map>
