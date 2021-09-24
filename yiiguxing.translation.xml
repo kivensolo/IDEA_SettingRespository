@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Panel" />
       <item value="Invariants" />
       <item value="This method is often used in conjunction with the {@link * java.nio.ByteBuffer#compact compact} method when transferring data from * one place to another." />
       <item value="The offset of the subarray to be used;" />
@@ -50,12 +51,11 @@
       <item value="Derived" />
       <item value="Represents a property, such as a named `val` or `var` declaration. * Instances of this class are obtainable by the `::` operator. * * See the [Kotlin language documentation](https://kotlinlang.org/docs/reference/reflection.html) * for more information." />
       <item value="External Functionality" />
-      <item value="directive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="358" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="3" />
       </map>
