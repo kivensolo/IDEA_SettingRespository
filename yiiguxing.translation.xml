@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates an instance of &lt;code&gt;Dimension&lt;/code&gt; with a width * of zero and a height of zero." />
+      <item value="The preferred horizontal alignment of the component." />
+      <item value="the number of columns to use to calculate * the preferred width; if columns is set to zero, the * preferred width will be whatever naturally results from * the component implementation" />
+      <item value="set Horizontal Alignment" />
       <item value="Glue" />
       <item value="Bevel" />
       <item value="Lowered" />
@@ -47,15 +51,11 @@
       <item value="Specifies that this function should not be called directly without inlining" />
       <item value="actual inline" />
       <item value="actual" />
-      <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
-      <item value="Returns a Java [Class] instance corresponding to the given [KClass] instance." />
-      <item value="offer" />
-      <item value="positive integer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="370" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="3" />
       </map>
