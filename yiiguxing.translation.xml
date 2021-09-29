@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Misc Utils" />
+      <item value="obfuscator Group" />
+      <item value="BCV is awesome, blocking System.exit(" />
+      <item value="Checks the hotkeys" />
       <item value="This method is called when files have been successfully dropped" />
       <item value="disabled Are Navigable" />
       <item value="set Look And Feel" />
@@ -47,15 +51,11 @@
       <item value="eager vs lazy evaluation" />
       <item value="Extensions on collections are inlined" />
       <item value="Reified generics" />
-      <item value="compiler substitutes a body of the function instead of calling it" />
-      <item value="predicate" />
-      <item value="satisfies" />
-      <item value="Returns `this` value if it satisfies the given [predicate] or `null`, if it doesn't." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="381" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
