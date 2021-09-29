@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tab Component" />
+      <item value="Konloch" />
+      <item value="Water Wolf" />
+      <item value="WARRANTY" />
+      <item value=": * Finish dragging code * Finish right-click tab menu detection * make it use that global last used inside of export as jar * Add https://github.com/ptnkjke/Java-Bytecode-Editor visualize as a plugin * make zipfile not include the decode shit * add stackmapframes to bytecode decompiler * make ez-injection plugin console show all sys.out calls * add JEB decompiler optionally, requires them to add jeb library jar externally and disable update check ? * add decompile as zip for krakatau-bytecode, jd-gui and smali for CLI * add decompile all as zip for CLI * fix hook inject for EZ-Injection * fix classfile searcher * make the decompilers launch in a separate process" />
       <item value="Creates an instance of &lt;code&gt;Dimension&lt;/code&gt; with a width * of zero and a height of zero." />
       <item value="The preferred horizontal alignment of the component." />
       <item value="the number of columns to use to calculate * the preferred width; if columns is set to zero, the * preferred width will be whatever naturally results from * the component implementation" />
@@ -46,18 +51,13 @@
       <item value="returns the receiver object if it satisfies the given predicate, otherwise returns null" />
       <item value="nested" />
       <item value="嵌套类" />
-      <item value="Suppress" />
-      <item value="Use 'java' property to get Java class corresponding to this Kotlin class or cast this instance to Any if you really want to get the runtime Java class of this implementation of KClass." />
-      <item value="Specifies that this function should not be called directly without inlining" />
-      <item value="actual inline" />
-      <item value="actual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="374" />
         <entry key="TURKISH" value="1" />
-        <entry key="HINDI" value="3" />
+        <entry key="HINDI" value="4" />
       </map>
     </option>
   </component>
