@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="notches" />
+      <item value="LOWERED" />
       <item value="Whether or not the size has been requested yet." />
       <item value="horizontal Spring" />
       <item value="is not attached to a horizontal group" />
@@ -49,13 +51,11 @@
       <item value="checksum" />
       <item value="class that can be used to compute the CRC-32 of a data stream. * * &lt;p&gt; Passing a {@code null} argument to a method in this class will cause * a {@link NullPointerException} to be thrown." />
       <item value="intern" />
-      <item value="Returns a canonical representation for the string object. * &lt;p&gt; * A pool of strings, initially empty, is maintained privately by the * class {@code String}. * &lt;p&gt; * When the intern method is invoked, if the pool already contains a * string equal to this {@code String} object as determined by * the {@link #equals(Object)} method, then the string from the pool is * returned. Otherwise, this {@code String} object is added to the * pool and a reference to this {@code String} object is returned. * &lt;p&gt; * It follows that for any two strings {@code s} and {@code t}, * {@code s.intern() == t.intern()} is {@code true} * if and only if {@code s.equals(t)} is {@code true}. * &lt;p&gt; * All literal strings and string-valued constant expressions are * interned. String literals are defined in section 3.10.5 of the * &lt;cite&gt;The Java&amp;trade; Language Specification&lt;/cite&gt;. * * @return a string that has the same contents as this string, but is * guaranteed to be from a pool of unique strings." />
-      <item value="Returns" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="391" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
