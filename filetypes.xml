@@ -13,6 +13,7 @@
     <extensionMap>
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
       <mapping pattern="scripts_data.json" type="PLAIN_TEXT" />
+      <mapping pattern="【OK】" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
