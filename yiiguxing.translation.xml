@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclusive access" />
+      <item value="exclusive" />
+      <item value="Commonly, a lock provides exclusive access to a * shared resource:" />
+      <item value="A lock is a tool for controlling access to a shared resource by * multiple threads" />
+      <item value="may have * quite different properties, and may support multiple associated * {@link Condition} objects." />
+      <item value="structuring" />
+      <item value="statements" />
+      <item value="implementations provide more extensive locking * operations than can be obtained using {@code synchronized} methods * and statements. They allow more flexible structuring, may have * quite different properties, and may support multiple associated * {@link Condition} objects." />
+      <item value="Synchronizer providing all implementation mechanics" />
       <item value="Retain" />
       <item value="Ticket" />
       <item value="deregister" />
@@ -42,20 +51,11 @@
       <item value="Raised" />
       <item value="Raised bevel type" />
       <item value="Lowered bevel type." />
-      <item value="The plain style constant." />
-      <item value="Panel" />
-      <item value="Invariants" />
-      <item value="This method is often used in conjunction with the {@link * java.nio.ByteBuffer#compact compact} method when transferring data from * one place to another." />
-      <item value="The offset of the subarray to be used;" />
-      <item value="The offset of the subarray to be used; must be non-negative and * no larger than &lt;tt&gt;array.length&lt;/tt&gt;. The new buffer's position * will be set to this value." />
-      <item value="Wraps a byte array into a buffer." />
-      <item value="Sets the values for the calendar fields &lt;code&gt;YEAR&lt;/code&gt;, * &lt;code&gt;MONTH&lt;/code&gt;, and &lt;code&gt;DAY_OF_MONTH&lt;/code&gt;. * Previous values of other calendar fields are retained. If this is not desired, * call {@link #clear()} first." />
-      <item value="the value used to set the &lt;code&gt;YEAR&lt;/code&gt; calendar field." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="410" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
