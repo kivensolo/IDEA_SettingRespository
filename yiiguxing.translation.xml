@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retain" />
+      <item value="Ticket" />
       <item value="deregister" />
       <item value="Sets the the vertical alignment." />
       <item value="set Alignment X" />
@@ -49,13 +51,11 @@
       <item value="Wraps a byte array into a buffer." />
       <item value="Sets the values for the calendar fields &lt;code&gt;YEAR&lt;/code&gt;, * &lt;code&gt;MONTH&lt;/code&gt;, and &lt;code&gt;DAY_OF_MONTH&lt;/code&gt;. * Previous values of other calendar fields are retained. If this is not desired, * call {@link #clear()} first." />
       <item value="the value used to set the &lt;code&gt;YEAR&lt;/code&gt; calendar field." />
-      <item value="the value used to set the &lt;code&gt;MONTH&lt;/code&gt; calendar field" />
-      <item value="the value used to set the &lt;code&gt;DAY_OF_MONTH&lt;/code&gt; calendar field." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="401" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
