@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="检查文本是否全是空格" />
+      <item value="是否" />
+      <item value="wether" />
+      <item value="weather" />
       <item value="exclusive access" />
       <item value="exclusive" />
       <item value="Commonly, a lock provides exclusive access to a * shared resource:" />
@@ -47,15 +51,11 @@
       <item value="set Horizontal Alignment" />
       <item value="Glue" />
       <item value="Bevel" />
-      <item value="Lowered" />
-      <item value="Raised" />
-      <item value="Raised bevel type" />
-      <item value="Lowered bevel type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="414" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
