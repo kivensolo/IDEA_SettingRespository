@@ -20,4 +20,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="Mark Code Block" value="// &lt;editor-fold defaultstate=&quot;collapsed&quot; desc=&quot;$description$&quot;&gt;&#10;$SELECTION$&#10;// &lt;/editor-fold&gt;" description="代码块打标" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
