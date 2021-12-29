@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve all JAR paths including source JARs" />
       <item value="Animal" />
       <item value="检查文本是否全是空格" />
       <item value="是否" />
@@ -50,12 +51,11 @@
       <item value="The preferred horizontal alignment of the component." />
       <item value="the number of columns to use to calculate * the preferred width; if columns is set to zero, the * preferred width will be whatever naturally results from * the component implementation" />
       <item value="set Horizontal Alignment" />
-      <item value="Glue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="416" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
