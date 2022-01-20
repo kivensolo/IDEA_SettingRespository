@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recursive" />
+      <item value="递归" />
+      <item value="二分查找法" />
       <item value="Depth" />
       <item value="is Leaf" />
       <item value="Cyclic" />
@@ -48,14 +51,11 @@
       <item value="set Look And Feel" />
       <item value="tab Component" />
       <item value="Konloch" />
-      <item value="Water Wolf" />
-      <item value="WARRANTY" />
-      <item value=": * Finish dragging code * Finish right-click tab menu detection * make it use that global last used inside of export as jar * Add https://github.com/ptnkjke/Java-Bytecode-Editor visualize as a plugin * make zipfile not include the decode shit * add stackmapframes to bytecode decompiler * make ez-injection plugin console show all sys.out calls * add JEB decompiler optionally, requires them to add jeb library jar externally and disable update check ? * add decompile as zip for krakatau-bytecode, jd-gui and smali for CLI * add decompile all as zip for CLI * fix hook inject for EZ-Injection * fix classfile searcher * make the decompilers launch in a separate process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="422" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
