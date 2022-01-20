@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Depth" />
+      <item value="is Leaf" />
       <item value="Cyclic" />
       <item value="the system-dependent filename" />
       <item value="retrieve all JAR paths including source JARs" />
@@ -49,13 +51,11 @@
       <item value="Water Wolf" />
       <item value="WARRANTY" />
       <item value=": * Finish dragging code * Finish right-click tab menu detection * make it use that global last used inside of export as jar * Add https://github.com/ptnkjke/Java-Bytecode-Editor visualize as a plugin * make zipfile not include the decode shit * add stackmapframes to bytecode decompiler * make ez-injection plugin console show all sys.out calls * add JEB decompiler optionally, requires them to add jeb library jar externally and disable update check ? * add decompile as zip for krakatau-bytecode, jd-gui and smali for CLI * add decompile all as zip for CLI * fix hook inject for EZ-Injection * fix classfile searcher * make the decompilers launch in a separate process" />
-      <item value="Creates an instance of &lt;code&gt;Dimension&lt;/code&gt; with a width * of zero and a height of zero." />
-      <item value="The preferred horizontal alignment of the component." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="419" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
