@@ -1,9 +1,37 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 2.7 (freegodPy) interpreter library">
-      <CLASSES />
+    <library name="Python 3.7 (freegodPy3.0) interpreter library">
+      <CLASSES>
+        <root url="file://D:/Program Files/Python/Python37/DLLs" />
+        <root url="file://D:/Program Files/Python/Python37/Lib" />
+        <root url="file://D:/Program Files/Python/Python37" />
+        <root url="file://E:/work/freeGod/freegodPy3.0/venv" />
+        <root url="file://E:/work/freeGod/freegodPy3.0/venv/Lib/site-packages" />
+        <root url="jar://E:/work/freeGod/freegodPy3.0/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://E:/work/freeGod/freegodPy3.0/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/577488431" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="file://D:/Program Files/Python/Python37/DLLs" />
+        <root url="file://D:/Program Files/Python/Python37/Lib" />
+        <root url="file://D:/Program Files/Python/Python37" />
+        <root url="file://E:/work/freeGod/freegodPy3.0/venv" />
+        <root url="file://E:/work/freeGod/freegodPy3.0/venv/Lib/site-packages" />
+        <root url="jar://E:/work/freeGod/freegodPy3.0/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://E:/work/freeGod/freegodPy3.0/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/577488431" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
     </library>
   </component>
 </application>
