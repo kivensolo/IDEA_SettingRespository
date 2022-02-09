@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prepares the {@code request} to be executed at some point in the future." />
       <item value="recursive" />
       <item value="递归" />
       <item value="二分查找法" />
@@ -50,12 +51,11 @@
       <item value="disabled Are Navigable" />
       <item value="set Look And Feel" />
       <item value="tab Component" />
-      <item value="Konloch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="423" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
