@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Coroutine Unintercepted" />
+      <item value="* Copyright 2010-2018 JetBrains s.r.o. and Kotlin Programming Language contributors. * Use of this source code is governed by the Apache 2.0 license that can be found in the license/LICENSE.txt file. */" />
+      <item value="governed" />
+      <item value="The context of the coroutine that corresponds to this continuation." />
+      <item value="Resumes the execution of the corresponding coroutine passing a successful or failed [result] as the * return value of the last suspension point." />
+      <item value="Interface representing a continuation after a suspension point that returns a value of type `T`" />
+      <item value="Continuation" />
+      <item value="intercepted" />
+      <item value="Unintercepted" />
+      <item value="immediately executes coroutine until its first suspension point _in the current thread_" />
+      <item value="atomically (in a non-cancellable way) schedules coroutine for execution according to its context;" />
+      <item value="atomically (in a non-cancellable way) schedules coroutine for execution according to its conte" />
+      <item value="starts coroutine lazily, only when it is needed" />
+      <item value="immediately schedules coroutine for execution according to its context" />
+      <item value="The summary of coroutine start options is:" />
+      <item value="Standalone" />
+      <item value="Standalone Coroutine" />
       <item value="backend" />
       <item value="Async Call" />
       <item value="signalled Callback" />
@@ -34,28 +51,11 @@
       <item value="deregister" />
       <item value="Sets the the vertical alignment." />
       <item value="set Alignment X" />
-      <item value="Not used by this class." />
-      <item value="fernflower" />
-      <item value="Spinner" />
-      <item value="font Spinner" />
-      <item value="Split Pane" />
-      <item value="notches" />
-      <item value="LOWERED" />
-      <item value="Whether or not the size has been requested yet." />
-      <item value="horizontal Spring" />
-      <item value="is not attached to a horizontal group" />
-      <item value="* Causes subcomponents of this &lt;code&gt;JInternalFrame&lt;/code&gt; * to be laid out at their preferred size. Internal frames that are * iconized or maximized are first restored and then packed. If the * internal frame is unable to be restored its state is not changed * and will not be packed." />
-      <item value="set Resize Weight" />
-      <item value="set Preferred Size" />
-      <item value="procyon" />
-      <item value="Misc Utils" />
-      <item value="obfuscator Group" />
-      <item value="BCV is awesome, blocking System.exit(" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="447" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
