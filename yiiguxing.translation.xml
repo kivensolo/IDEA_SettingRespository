@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Completable Future" />
+      <item value="Only added when CompletableFuture is available (Java 8+ / Android API 24+)." />
+      <item value="skip Past" />
+      <item value="unmodifiable List" />
       <item value="Creates {@link CallAdapter} instances based on the return type of {@linkplain * Retrofit#create(Class) the service interface} methods." />
       <item value="Returns a call adapter for interface methods that return {@code returnType}, or null if it * cannot be handled by this factory." />
       <item value="for" />
@@ -47,15 +51,11 @@
       <item value="Animal" />
       <item value="检查文本是否全是空格" />
       <item value="是否" />
-      <item value="wether" />
-      <item value="weather" />
-      <item value="exclusive access" />
-      <item value="exclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="465" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
