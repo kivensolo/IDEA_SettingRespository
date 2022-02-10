@@ -1,10 +1,8 @@
 <application>
   <component name="UISettings">
-    <option name="MAX_CLIPBOARD_CONTENTS" value="10" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>
 </application>
