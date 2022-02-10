@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Annotation Present" />
+      <item value="get Parameter Upper Bound" />
+      <item value="has Unresolvable Type" />
       <item value="Immediately closes the socket connection if it's currently held" />
       <item value="Our Continuation" />
       <item value="Unconfined" />
@@ -48,14 +51,11 @@
       <item value="structuring" />
       <item value="statements" />
       <item value="implementations provide more extensive locking * operations than can be obtained using {@code synchronized} methods * and statements. They allow more flexible structuring, may have * quite different properties, and may support multiple associated * {@link Condition} objects." />
-      <item value="Synchronizer providing all implementation mechanics" />
-      <item value="Retain" />
-      <item value="Ticket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="450" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="453" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
