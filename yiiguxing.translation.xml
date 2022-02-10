@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates {@link CallAdapter} instances based on the return type of {@linkplain * Retrofit#create(Class) the service interface} methods." />
+      <item value="Returns a call adapter for interface methods that return {@code returnType}, or null if it * cannot be handled by this factory." />
+      <item value="for" />
+      <item value="interface" />
+      <item value="Could not locate call adapter for" />
+      <item value="Tried" />
       <item value="is Annotation Present" />
       <item value="get Parameter Upper Bound" />
       <item value="has Unresolvable Type" />
@@ -45,17 +51,11 @@
       <item value="weather" />
       <item value="exclusive access" />
       <item value="exclusive" />
-      <item value="Commonly, a lock provides exclusive access to a * shared resource:" />
-      <item value="A lock is a tool for controlling access to a shared resource by * multiple threads" />
-      <item value="may have * quite different properties, and may support multiple associated * {@link Condition} objects." />
-      <item value="structuring" />
-      <item value="statements" />
-      <item value="implementations provide more extensive locking * operations than can be obtained using {@code synchronized} methods * and statements. They allow more flexible structuring, may have * quite different properties, and may support multiple associated * {@link Condition} objects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="461" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
