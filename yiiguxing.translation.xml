@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Kotlin Suspend Function" />
+      <item value="Parameterized Type Impl" />
+      <item value="Unwrap the actual body type from Response&lt;T&gt;." />
       <item value="Completable Future" />
       <item value="Only added when CompletableFuture is available (Java 8+ / Android API 24+)." />
       <item value="skip Past" />
@@ -48,14 +51,11 @@
       <item value="Cyclic" />
       <item value="the system-dependent filename" />
       <item value="retrieve all JAR paths including source JARs" />
-      <item value="Animal" />
-      <item value="检查文本是否全是空格" />
-      <item value="是否" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="468" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
