@@ -8,12 +8,14 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="1" />
   </component>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
       <mapping pattern="scripts_data.json" type="PLAIN_TEXT" />
+      <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
       <mapping pattern="【OK】" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
