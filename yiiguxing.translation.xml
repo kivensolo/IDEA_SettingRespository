@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Our Continuation" />
+      <item value="Unconfined" />
       <item value="create Coroutine Unintercepted" />
       <item value="* Copyright 2010-2018 JetBrains s.r.o. and Kotlin Programming Language contributors. * Use of this source code is governed by the Apache 2.0 license that can be found in the license/LICENSE.txt file. */" />
       <item value="governed" />
@@ -49,13 +51,11 @@
       <item value="Retain" />
       <item value="Ticket" />
       <item value="deregister" />
-      <item value="Sets the the vertical alignment." />
-      <item value="set Alignment X" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="449" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
