@@ -261,6 +261,13 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="d9accc" />
+        <option name="EFFECT_COLOR" value="d9accc" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cc7832" />
@@ -486,8 +493,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8c8c8c" />
-        <option name="BACKGROUND" value="3a3a3a" />
+        <option name="FOREGROUND" value="b6b6ff" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
