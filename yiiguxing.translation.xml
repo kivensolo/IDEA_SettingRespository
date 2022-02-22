@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Animal" />
       <item value="introduced by" />
       <item value="if and only if this member was introduced by the compiler." />
       <item value="synthetic" />
@@ -53,12 +54,11 @@
       <item value="atomically (in a non-cancellable way) schedules coroutine for execution according to its conte" />
       <item value="starts coroutine lazily, only when it is needed" />
       <item value="immediately schedules coroutine for execution according to its context" />
-      <item value="The summary of coroutine start options is:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="486" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="487" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
