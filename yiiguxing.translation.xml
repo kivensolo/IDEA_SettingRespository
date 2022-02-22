@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="introduced by" />
+      <item value="if and only if this member was introduced by the compiler." />
+      <item value="synthetic" />
+      <item value="Java Language Specification" />
       <item value="Field" />
       <item value="A {@code Field} provides information about, and dynamic access to, a single field of a class or an interface. The reflected field may be a class (static) field or an instance field." />
       <item value="individual" />
@@ -50,15 +54,11 @@
       <item value="starts coroutine lazily, only when it is needed" />
       <item value="immediately schedules coroutine for execution according to its context" />
       <item value="The summary of coroutine start options is:" />
-      <item value="Standalone" />
-      <item value="Standalone Coroutine" />
-      <item value="backend" />
-      <item value="Async Call" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="482" />
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="486" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
