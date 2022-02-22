@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="2703" />
+    <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="individual" />
+      <item value="individual deprecation warnings" />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0" />
+      <item value="不相容" />
+      <item value="incompatible" />
+      <item value="Synthetic" />
       <item value="Default Constructor Marker" />
       <item value="synthetic method" />
       <item value="Intrinsics" />
@@ -44,25 +54,18 @@
       <item value="Async Call" />
       <item value="signalled Callback" />
       <item value="redact" />
-      <item value="redacted Url" />
-      <item value="Prepares the {@code request} to be executed at some point in the future." />
-      <item value="recursive" />
-      <item value="递归" />
-      <item value="二分查找法" />
-      <item value="Depth" />
-      <item value="is Leaf" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="471" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="479" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644914748218" />
+    <option name="lastTrimTime" value="1645492016812" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
