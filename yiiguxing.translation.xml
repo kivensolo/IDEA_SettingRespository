@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="POST-REVPROP-CHANGE HOOK" />
       <item value="Rotating File Handler" />
       <item value="handlers" />
       <item value="critical" />
@@ -53,12 +54,11 @@
       <item value="get Parameter Upper Bound" />
       <item value="has Unresolvable Type" />
       <item value="Immediately closes the socket connection if it's currently held" />
-      <item value="Our Continuation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="502" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
