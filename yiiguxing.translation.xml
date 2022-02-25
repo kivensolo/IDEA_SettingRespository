@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="subprocess_" />
+      <item value="命中" />
+      <item value="hit" />
       <item value="Exist" />
       <item value="Exists" />
       <item value="aobama" />
@@ -51,14 +54,11 @@
       <item value="governed" />
       <item value="The context of the coroutine that corresponds to this continuation." />
       <item value="Resumes the execution of the corresponding coroutine passing a successful or failed [result] as the * return value of the last suspension point." />
-      <item value="Interface representing a continuation after a suspension point that returns a value of type `T`" />
-      <item value="Continuation" />
-      <item value="intercepted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="492" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="496" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
