@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="windows detection, covers cpython and ironpython" />
       <item value="pexpect" />
       <item value="Prefix" />
       <item value="subprocess_" />
@@ -53,12 +54,11 @@
       <item value="Unconfined" />
       <item value="create Coroutine Unintercepted" />
       <item value="* Copyright 2010-2018 JetBrains s.r.o. and Kotlin Programming Language contributors. * Use of this source code is governed by the Apache 2.0 license that can be found in the license/LICENSE.txt file. */" />
-      <item value="governed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="497" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="498" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
