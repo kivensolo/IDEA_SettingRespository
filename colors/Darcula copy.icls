@@ -25888,7 +25888,7 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c678dd" />
+        <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
@@ -25904,6 +25904,12 @@
     <option name="PY.METHOD_CALL">
       <value>
         <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
+    <option name="PY.NESTED_FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="e6c495" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.NUMBER">
