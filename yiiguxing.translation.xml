@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Exist" />
+      <item value="Exists" />
+      <item value="aobama" />
+      <item value="super() argument 1 must be type, not str" />
+      <item value="Human" />
       <item value="raise" />
       <item value="Animal" />
       <item value="introduced by" />
@@ -49,16 +54,11 @@
       <item value="Interface representing a continuation after a suspension point that returns a value of type `T`" />
       <item value="Continuation" />
       <item value="intercepted" />
-      <item value="Unintercepted" />
-      <item value="immediately executes coroutine until its first suspension point _in the current thread_" />
-      <item value="atomically (in a non-cancellable way) schedules coroutine for execution according to its context;" />
-      <item value="atomically (in a non-cancellable way) schedules coroutine for execution according to its conte" />
-      <item value="starts coroutine lazily, only when it is needed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="492" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
