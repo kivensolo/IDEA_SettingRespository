@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Darwin" />
       <item value="rotating File Handler" />
       <item value="blond" />
       <item value="POST-REVPROP-CHANGE HOOK" />
@@ -53,12 +54,11 @@
       <item value="Could not locate call adapter for" />
       <item value="Tried" />
       <item value="is Annotation Present" />
-      <item value="get Parameter Upper Bound" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="505" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
