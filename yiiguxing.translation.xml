@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Deploy" />
+      <item value="Deploy install" />
       <item value="struct" />
       <item value="Too broad" />
       <item value="The Regents of the University of California." />
@@ -52,20 +54,18 @@
       <item value="unmodifiable List" />
       <item value="Creates {@link CallAdapter} instances based on the return type of {@linkplain * Retrofit#create(Class) the service interface} methods." />
       <item value="Returns a call adapter for interface methods that return {@code returnType}, or null if it * cannot be handled by this factory." />
-      <item value="for" />
-      <item value="interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="510" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645492016812" />
+    <option name="lastTrimTime" value="1645930415318" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
