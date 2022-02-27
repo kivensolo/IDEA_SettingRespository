@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="revisions" />
       <item value="Deploy" />
       <item value="Deploy install" />
       <item value="struct" />
@@ -53,12 +54,11 @@
       <item value="skip Past" />
       <item value="unmodifiable List" />
       <item value="Creates {@link CallAdapter} instances based on the return type of {@linkplain * Retrofit#create(Class) the service interface} methods." />
-      <item value="Returns a call adapter for interface methods that return {@code returnType}, or null if it * cannot be handled by this factory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="511" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>

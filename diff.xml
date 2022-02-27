@@ -41,7 +41,7 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.8914956" />
+          <option name="SPLITTER_PROPORTION" value="1.0" />
         </PlaceSettings>
       </entry>
     </option>
@@ -64,9 +64,6 @@
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings />
       </entry>
     </option>
   </component>
