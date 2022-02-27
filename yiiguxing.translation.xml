@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="_is remote path exist" />
+      <item value="object" />
+      <item value="None Type" />
+      <item value="non-iterable" />
+      <item value="unpack" />
       <item value="revisions" />
       <item value="Deploy" />
       <item value="Deploy install" />
@@ -49,16 +54,11 @@
       <item value="is Kotlin Suspend Function" />
       <item value="Parameterized Type Impl" />
       <item value="Unwrap the actual body type from Response&lt;T&gt;." />
-      <item value="Completable Future" />
-      <item value="Only added when CompletableFuture is available (Java 8+ / Android API 24+)." />
-      <item value="skip Past" />
-      <item value="unmodifiable List" />
-      <item value="Creates {@link CallAdapter} instances based on the return type of {@linkplain * Retrofit#create(Class) the service interface} methods." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="511" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="516" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
