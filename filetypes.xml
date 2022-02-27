@@ -16,6 +16,8 @@
       <mapping pattern="scripts_data.json" type="PLAIN_TEXT" />
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
       <mapping pattern="【OK】" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="err" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
