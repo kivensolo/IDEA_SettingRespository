@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="frontend" />
       <item value="_is remote path exist" />
       <item value="object" />
       <item value="None Type" />
@@ -53,12 +54,11 @@
       <item value="Intrinsics" />
       <item value="is Kotlin Suspend Function" />
       <item value="Parameterized Type Impl" />
-      <item value="Unwrap the actual body type from Response&lt;T&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="517" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
