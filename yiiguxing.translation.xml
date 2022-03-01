@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="extend" />
       <item value="Is sync over period" />
       <item value="frontend" />
       <item value="_is remote path exist" />
@@ -53,12 +54,11 @@
       <item value="Default Constructor Marker" />
       <item value="synthetic method" />
       <item value="Intrinsics" />
-      <item value="is Kotlin Suspend Function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="519" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
