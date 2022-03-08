@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="构建产物" />
+      <item value="archive" />
       <item value="Open" />
       <item value="获取提交最新版本的作者邮箱" />
       <item value="batch" />
@@ -52,13 +54,11 @@
       <item value="individual" />
       <item value="individual deprecation warnings" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0" />
-      <item value="不相容" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="527" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
