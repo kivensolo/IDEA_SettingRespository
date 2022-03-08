@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="danger" />
       <item value="artifacts" />
       <item value="构建产物" />
       <item value="archive" />
@@ -53,12 +54,11 @@
       <item value="Field" />
       <item value="A {@code Field} provides information about, and dynamic access to, a single field of a class or an interface. The reflected field may be a class (static) field or an instance field." />
       <item value="individual" />
-      <item value="individual deprecation warnings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="528" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="529" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
