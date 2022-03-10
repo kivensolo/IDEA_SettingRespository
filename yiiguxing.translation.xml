@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="SECRET KEY" />
+      <item value="You-will-never-guess" />
       <item value="is the callable object to be invoked by the run() method. Defaults to None, meaning nothing is called." />
       <item value="有效" />
       <item value="开始检查具有构建记录的项目" />
@@ -52,13 +54,11 @@
       <item value="Human" />
       <item value="raise" />
       <item value="Animal" />
-      <item value="introduced by" />
-      <item value="if and only if this member was introduced by the compiler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="537" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
