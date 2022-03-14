@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="central" />
+      <item value="centralwidget" />
       <item value="list indices must be integers or slices, not str" />
       <item value="SECRET KEY" />
       <item value="You-will-never-guess" />
@@ -52,13 +54,11 @@
       <item value="Exists" />
       <item value="aobama" />
       <item value="super() argument 1 must be type, not str" />
-      <item value="Human" />
-      <item value="raise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="539" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
