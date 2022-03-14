@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="list indices must be integers or slices, not str" />
       <item value="SECRET KEY" />
       <item value="You-will-never-guess" />
       <item value="is the callable object to be invoked by the run() method. Defaults to None, meaning nothing is called." />
@@ -53,19 +54,18 @@
       <item value="super() argument 1 must be type, not str" />
       <item value="Human" />
       <item value="raise" />
-      <item value="Animal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="538" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646619795546" />
+    <option name="lastTrimTime" value="1647246970205" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
