@@ -8,9 +8,9 @@
   </tool>
   <tool name="PyUIC" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="E:\GitHubProjects\PythonDemo\venv\Scripts\pyuic5.exe" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="E:/GitHubProjects/PythonDemo/venv/Scripts" />
+      <option name="COMMAND" value="E:\GitHubProjects\PythonDemo\venv\Scripts\python.exe" />
+      <option name="PARAMETERS" value="-m PyQt5.uic.pyuic $FileName$ -o $FileNameWithoutExtension$.py" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
 </toolSet>
