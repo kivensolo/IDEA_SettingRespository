@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="retranslate Ui" />
       <item value="panel" />
       <item value="Brush" />
       <item value="set Brush" />
@@ -53,12 +54,11 @@
       <item value="Rotating File Handler" />
       <item value="handlers" />
       <item value="critical" />
-      <item value="windows detection, covers cpython and ironpython" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="549" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
