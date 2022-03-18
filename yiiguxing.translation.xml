@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="thing to grab the splitter" />
       <item value="retranslate Ui" />
       <item value="panel" />
       <item value="Brush" />
@@ -53,12 +54,11 @@
       <item value="POST-REVPROP-CHANGE HOOK" />
       <item value="Rotating File Handler" />
       <item value="handlers" />
-      <item value="critical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="550" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
