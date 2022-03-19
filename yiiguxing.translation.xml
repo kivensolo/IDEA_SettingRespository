@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="real signature unknown" />
+      <item value="search shall start not before the user completed typing" />
       <item value="thing to grab the splitter" />
       <item value="retranslate Ui" />
       <item value="panel" />
@@ -52,13 +54,11 @@
       <item value="rotating File Handler" />
       <item value="blond" />
       <item value="POST-REVPROP-CHANGE HOOK" />
-      <item value="Rotating File Handler" />
-      <item value="handlers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="553" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
