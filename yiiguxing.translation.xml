@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="set Flat" />
       <item value="real signature unknown" />
       <item value="search shall start not before the user completed typing" />
       <item value="thing to grab the splitter" />
@@ -53,19 +54,18 @@
       <item value="Darwin" />
       <item value="rotating File Handler" />
       <item value="blond" />
-      <item value="POST-REVPROP-CHANGE HOOK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="554" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647246970205" />
+    <option name="lastTrimTime" value="1647696276917" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
