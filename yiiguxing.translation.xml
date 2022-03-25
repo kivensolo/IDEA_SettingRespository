@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Emit a record. If a formatter is specified, it is used to format the record. The record is then written to the stream with a trailing newline. If exception information is present, it is formatted using traceback.print_exception and appended to the stream. If the stream has an 'encoding' attribute, it is used to determine how to do the output to the stream." />
       <item value="classmethod(function) -&gt; method Convert a function to be a class method. A class method receives the class as implicit first argument, just like an instance method receives the instance. To declare a class method, use this idiom: class C: @classmethod def f(cls, arg1, arg2, ...): ... It can be called either on the class (e.g. C.f()) or on an instance (e.g. C().f()). The instance is ignored except for its class. If a class method is called for a derived class, the derived class object is passed as the implied first argument. Class methods are different than C++ or Java static methods. If you want those, see the staticmethod builtin." />
       <item value="NOTSET" />
       <item value="critical" />
@@ -54,12 +55,11 @@
       <item value="extend" />
       <item value="Is sync over period" />
       <item value="frontend" />
-      <item value="_is remote path exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="569" />
         <entry key="ESTONIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
