@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Base class for handlers that rotate log files at a certain point. Not meant to be instantiated directly. Instead, use RotatingFileHandler or TimedRotatingFileHandler." />
+      <item value="Handler for logging to a set of files, which switches from one file to the next when the current file reaches a certain size." />
       <item value="communicate" />
       <item value="This is a decorator applied to Python methods of a QObject that marks them as Qt slots. The non-keyword arguments are the types of the slot arguments and each may be a Python type object or a string specifying a C++ type. name is the name of the slot and defaults to the name of the method. result is type of the value returned by the slot." />
       <item value="forward" />
@@ -52,13 +54,11 @@
       <item value="Deploy" />
       <item value="Deploy install" />
       <item value="struct" />
-      <item value="Too broad" />
-      <item value="The Regents of the University of California." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="557" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="559" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
