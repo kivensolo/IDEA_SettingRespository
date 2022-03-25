@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Generate rolling logs" />
+      <item value="CRITICAL" />
+      <item value="Generate rolling logs, split logs based on file size" />
+      <item value="生成滚动日志，基于文件大小切分日志" />
       <item value="Base class for handlers that rotate log files at a certain point. Not meant to be instantiated directly. Instead, use RotatingFileHandler or TimedRotatingFileHandler." />
       <item value="Handler for logging to a set of files, which switches from one file to the next when the current file reaches a certain size." />
       <item value="communicate" />
@@ -50,15 +55,11 @@
       <item value="None Type" />
       <item value="non-iterable" />
       <item value="unpack" />
-      <item value="revisions" />
-      <item value="Deploy" />
-      <item value="Deploy install" />
-      <item value="struct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="563" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
       </map>
