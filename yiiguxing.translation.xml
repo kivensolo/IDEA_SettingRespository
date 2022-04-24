@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Return the highest index in S where substring sub is found, such that sub is contained within S[start:end]. Optional arguments start and end are interpreted as in slice notation." />
       <item value="value tuple" />
       <item value="tuple" />
       <item value="native Qt signal is not callable" />
@@ -54,12 +55,11 @@
       <item value="archive" />
       <item value="Open" />
       <item value="获取提交最新版本的作者邮箱" />
-      <item value="batch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="574" />
         <entry key="ESTONIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648867609090" />
+    <option name="lastTrimTime" value="1650769143399" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
