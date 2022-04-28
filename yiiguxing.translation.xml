@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a {@code Class} object that identifies the declared type for the field represented by this {@code Field} object. @return a {@code Class} object identifying the declared type of the field represented by this object" />
+      <item value="is Assignable From" />
       <item value="Return the highest index in S where substring sub is found, such that sub is contained within S[start:end]. Optional arguments start and end are interpreted as in slice notation." />
       <item value="value tuple" />
       <item value="tuple" />
@@ -53,13 +55,11 @@
       <item value="artifacts" />
       <item value="构建产物" />
       <item value="archive" />
-      <item value="Open" />
-      <item value="获取提交最新版本的作者邮箱" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="574" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="576" />
         <entry key="ESTONIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
