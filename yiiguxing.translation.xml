@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can not set int field com.reflect.RelectTarget.num to java.lang.Class" />
       <item value="get Actual Type Arguments" />
       <item value="Parameterized Type" />
       <item value="Returns a {@code Class} object that identifies the declared type for the field represented by this {@code Field} object. @return a {@code Class} object identifying the declared type of the field represented by this object" />
@@ -54,12 +55,11 @@
       <item value="具有构建记录的项目的个数是20" />
       <item value="具有构建记录的项目" />
       <item value="danger" />
-      <item value="artifacts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="CHINESE" value="373" />
+        <entry key="ENGLISH" value="580" />
         <entry key="ESTONIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650769143399" />
+    <option name="lastTrimTime" value="1657538468218" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
