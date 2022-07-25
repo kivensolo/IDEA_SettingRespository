@@ -12,6 +12,7 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="PlantformTest.py" type="AUTO_DETECTED" />
+      <mapping pattern="TreeItemType" type="AUTO_DETECTED" />
       <mapping pattern="todo" type="AUTO_DETECTED" />
       <mapping pattern="scripts_data.json" type="PLAIN_TEXT" />
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
