@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Could not locate call adapter" />
+      <item value="Converter" />
       <item value="Canvas width minus one" />
       <item value="Can not set int field com.reflect.RelectTarget.num to java.lang.Class" />
       <item value="get Actual Type Arguments" />
@@ -53,13 +55,11 @@
       <item value="is the callable object to be invoked by the run() method. Defaults to None, meaning nothing is called." />
       <item value="有效" />
       <item value="开始检查具有构建记录的项目" />
-      <item value="具有构建记录的项目的个数是20" />
-      <item value="具有构建记录的项目" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="583" />
         <entry key="ESTONIAN" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
