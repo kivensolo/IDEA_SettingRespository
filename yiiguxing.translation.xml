@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="常量池数据条目结构" />
       <item value="Field" />
       <item value="A class file consists of a single ClassFile structure:" />
       <item value="faild" />
@@ -54,12 +55,11 @@
       <item value="panel" />
       <item value="Brush" />
       <item value="set Brush" />
-      <item value="Ellipse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="595" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="596" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
