@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unset" />
       <item value="Manger" />
       <item value="UNIQUE constraint failed" />
       <item value="请先输入ip地址" />
@@ -54,12 +55,11 @@
       <item value="set Geometry" />
       <item value="triggered" />
       <item value="central" />
-      <item value="centralwidget" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="386" />
-        <entry key="ENGLISH" value="588" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="589" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
