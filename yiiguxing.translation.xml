@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="actual" />
       <item value="alternate Names" />
       <item value="常量池数据条目结构" />
       <item value="Field" />
@@ -54,7 +55,6 @@
       <item value="thing to grab the splitter" />
       <item value="retranslate Ui" />
       <item value="panel" />
-      <item value="Brush" />
     </histories>
     <option name="languageScores">
       <map>
@@ -73,6 +73,7 @@
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="translator" value="YOUDAO" />
     <option name="ttsSource" value="TRANSLATION" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
