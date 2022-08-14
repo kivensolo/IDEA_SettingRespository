@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="当前类的全限定名，值为常量池中的索引值" />
       <item value="actual" />
       <item value="alternate Names" />
       <item value="常量池数据条目结构" />
@@ -54,7 +55,6 @@
       <item value="search shall start not before the user completed typing" />
       <item value="thing to grab the splitter" />
       <item value="retranslate Ui" />
-      <item value="panel" />
     </histories>
     <option name="languageScores">
       <map>
