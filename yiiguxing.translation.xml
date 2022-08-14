@@ -72,6 +72,8 @@
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
     <option name="translator" value="YOUDAO" />
     <option name="ttsSource" value="TRANSLATION" />
