@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A class file consists of a single ClassFile structure" />
       <item value="lenient Format" />
       <item value="Buffer Underflow Exception" />
       <item value="Reads a single byte from this stream and returns it as an integer in the range from 0 to 255" />
@@ -54,12 +55,11 @@
       <item value="Base class for handlers that rotate log files at a certain point. Not meant to be instantiated directly. Instead, use RotatingFileHandler or TimedRotatingFileHandler." />
       <item value="Handler for logging to a set of files, which switches from one file to the next when the current file reaches a certain size." />
       <item value="communicate" />
-      <item value="This is a decorator applied to Python methods of a QObject that marks them as Qt slots. The non-keyword arguments are the types of the slot arguments and each may be a Python type object or a string specifying a C++ type. name is the name of the slot and defaults to the name of the method. result is type of the value returned by the slot." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="603" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="604" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
