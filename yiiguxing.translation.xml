@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lenient Format" />
       <item value="Buffer Underflow Exception" />
       <item value="Reads a single byte from this stream and returns it as an integer in the range from 0 to 255" />
       <item value="Band" />
@@ -54,12 +55,11 @@
       <item value="Handler for logging to a set of files, which switches from one file to the next when the current file reaches a certain size." />
       <item value="communicate" />
       <item value="This is a decorator applied to Python methods of a QObject that marks them as Qt slots. The non-keyword arguments are the types of the slot arguments and each may be a Python type object or a string specifying a C++ type. name is the name of the slot and defaults to the name of the method. result is type of the value returned by the slot." />
-      <item value="forward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="602" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="603" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660205350342" />
+    <option name="lastTrimTime" value="1662694125152" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
