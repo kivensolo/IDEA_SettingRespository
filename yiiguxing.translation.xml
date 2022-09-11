@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Aka" />
       <item value="May be either a class type or an interface type" />
       <item value="这不是一个Class文件" />
       <item value="魔数解析器" />
@@ -54,12 +55,11 @@
       <item value="Generate rolling logs" />
       <item value="CRITICAL" />
       <item value="Generate rolling logs, split logs based on file size" />
-      <item value="生成滚动日志，基于文件大小切分日志" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="607" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="608" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
