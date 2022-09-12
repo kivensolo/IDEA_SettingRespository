@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="找到索引值" />
       <item value="An interface is distinguished by this flag being set." />
       <item value="Aka" />
       <item value="May be either a class type or an interface type" />
@@ -54,12 +55,11 @@
       <item value="critical" />
       <item value="self.critical" />
       <item value="Generate rolling logs" />
-      <item value="CRITICAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="610" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="611" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
