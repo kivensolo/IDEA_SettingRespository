@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Same as" />
+      <item value="Same as field_info" />
       <item value="找到索引值" />
       <item value="An interface is distinguished by this flag being set." />
       <item value="Aka" />
@@ -53,13 +55,11 @@
       <item value="classmethod(function) -&gt; method Convert a function to be a class method. A class method receives the class as implicit first argument, just like an instance method receives the instance. To declare a class method, use this idiom: class C: @classmethod def f(cls, arg1, arg2, ...): ... It can be called either on the class (e.g. C.f()) or on an instance (e.g. C().f()). The instance is ignored except for its class. If a class method is called for a derived class, the derived class object is passed as the implied first argument. Class methods are different than C++ or Java static methods. If you want those, see the staticmethod builtin." />
       <item value="NOTSET" />
       <item value="critical" />
-      <item value="self.critical" />
-      <item value="Generate rolling logs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="613" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662694125152" />
+    <option name="lastTrimTime" value="1663137090542" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
