@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Phantom" />
       <item value="Initial heap size set to a larger value than the maximum heap size" />
       <item value="require" />
       <item value="获取16进制对应的访问标志字符串表示" />
@@ -54,12 +55,11 @@
       <item value="native Qt signal is not callable" />
       <item value="set Auto Raise" />
       <item value="implementation of append_line omitted" />
-      <item value="Emit a record. If a formatter is specified, it is used to format the record. The record is then written to the stream with a trailing newline. If exception information is present, it is formatted using traceback.print_exception and appended to the stream. If the stream has an 'encoding' attribute, it is used to determine how to do the output to the stream." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="415" />
-        <entry key="ENGLISH" value="616" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="618" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
