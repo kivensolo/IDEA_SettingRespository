@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The description is for human consumption. It may be logged and displayed by tooling." />
+      <item value="Builder-style object that allows build cache service factories to describe the cache service." />
+      <item value="Implementations should also provide a description via the given describer." />
+      <item value="Implementations should also provide a description via the given describer" />
+      <item value="Returns whether a given build can store outputs in the build cache." />
+      <item value="Configuration object for a build cache." />
+      <item value="register Build Cache Service" />
+      <item value="registerBuildCacheService(CustomBuildCache, CustomBuildCacheFactory)" />
+      <item value="Factory interface to be provided by build cache service implementations." />
       <item value="introduced In" />
       <item value="CACHE VERSION MAPPING" />
       <item value="Default File Access Time Journal" />
@@ -46,20 +55,11 @@
       <item value="set Stretch Factor" />
       <item value="set Alignment" />
       <item value="Could not locate call adapter" />
-      <item value="Converter" />
-      <item value="Canvas width minus one" />
-      <item value="Can not set int field com.reflect.RelectTarget.num to java.lang.Class" />
-      <item value="get Actual Type Arguments" />
-      <item value="Parameterized Type" />
-      <item value="Returns a {@code Class} object that identifies the declared type for the field represented by this {@code Field} object. @return a {@code Class} object identifying the declared type of the field represented by this object" />
-      <item value="is Assignable From" />
-      <item value="Return the highest index in S where substring sub is found, such that sub is contained within S[start:end]. Optional arguments start and end are interpreted as in slice notation." />
-      <item value="value tuple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="CHINESE" value="430" />
+        <entry key="ENGLISH" value="631" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
