@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Default File Access Time Journal" />
       <item value="强引用" />
       <item value="Phantom" />
       <item value="Initial heap size set to a larger value than the maximum heap size" />
@@ -54,12 +55,11 @@
       <item value="value tuple" />
       <item value="tuple" />
       <item value="native Qt signal is not callable" />
-      <item value="set Auto Raise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="620" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663662385482" />
+    <option name="lastTrimTime" value="1664520706875" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
