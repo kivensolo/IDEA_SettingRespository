@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="introduced In" />
+      <item value="CACHE VERSION MAPPING" />
       <item value="Default File Access Time Journal" />
       <item value="强引用" />
       <item value="Phantom" />
@@ -53,13 +55,11 @@
       <item value="is Assignable From" />
       <item value="Return the highest index in S where substring sub is found, such that sub is contained within S[start:end]. Optional arguments start and end are interpreted as in slice notation." />
       <item value="value tuple" />
-      <item value="tuple" />
-      <item value="native Qt signal is not callable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="620" />
+        <entry key="CHINESE" value="421" />
+        <entry key="ENGLISH" value="622" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
