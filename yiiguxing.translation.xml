@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Locates the given static method. Searches all methods, including private methods." />
+      <item value="modifiers" />
+      <item value="get Modifiers" />
+      <item value="Locates the given method. Searches all methods, including private methods." />
+      <item value="Cached Invokable" />
+      <item value="which key is a composite of a receiver," />
+      <item value="The cache is a hierarchical cache" />
+      <item value="thread-safe cache which is aimed at storing information about a class." />
+      <item value="A generic purpose" />
+      <item value="A generic purpose, thread-safe cache which is aimed at storing information about a class. The cache is a hierarchical cache, which key is a composite of a receiver, and argument types. All those, key or arguments, are kept in a weak reference, allowing the GC to recover memory if required." />
+      <item value="Weakly" />
       <item value="where {@code |X|} is the erasure of the static type of the expression on which {@code getClass} is called." />
       <item value="The actual result type is" />
       <item value="actual" />
@@ -44,22 +55,11 @@
       <item value="魔数解析器" />
       <item value="A class file consists of a single ClassFile structure" />
       <item value="lenient Format" />
-      <item value="Buffer Underflow Exception" />
-      <item value="Reads a single byte from this stream and returns it as an integer in the range from 0 to 255" />
-      <item value="Band" />
-      <item value="Multi Band" />
-      <item value="Use local refs since buf and in may be invalidated by an unsynchronized close()" />
-      <item value="当前类的全限定名，值为常量池中的索引值" />
-      <item value="alternate Names" />
-      <item value="常量池数据条目结构" />
-      <item value="Field" />
-      <item value="A class file consists of a single ClassFile structure:" />
-      <item value="faild" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="642" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="653" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="TURKISH" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664520706875" />
+    <option name="lastTrimTime" value="1665223075186" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
