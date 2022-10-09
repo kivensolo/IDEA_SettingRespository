@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Assignable From" />
+      <item value="Note that this method propagates any exception thrown by the nullary constructor, including a checked exception. Use of this method effectively bypasses the compile-time exception checking that would otherwise be performed by the compiler. The {@link java.lang.reflect.ConstructornewInstance(java.lang.Object...) Constructor.newInstance} method avoids this problem by wrapping any exception thrown by the constructor in a (checked) {@link java.lang.reflect.InvocationTargetException}." />
       <item value="瑞士" />
       <item value="韩国" />
       <item value="擦除" />
@@ -33,7 +35,6 @@
       <item value="An object that can create new instances of various types. An {@code Instantiator}, depending on its implementation and configuration, may provide a number of capabilities. Some examples:" />
       <item value="sample" />
       <item value="version Mapping Builder" />
-      <item value="is Assignable From" />
       <item value="get Build Cache Service Factory Type" />
       <item value="Values may be logged" />
       <item value="Sets a configuration param of the cache being used" />
@@ -54,12 +55,11 @@
       <item value="Initial heap size set to a larger value than the maximum heap size" />
       <item value="require" />
       <item value="获取16进制对应的访问标志字符串表示" />
-      <item value="Same as" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="661" />
+        <entry key="CHINESE" value="465" />
+        <entry key="ENGLISH" value="663" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
