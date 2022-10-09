@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="黑客" />
       <item value="检查者" />
       <item value="money" />
       <item value="Convert Method" />
@@ -54,12 +55,11 @@
       <item value="Same as field_info" />
       <item value="找到索引值" />
       <item value="An interface is distinguished by this flag being set." />
-      <item value="Aka" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="657" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="658" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
