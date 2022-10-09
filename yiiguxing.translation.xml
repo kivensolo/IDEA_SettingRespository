@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="检查者" />
+      <item value="money" />
+      <item value="Convert Method" />
+      <item value="You should use the methods of {@link org.gradle.api.internal.InstantiatorFactory} instead of this type" />
+      <item value="Instantiat" />
+      <item value="Instantiator" />
       <item value="Locates the given static method. Searches all methods, including private methods." />
       <item value="modifiers" />
       <item value="get Modifiers" />
@@ -21,7 +27,6 @@
       <item value="actual" />
       <item value="get Wrapper Type For Primitive Type" />
       <item value="An object that can create new instances of various types. An {@code Instantiator}, depending on its implementation and configuration, may provide a number of capabilities. Some examples:" />
-      <item value="Instantiator" />
       <item value="sample" />
       <item value="version Mapping Builder" />
       <item value="is Assignable From" />
@@ -50,21 +55,17 @@
       <item value="找到索引值" />
       <item value="An interface is distinguished by this flag being set." />
       <item value="Aka" />
-      <item value="May be either a class type or an interface type" />
-      <item value="这不是一个Class文件" />
-      <item value="魔数解析器" />
-      <item value="A class file consists of a single ClassFile structure" />
-      <item value="lenient Format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="657" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="FILIPINO" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="HINDI" value="4" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
