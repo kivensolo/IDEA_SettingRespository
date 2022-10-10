@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="money management" />
+      <item value="理财" />
+      <item value="Credit" />
+      <item value="贷款" />
       <item value="Class Relationship" />
       <item value="is Assignable From" />
       <item value="Note that this method propagates any exception thrown by the nullary constructor, including a checked exception. Use of this method effectively bypasses the compile-time exception checking that would otherwise be performed by the compiler. The {@link java.lang.reflect.ConstructornewInstance(java.lang.Object...) Constructor.newInstance} method avoids this problem by wrapping any exception thrown by the constructor in a (checked) {@link java.lang.reflect.InvocationTargetException}." />
@@ -51,15 +54,11 @@
       <item value="introduced In" />
       <item value="CACHE VERSION MAPPING" />
       <item value="Default File Access Time Journal" />
-      <item value="强引用" />
-      <item value="Phantom" />
-      <item value="Initial heap size set to a larger value than the maximum heap size" />
-      <item value="require" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="668" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
