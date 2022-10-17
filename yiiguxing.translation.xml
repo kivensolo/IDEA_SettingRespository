@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Canonical" />
       <item value="Locates the given method" />
       <item value="money management" />
       <item value="理财" />
@@ -53,12 +54,11 @@
       <item value="registerBuildCacheService(CustomBuildCache, CustomBuildCacheFactory)" />
       <item value="Factory interface to be provided by build cache service implementations." />
       <item value="introduced In" />
-      <item value="CACHE VERSION MAPPING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="469" />
-        <entry key="ENGLISH" value="669" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="670" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665223075186" />
+    <option name="lastTrimTime" value="1665999300632" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
