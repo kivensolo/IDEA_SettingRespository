@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="468" />
     <option name="newTranslationDialogX" value="2703" />
     <option name="newTranslationDialogY" value="456" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="telecom carrier" />
+      <item value="Mobile telecom carrier" />
+      <item value="通信运营商" />
+      <item value="运营商" />
       <item value="Canonical" />
       <item value="Locates the given method" />
       <item value="money management" />
@@ -50,15 +55,11 @@
       <item value="Implementations should also provide a description via the given describer" />
       <item value="Returns whether a given build can store outputs in the build cache." />
       <item value="Configuration object for a build cache." />
-      <item value="register Build Cache Service" />
-      <item value="registerBuildCacheService(CustomBuildCache, CustomBuildCacheFactory)" />
-      <item value="Factory interface to be provided by build cache service implementations." />
-      <item value="introduced In" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="CHINESE" value="472" />
+        <entry key="ENGLISH" value="673" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
