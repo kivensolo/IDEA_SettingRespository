@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Resources" />
+      <item value="Enumeration" />
       <item value="telecom carrier" />
       <item value="Mobile telecom carrier" />
       <item value="通信运营商" />
@@ -53,13 +55,11 @@
       <item value="Builder-style object that allows build cache service factories to describe the cache service." />
       <item value="Implementations should also provide a description via the given describer." />
       <item value="Implementations should also provide a description via the given describer" />
-      <item value="Returns whether a given build can store outputs in the build cache." />
-      <item value="Configuration object for a build cache." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="472" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="CHINESE" value="474" />
+        <entry key="ENGLISH" value="675" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
