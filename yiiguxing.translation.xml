@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="retrieve all JAR lib paths separated with &quot;sep&quot; excluding source JARs" />
       <item value="NOOP" />
       <item value="get Resources" />
       <item value="Enumeration" />
@@ -54,12 +55,11 @@
       <item value="Sets a configuration param of the cache being used" />
       <item value="The description is for human consumption. It may be logged and displayed by tooling." />
       <item value="Builder-style object that allows build cache service factories to describe the cache service." />
-      <item value="Implementations should also provide a description via the given describer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="475" />
-        <entry key="ENGLISH" value="675" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="676" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667274103374" />
+    <option name="lastTrimTime" value="1670830072035" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
