@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="签名类型" />
       <item value="retrieve all JAR lib paths separated with &quot;sep&quot; excluding source JARs" />
       <item value="NOOP" />
       <item value="get Resources" />
@@ -54,12 +55,11 @@
       <item value="Values may be logged" />
       <item value="Sets a configuration param of the cache being used" />
       <item value="The description is for human consumption. It may be logged and displayed by tooling." />
-      <item value="Builder-style object that allows build cache service factories to describe the cache service." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="676" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="677" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
