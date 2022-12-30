@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Disallow Composable Calls" />
+      <item value="Typography" />
+      <item value="typography" />
       <item value="签名类型" />
       <item value="retrieve all JAR lib paths separated with &quot;sep&quot; excluding source JARs" />
       <item value="NOOP" />
@@ -52,14 +55,11 @@
       <item value="sample" />
       <item value="version Mapping Builder" />
       <item value="get Build Cache Service Factory Type" />
-      <item value="Values may be logged" />
-      <item value="Sets a configuration param of the cache being used" />
-      <item value="The description is for human consumption. It may be logged and displayed by tooling." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="677" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="680" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670830072035" />
+    <option name="lastTrimTime" value="1672365445142" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
