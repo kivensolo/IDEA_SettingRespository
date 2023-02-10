@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="First Blood" />
       <item value="Material surface is the central metaphor in material design. Each surface exists at a given elevation, which influences how that piece of surface visually relates to other surfaces and how that surface casts shadows." />
       <item value="Disallow Composable Calls" />
       <item value="Typography" />
@@ -54,12 +55,11 @@
       <item value="get Wrapper Type For Primitive Type" />
       <item value="An object that can create new instances of various types. An {@code Instantiator}, depending on its implementation and configuration, may provide a number of capabilities. Some examples:" />
       <item value="sample" />
-      <item value="version Mapping Builder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="481" />
-        <entry key="ENGLISH" value="681" />
+        <entry key="CHINESE" value="483" />
+        <entry key="ENGLISH" value="683" />
         <entry key="ESTONIAN" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672365445142" />
+    <option name="lastTrimTime" value="1676012347963" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
