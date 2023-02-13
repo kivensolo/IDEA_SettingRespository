@@ -1,0 +1,90 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="468" />
+    <option name="newTranslationDialogX" value="2703" />
+    <option name="newTranslationDialogY" value="456" />
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="First Blood" />
+      <item value="Material surface is the central metaphor in material design. Each surface exists at a given elevation, which influences how that piece of surface visually relates to other surfaces and how that surface casts shadows." />
+      <item value="Disallow Composable Calls" />
+      <item value="Typography" />
+      <item value="typography" />
+      <item value="签名类型" />
+      <item value="retrieve all JAR lib paths separated with &quot;sep&quot; excluding source JARs" />
+      <item value="NOOP" />
+      <item value="get Resources" />
+      <item value="Enumeration" />
+      <item value="telecom carrier" />
+      <item value="Mobile telecom carrier" />
+      <item value="通信运营商" />
+      <item value="运营商" />
+      <item value="Canonical" />
+      <item value="Locates the given method" />
+      <item value="money management" />
+      <item value="理财" />
+      <item value="Credit" />
+      <item value="贷款" />
+      <item value="Class Relationship" />
+      <item value="is Assignable From" />
+      <item value="Note that this method propagates any exception thrown by the nullary constructor, including a checked exception. Use of this method effectively bypasses the compile-time exception checking that would otherwise be performed by the compiler. The {@link java.lang.reflect.ConstructornewInstance(java.lang.Object...) Constructor.newInstance} method avoids this problem by wrapping any exception thrown by the constructor in a (checked) {@link java.lang.reflect.InvocationTargetException}." />
+      <item value="瑞士" />
+      <item value="韩国" />
+      <item value="擦除" />
+      <item value="黑客" />
+      <item value="检查者" />
+      <item value="money" />
+      <item value="Convert Method" />
+      <item value="You should use the methods of {@link org.gradle.api.internal.InstantiatorFactory} instead of this type" />
+      <item value="Instantiat" />
+      <item value="Instantiator" />
+      <item value="Locates the given static method. Searches all methods, including private methods." />
+      <item value="modifiers" />
+      <item value="get Modifiers" />
+      <item value="Locates the given method. Searches all methods, including private methods." />
+      <item value="Cached Invokable" />
+      <item value="which key is a composite of a receiver," />
+      <item value="The cache is a hierarchical cache" />
+      <item value="thread-safe cache which is aimed at storing information about a class." />
+      <item value="A generic purpose" />
+      <item value="A generic purpose, thread-safe cache which is aimed at storing information about a class. The cache is a hierarchical cache, which key is a composite of a receiver, and argument types. All those, key or arguments, are kept in a weak reference, allowing the GC to recover memory if required." />
+      <item value="Weakly" />
+      <item value="where {@code |X|} is the erasure of the static type of the expression on which {@code getClass} is called." />
+      <item value="The actual result type is" />
+      <item value="actual" />
+      <item value="get Wrapper Type For Primitive Type" />
+      <item value="An object that can create new instances of various types. An {@code Instantiator}, depending on its implementation and configuration, may provide a number of capabilities. Some examples:" />
+      <item value="sample" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="483" />
+        <entry key="ENGLISH" value="683" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="TURKISH" value="1" />
+        <entry key="HINDI" value="4" />
+        <entry key="INDONESIAN" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1676012347963" />
+  </component>
+  <component name="Settings">
+    <option name="autoPlayTTS" value="true" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="translator" value="YOUDAO" />
+    <option name="ttsSource" value="TRANSLATION" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6953e2b0635b37a0" />
+        <option name="primaryLanguage" value="CHINESE" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

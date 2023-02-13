@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="delayForVisualVMStart" value="3000" />
+    <option name="visualVmExecutable" value="C:/Program Files/Java/jdk1.7.0_79/bin/jvisualvm.exe" />
+  </component>
+</application>

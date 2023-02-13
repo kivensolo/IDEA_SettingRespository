@@ -1,0 +1,26 @@
+<templateSet group="Xul">
+  <template name="registe" value="public static void register() {&#10;        com.starcor.xulapp.behavior.XulBehaviorManager.registerBehavior(NAME, new com.starcor.xulapp.behavior.XulBehaviorManager.IBehaviorFactory() {&#10;            @java.lang.Override&#10;            public com.starcor.xulapp.behavior.XulUiBehavior createBehavior(com.starcor.xulapp.XulPresenter xulPresenter) {&#10;                return new $Behavior$(xulPresenter);&#10;            }&#10;&#10;            @java.lang.Override&#10;            public java.lang.Class getBehaviorClass() {&#10;                return $Behavior$.class;&#10;            }&#10;        });&#10;    }" description="register of behavior" toReformat="true" toShortenFQNames="true">
+    <variable name="Behavior" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="xld" value="XulLog.d(TAG,&quot;$MSG$&quot;);" description="debug leval of xul log" toReformat="false" toShortenFQNames="true">
+    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="xle" value="XulLog.e(TAG,&quot;$MSG$&quot;);" description="error leval of xul log" toReformat="false" toShortenFQNames="true">
+    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="xlw" value="XulLog.w(TAG,&quot;$MSG$&quot;);" description="warn leval of xul log" toReformat="false" toShortenFQNames="true">
+    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

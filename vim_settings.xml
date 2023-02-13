@@ -1,0 +1,62 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="E:/work/HeBei/HB_Live/src/com/starcor/hbgd/live/App.java" timestamp="1598943051725">
+        <mark key="[" line="57" column="0" />
+      </file>
+      <file name="E:/work/HeBei/HB_Live/src/com/starcor/base/plugin/dataSource/Plugin.java" timestamp="1598943195863">
+        <mark key="[" line="14" column="31" />
+      </file>
+      <file name="E:/work/HeBei/HB_Live/src/com/starcor/hbgd/live/plugin/player/MediaPlayerBehavior.java" timestamp="1598947193536" />
+      <file name="E:/work/HeBei/HB_Live/src/com/starcor/hbgd/live/render/XulLoadingRender.java" timestamp="1598947179205">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="61" column="64" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

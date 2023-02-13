@@ -1,0 +1,29 @@
+<templateSet group="Android">
+  <template name="ifn" value="if($name$ == null){&#10;    $name$ = &quot;&quot;;&#10;}" description="if xxx == null" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JSON" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="tue" value="TextUtils.equals($arg1$,$arg2$);" description="equals two String" toReformat="false" toShortenFQNames="true">
+    <variable name="arg1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ifnr" value="if(null == $name$ ){&#10;    return;&#10;}" description="(if xxx == null  return)" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Mark Code Block" value="// &lt;editor-fold defaultstate=&quot;collapsed&quot; desc=&quot;$description$&quot;&gt;&#10;$SELECTION$&#10;// &lt;/editor-fold&gt;" description="代码块打标" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

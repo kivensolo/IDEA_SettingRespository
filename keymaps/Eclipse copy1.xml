@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse copy1" parent="Eclipse">
+  <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="context.load" />
+</keymap>

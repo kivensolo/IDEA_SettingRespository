@@ -1,0 +1,7 @@
+<templateSet group="output">
+  <template name="syso" value="System.out.println(&quot;$END$&quot;);" description="syso" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

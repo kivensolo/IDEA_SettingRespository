@@ -1,0 +1,9 @@
+<templateSet group="Kotlin">
+  <template name="fori" value="for($INDEX$ in 0..$LIMIT$) {&#10;  $END$&#10;}" description="Create iteration loop" toReformat="false" toShortenFQNames="true">
+    <variable name="INDEX" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
