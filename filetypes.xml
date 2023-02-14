@@ -14,23 +14,12 @@
       <mapping pattern="PlantformTest.py" type="AUTO_DETECTED" />
       <mapping pattern="TreeItemType" type="AUTO_DETECTED" />
       <mapping pattern="todo" type="AUTO_DETECTED" />
-      <mapping pattern="**spring-configuration-metadata.json" type="JSON" />
       <mapping pattern="scripts_data.json" type="PLAIN_TEXT" />
       <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
       <mapping pattern="【OK】" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="err" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
-      <mapping pattern="bootstrap-**.properties" type="Properties" />
-      <mapping pattern="application-**.properties" type="Properties" />
-      <mapping pattern="application.properties" type="Properties" />
-      <mapping pattern="bootstrap.properties" type="Properties" />
-      <mapping pattern="bootstrap-**.y**ml" type="YAML" />
-      <mapping pattern="application-**.y**ml" type="YAML" />
-      <mapping pattern="bootstrap.yaml" type="YAML" />
-      <mapping pattern="bootstrap.yml" type="YAML" />
-      <mapping pattern="application.yml" type="YAML" />
-      <mapping pattern="application.yaml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
