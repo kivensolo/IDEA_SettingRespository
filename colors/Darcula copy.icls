@@ -143,7 +143,7 @@
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6cdada" />
+        <option name="FOREGROUND" value="dbd43c" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -26090,7 +26090,7 @@
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
       <value>
-        <option name="BACKGROUND" value="56863b" />
+        <option name="FOREGROUND" value="dbd43c" />
       </value>
     </option>
     <option name="TEXT">
