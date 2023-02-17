@@ -26246,15 +26246,20 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="72bcf1" />
+      </value>
+    </option>
     <option name="YAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="bc9458" />
+        <option name="FOREGROUND" value="798583" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="40bf46" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
@@ -26269,7 +26274,7 @@
     </option>
     <option name="YAML_SCALAR_STRING">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="71af73" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
