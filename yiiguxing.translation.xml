@@ -90,4 +90,15 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1678180146734" />
   </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="AUTO" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="wordbookStoragePath" value="C:\Users\ZekeWang\OneDrive\TranslationPlugin" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="6953e2b0635b37a0" />
+      </youdao-translate>
+    </option>
+  </component>
 </application>
