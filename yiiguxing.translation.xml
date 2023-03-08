@@ -106,6 +106,11 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="注册校验" />
+      <item value="Regist Check" />
+      <item value="I Regist Check" />
+      <item value="Member" />
+      <item value="已经注册的会员" />
       <item value="数据合法" />
       <item value="安检" />
       <item value="Security door" />
@@ -117,8 +122,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
