@@ -106,6 +106,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Inherit defaults from Spring Boot" />
       <item value="注册校验" />
       <item value="Regist Check" />
       <item value="I Regist Check" />
@@ -122,8 +123,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
