@@ -106,6 +106,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Public Claims" />
       <item value="assert Date Is Future" />
       <item value="if a claim contained a different value than the expected one." />
       <item value="Claim" />
@@ -148,8 +149,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="44" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
