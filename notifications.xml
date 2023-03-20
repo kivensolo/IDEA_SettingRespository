@@ -3,6 +3,6 @@
     <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
     <notification groupId="FindBugs: Plugin Suggestion" displayType="NONE" shouldLog="false" />
     <notification groupId="FindBugs: R-File Filter Suggestion" displayType="NONE" shouldLog="false" />
-    <notification groupId="Language Plugins Notifications" displayType="STICKY_BALLOON" />
+    <notification groupId="Language Plugins Notifications" displayType="NONE" />
   </component>
 </application>
