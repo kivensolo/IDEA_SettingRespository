@@ -106,6 +106,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Accesser" />
       <item value="Unsatisfied dependency expressed through constructor parameter 0" />
       <item value="nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException" />
       <item value="Cache of singleton objects: bean name to bean instance." />
@@ -155,13 +156,12 @@
       <item value="Member" />
       <item value="已经注册的会员" />
       <item value="数据合法" />
-      <item value="安检" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="63" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
