@@ -106,8 +106,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
-      <item value="The port number" />
       <item value="height Vitality" />
+      <item value="The port number" />
       <item value="find Spying" />
       <item value="earwig" />
       <item value="偷听者" />
@@ -160,8 +160,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="95" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
