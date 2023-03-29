@@ -106,6 +106,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="工号" />
       <item value="the specified host witch will bind to" />
       <item value="the local InetAddress the server will bind to" />
       <item value="height Vitality" />
@@ -134,7 +135,6 @@
       <item value="校验请求者权限" />
       <item value="请求者权限" />
       <item value="角色" />
-      <item value="工号" />
       <item value="Access" />
       <item value="序列号" />
       <item value="normalize" />
@@ -160,8 +160,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="98" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
