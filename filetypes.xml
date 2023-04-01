@@ -1,26 +1,6 @@
 <application>
-  <component name="CommunityFileTypes" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
-    <extensionMap>
-      <mapping pattern="test" type="CLASS" />
-      <mapping ext="jspx" type="XML" />
-      <mapping ext="tagx" type="XML" />
-    </extensionMap>
-    <setting name="fileTypeChangedCounter" value="1" />
-  </component>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="file-db" type="AUTO_DETECTED" />
-      <mapping pattern="PlantformTest.py" type="AUTO_DETECTED" />
-      <mapping pattern="TreeItemType" type="AUTO_DETECTED" />
-      <mapping pattern="todo" type="AUTO_DETECTED" />
-      <mapping pattern="scripts_data.json" type="PLAIN_TEXT" />
-      <mapping pattern="IAnimal.AIDL" type="PLAIN_TEXT" />
-      <mapping pattern="【OK】" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="err" type="PLAIN_TEXT" />
-      <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
