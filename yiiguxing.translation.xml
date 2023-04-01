@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="option to toggle gutter display" />
       <item value="Gutter color line marker provider:" />
       <item value="Bump" />
       <item value="This plugin has been reworked from the ground up, and therefore tries to support all languages as much as possible. But currently it fully supports:" />
@@ -23,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="6" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
       </map>
