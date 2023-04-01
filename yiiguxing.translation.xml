@@ -13,13 +13,20 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Gutter color line marker provider:" />
+      <item value="Bump" />
+      <item value="This plugin has been reworked from the ground up, and therefore tries to support all languages as much as possible. But currently it fully supports:" />
+      <item value="Elior &quot;Mallowigi&quot; Boukhobza" />
+      <item value="mallowigi" />
       <item value="Incompatible because this component declares an API of a component compatible with Java 11 and the consumer needed a runtime of a component compatible with Java 8" />
       <item value="The consumer was configured to find a runtime of a library compatible with Java 8, packaged as a jar, and its dependencies declared externally but:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="INDONESIAN" value="1" />
+        <entry key="SUNDANESE" value="1" />
       </map>
     </option>
   </component>
