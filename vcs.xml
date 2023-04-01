@@ -50,6 +50,10 @@
           <option name="url" value="https://gitee.com/realJay/SharedLibrary-Server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kivensolo/neck-protector.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\GitHubProjects" />
