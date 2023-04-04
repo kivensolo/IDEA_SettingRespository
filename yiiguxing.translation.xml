@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="field indicating Monday." />
+      <item value="Value of the {@link DAY_OF_WEEK} field indicating Monday." />
       <item value="extra info" />
       <item value="Metric" />
       <item value="dimen" />
@@ -29,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="12" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="1" />
