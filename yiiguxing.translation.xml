@@ -13,6 +13,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Metric" />
+      <item value="dimen" />
+      <item value="dimens" />
       <item value="query By Time" />
       <item value="option to toggle gutter display" />
       <item value="Gutter color line marker provider:" />
@@ -25,10 +28,11 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="9" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
