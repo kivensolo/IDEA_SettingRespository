@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="No qualifying bean of type 'com.starcor.adminapplication.domain.stutter.PlayStutterBean' available: expected at least 1 bean which qualifies as autowire candidate." />
       <item value="field indicating Monday." />
       <item value="Value of the {@link DAY_OF_WEEK} field indicating Monday." />
       <item value="extra info" />
@@ -31,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="13" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="1" />
