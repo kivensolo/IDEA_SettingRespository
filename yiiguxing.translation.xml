@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680345507323" />
+    <option name="lastTrimTime" value="1680847870932" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="height Vitality" />
+      <item value="SO BROADCAST" />
       <item value="flavor" />
       <item value="风味" />
       <item value="No qualifying bean of type 'com.starcor.adminapplication.domain.stutter.PlayStutterBean' available: expected at least 1 bean which qualifies as autowire candidate." />
@@ -34,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="17" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="1" />
