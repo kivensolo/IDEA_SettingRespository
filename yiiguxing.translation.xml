@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="倍数" />
+      <item value="基础数量的倍数" />
       <item value="时间差值" />
       <item value="Returns the name of this enum constant, exactly as declared in its enum declaration" />
       <item value="the destination port number." />
@@ -42,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="26" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="1" />
