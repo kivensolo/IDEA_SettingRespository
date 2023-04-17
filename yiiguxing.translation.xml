@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="制造商" />
       <item value="硬解码" />
       <item value="硬解" />
       <item value="dimen" />
@@ -59,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="42" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="3" />
