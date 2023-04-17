@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681282963828" />
+    <option name="lastTrimTime" value="1681719344422" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="硬解码" />
+      <item value="硬解" />
       <item value="dimen" />
       <item value="dimens" />
       <item value="命中数据溢出存储维度" />
@@ -57,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="41" />
         <entry key="INDONESIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="3" />
