@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Prefix" />
       <item value="It will be cleared after invoked by default" />
       <item value="dimension of interval time" />
       <item value="period time in minutes" />
@@ -62,12 +63,11 @@
       <item value="Hit dump dimen" />
       <item value="Stick" />
       <item value="time Stick" />
-      <item value="Dimens" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="87" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="3" />
