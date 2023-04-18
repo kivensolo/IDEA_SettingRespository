@@ -13,22 +13,48 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="dimension of interval time" />
+      <item value="period time in minutes" />
+      <item value="period time of minutes" />
+      <item value="minutes" />
+      <item value="on Period Arrived" />
+      <item value="It will be cleared after invoked;" />
+      <item value="It will be clear after invoked" />
+      <item value="Arrived" />
+      <item value="dump Data On Period Arrived" />
+      <item value="当前时间点命中的时间周期" />
+      <item value="当前时间命中的时间周期" />
+      <item value="Time period that the current meets" />
+      <item value="Period" />
+      <item value="corresponding" />
+      <item value="对应时间维度内的周期数据" />
+      <item value="当前时间满足的时间维度" />
+      <item value="不同时间维度命中时被调用" />
+      <item value="不同时间维度命中时的回调方法" />
+      <item value="Dimension" />
+      <item value="max Dimension" />
+      <item value="cycle" />
+      <item value="cycledata" />
+      <item value="周期" />
+      <item value="timeStamp of save action." />
+      <item value="time Stamp" />
+      <item value="dimension" />
+      <item value="dimen" />
+      <item value="命中" />
+      <item value="every interval cache data map" />
       <item value="The maximum time dimension is reached" />
       <item value="The maximum event period dimension is reached" />
       <item value="抵达最大事件周期维度" />
-      <item value="dimension" />
       <item value="Dimention" />
       <item value="The amount of data accumulated in memory during the time of the dimension" />
       <item value="The amount of data accumulated during the time of the dimension" />
       <item value="accumulated" />
       <item value="该维度时间内在内存中所堆积的数据" />
-      <item value="dimension of interval time" />
       <item value="dimension of interval" />
       <item value="维度" />
       <item value="制造商" />
       <item value="硬解码" />
       <item value="硬解" />
-      <item value="dimen" />
       <item value="dimens" />
       <item value="命中数据溢出存储维度" />
       <item value="命中存储维度" />
@@ -37,38 +63,12 @@
       <item value="time Stick" />
       <item value="Dimens" />
       <item value="最小时间粒度" />
-      <item value="最小颗粒度" />
-      <item value="基础单位" />
-      <item value="时间戳" />
-      <item value="time Statmp" />
-      <item value="持久化数据的路径" />
-      <item value="倍数" />
-      <item value="基础数量的倍数" />
-      <item value="时间差值" />
-      <item value="Returns the name of this enum constant, exactly as declared in its enum declaration" />
-      <item value="the destination port number." />
-      <item value="buffer for holding the incoming datagram" />
-      <item value="1 executed, 2 up-to-date" />
-      <item value="3 actionable tasks" />
-      <item value="height Vitality" />
-      <item value="SO BROADCAST" />
-      <item value="flavor" />
-      <item value="风味" />
-      <item value="No qualifying bean of type 'com.starcor.adminapplication.domain.stutter.PlayStutterBean' available: expected at least 1 bean which qualifies as autowire candidate." />
-      <item value="field indicating Monday." />
-      <item value="Value of the {@link DAY_OF_WEEK} field indicating Monday." />
-      <item value="extra info" />
-      <item value="Metric" />
-      <item value="query By Time" />
-      <item value="option to toggle gutter display" />
-      <item value="Gutter color line marker provider:" />
-      <item value="Bump" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="54" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="84" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="3" />
         <entry key="TURKISH" value="1" />
