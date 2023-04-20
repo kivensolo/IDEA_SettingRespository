@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="分析" />
       <item value="var 8" />
       <item value="unique Candidate" />
       <item value="Time data need copy directly" />
@@ -62,13 +63,12 @@
       <item value="accumulated" />
       <item value="该维度时间内在内存中所堆积的数据" />
       <item value="dimension of interval" />
-      <item value="维度" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="95" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
