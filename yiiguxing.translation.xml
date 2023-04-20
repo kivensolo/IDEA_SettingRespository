@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Filt" />
+      <item value="Filtter" />
       <item value="wildfire" />
       <item value="Every interval cache data map" />
       <item value="Prefix" />
@@ -61,13 +63,12 @@
       <item value="硬解" />
       <item value="dimens" />
       <item value="命中数据溢出存储维度" />
-      <item value="命中存储维度" />
-      <item value="Hit dump dimen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="90" />
+        <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="3" />
