@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Time data need copy directly" />
       <item value="Filter" />
       <item value="Filte" />
       <item value="Filt" />
@@ -62,13 +63,12 @@
       <item value="维度" />
       <item value="制造商" />
       <item value="硬解码" />
-      <item value="硬解" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="92" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
