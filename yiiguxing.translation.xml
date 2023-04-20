@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="dimensions of data analyse" />
       <item value="sequential" />
       <item value="分析" />
       <item value="var 8" />
@@ -62,13 +63,12 @@
       <item value="The amount of data accumulated in memory during the time of the dimension" />
       <item value="The amount of data accumulated during the time of the dimension" />
       <item value="accumulated" />
-      <item value="该维度时间内在内存中所堆积的数据" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="97" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
