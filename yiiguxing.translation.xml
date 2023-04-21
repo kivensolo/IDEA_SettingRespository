@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Extension of {@link CrudRepository} to provide additional methods to retrieve entities using the pagination and sorting abstraction." />
       <item value="已分析的数据" />
       <item value="Performs a logical &lt;b&gt;AND&lt;b&gt; of this target bit set with the argument bit set. This bit set is modified so that each bit in it has the value {@code true} if and only if it both initially had the value {@code true} and the corresponding bit in the bit set argument also had the value {@code true}." />
       <item value="erforms a logical &lt;b&gt;AND&lt;b&gt; of this target bit set with the argument bit set. This bit set is modified so that each bit in it has the value {@code true} if and only if it both initially had the value {@code true} and the corresponding bit in the bit set argument also had the value {@code true}." />
@@ -62,13 +63,12 @@
       <item value="every interval cache data map" />
       <item value="The maximum time dimension is reached" />
       <item value="The maximum event period dimension is reached" />
-      <item value="抵达最大事件周期维度" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="102" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
