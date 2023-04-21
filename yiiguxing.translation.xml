@@ -13,6 +13,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Invoked when different time dimensions hit" />
       <item value="MongoDB Query object representing criteria, projection, sorting and query hints." />
       <item value="Returns whether an entity with the given id exists." />
       <item value="wildfire" />
@@ -62,13 +63,12 @@
       <item value="dimension" />
       <item value="dimen" />
       <item value="命中" />
-      <item value="every interval cache data map" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
