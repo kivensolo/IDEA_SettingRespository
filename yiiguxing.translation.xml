@@ -13,6 +13,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Token校验失败!" />
+      <item value="无权限操作" />
+      <item value="算法" />
+      <item value="签名" />
+      <item value="token校验失败" />
+      <item value="token已失效" />
       <item value="EXISTED" />
       <item value="Invoked when different time dimensions hit" />
       <item value="MongoDB Query object representing criteria, projection, sorting and query hints." />
@@ -57,18 +63,12 @@
       <item value="Dimension" />
       <item value="max Dimension" />
       <item value="cycle" />
-      <item value="cycledata" />
-      <item value="周期" />
-      <item value="timeStamp of save action." />
-      <item value="time Stamp" />
-      <item value="dimension" />
-      <item value="dimen" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="113" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
