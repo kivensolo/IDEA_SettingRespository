@@ -13,6 +13,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="MongoDB Query object representing criteria, projection, sorting and query hints." />
+      <item value="Returns whether an entity with the given id exists." />
       <item value="wildfire" />
       <item value="Extension of {@link CrudRepository} to provide additional methods to retrieve entities using the pagination and sorting abstraction." />
       <item value="已分析的数据" />
@@ -61,14 +63,12 @@
       <item value="dimen" />
       <item value="命中" />
       <item value="every interval cache data map" />
-      <item value="The maximum time dimension is reached" />
-      <item value="The maximum event period dimension is reached" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="105" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
