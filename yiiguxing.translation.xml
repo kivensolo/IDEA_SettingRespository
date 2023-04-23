@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681719344422" />
+    <option name="lastTrimTime" value="1682231359791" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -17,6 +17,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A &lt;code&gt;ParsePosition&lt;code&gt; object with index and error index information as described above." />
+      <item value="By design, as you parse through a string with different formats, you can use the same &lt;code&gt;ParsePosition&lt;code&gt;, since the index parameter records the current position." />
       <item value="非法" />
       <item value="USER STATE NOT EXISTED" />
       <item value="register" />
@@ -65,14 +67,12 @@
       <item value="当前时间命中的时间周期" />
       <item value="Time period that the current meets" />
       <item value="Period" />
-      <item value="corresponding" />
-      <item value="对应时间维度内的周期数据" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="121" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
