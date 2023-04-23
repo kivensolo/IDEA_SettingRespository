@@ -12,7 +12,17 @@
     </option>
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="2711" />
+    <option name="newTranslationDialogY" value="456" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="非法" />
+      <item value="USER STATE NOT EXISTED" />
+      <item value="register" />
+      <item value="REGIST" />
+      <item value="USER REGIST ERROR PWD DIFFERENT" />
+      <item value="不一致" />
       <item value="Token校验失败!" />
       <item value="无权限操作" />
       <item value="算法" />
@@ -57,18 +67,12 @@
       <item value="Period" />
       <item value="corresponding" />
       <item value="对应时间维度内的周期数据" />
-      <item value="当前时间满足的时间维度" />
-      <item value="不同时间维度命中时被调用" />
-      <item value="不同时间维度命中时的回调方法" />
-      <item value="Dimension" />
-      <item value="max Dimension" />
-      <item value="cycle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="119" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
