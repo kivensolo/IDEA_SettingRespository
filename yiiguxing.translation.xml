@@ -17,6 +17,10 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="It is recommended to create separate format instances for each thread. If multiple threads access a format concurrently, it must be synchronized externally" />
+      <item value="synchronized" />
+      <item value="not synchronized" />
+      <item value="Date formats are not synchronized." />
       <item value="A &lt;code&gt;ParsePosition&lt;code&gt; object with index and error index information as described above." />
       <item value="By design, as you parse through a string with different formats, you can use the same &lt;code&gt;ParsePosition&lt;code&gt;, since the index parameter records the current position." />
       <item value="非法" />
@@ -63,16 +67,12 @@
       <item value="It will be clear after invoked" />
       <item value="Arrived" />
       <item value="dump Data On Period Arrived" />
-      <item value="当前时间点命中的时间周期" />
-      <item value="当前时间命中的时间周期" />
-      <item value="Time period that the current meets" />
-      <item value="Period" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="125" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
