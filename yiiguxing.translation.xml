@@ -17,6 +17,16 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="All of the {@code calendar}'s date-time fields are {@linkplain Calendarclear() cleared} before parsing," />
+      <item value="This parsing operation uses the {@link DateFormatcalendar calendar} to produce a {@code Date}" />
+      <item value="This parsing operation uses the {@link DateFormatcalendar calendar} to produce a {@code Date}. All of the {@code calendar}'s date-time fields are {@linkplain Calendarclear() cleared} before parsing, and the {@code calendar}'s default values of the date-time fields are used for any missing date-time information. For example, the year value of the parsed {@code Date} is 1970 with {@link GregorianCalendar} if no year value is given from the parsing operation. The {@code TimeZone} value may be overwritten, depending on the given pattern and the time zone value in {@code text}. Any {@code TimeZone} value that has previously been set by a call to {@link setTimeZone(java.util.TimeZone) setTimeZone} may need to be restored for further operations." />
+      <item value="then the two-digit year == the default start year" />
+      <item value="If the year value is ambiguous," />
+      <item value="If the year value is ambiguous, then the two-digit year == the default start year" />
+      <item value="multiple points" />
+      <item value="This class is immutable and thread-safe" />
+      <item value="Obtains the current date from the system clock in the default time-zone. &lt;p&gt; This will query the {@link ClocksystemDefaultZone() system clock} in the default time-zone to obtain the current date. &lt;p&gt; Using this method will prevent the ability to use an alternate clock for testing because the clock is hard-coded. @return the current date using the system clock and default time-zone, not null" />
+      <item value="Semaphore" />
       <item value="the date to parse" />
       <item value="It is recommended to create separate format instances for each thread. If multiple threads access a format concurrently, it must be synchronized externally" />
       <item value="synchronized" />
@@ -57,22 +67,12 @@
       <item value="Filt" />
       <item value="Filtter" />
       <item value="Every interval cache data map" />
-      <item value="Prefix" />
-      <item value="It will be cleared after invoked by default" />
-      <item value="dimension of interval time" />
-      <item value="period time in minutes" />
-      <item value="period time of minutes" />
-      <item value="minutes" />
-      <item value="on Period Arrived" />
-      <item value="It will be cleared after invoked;" />
-      <item value="It will be clear after invoked" />
-      <item value="Arrived" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="137" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
