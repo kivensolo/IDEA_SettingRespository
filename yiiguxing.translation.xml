@@ -17,6 +17,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="增加总数" />
+      <item value="Describe" />
       <item value="播放计数" />
       <item value="描述文本，最好是json格式" />
       <item value="describe" />
@@ -65,14 +67,12 @@
       <item value="register" />
       <item value="REGIST" />
       <item value="USER REGIST ERROR PWD DIFFERENT" />
-      <item value="不一致" />
-      <item value="Token校验失败!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="175" />
+        <entry key="ENGLISH" value="164" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
