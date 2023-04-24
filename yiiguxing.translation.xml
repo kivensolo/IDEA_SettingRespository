@@ -17,6 +17,9 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No qualifying bean of type 'java.util.ArrayList&lt;com.starcor.adminapplication.domain.collect.PlayReportBean&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="JSON parse error: Unexpected character ('.' (code 46)): was expecting comma to separate Object entries; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('.' (code 46)): was expecting comma to separate Object entries at [Source: (PushbackInputStream); line: 18, column: 17]]" />
+      <item value="was expecting comma" />
       <item value="Play Data Source Dumper" />
       <item value="Dumper" />
       <item value="e Dumpper" />
@@ -64,15 +67,12 @@
       <item value="EXISTED" />
       <item value="Invoked when different time dimensions hit" />
       <item value="MongoDB Query object representing criteria, projection, sorting and query hints." />
-      <item value="Returns whether an entity with the given id exists." />
-      <item value="wildfire" />
-      <item value="Extension of {@link CrudRepository} to provide additional methods to retrieve entities using the pagination and sorting abstraction." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="154" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
