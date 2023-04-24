@@ -17,6 +17,15 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="procedure" />
+      <item value="播放会话中过程中的Bean对象" />
+      <item value="Need wait" />
+      <item value="会话未结束" />
+      <item value="会话结束,可以进行数据清洗" />
+      <item value="单条数据" />
+      <item value="更新播放会话单条数据" />
+      <item value="添加播放会话单条数据" />
+      <item value="过期" />
       <item value="source Data List" />
       <item value="Data Wash" />
       <item value="All of the {@code calendar}'s date-time fields are {@linkplain Calendarclear() cleared} before parsing," />
@@ -58,21 +67,12 @@
       <item value="Performs a logical &lt;b&gt;AND&lt;b&gt; of this target bit set with the argument bit set. This bit set is modified so that each bit in it has the value {@code true} if and only if it both initially had the value {@code true} and the corresponding bit in the bit set argument also had the value {@code true}." />
       <item value="erforms a logical &lt;b&gt;AND&lt;b&gt; of this target bit set with the argument bit set. This bit set is modified so that each bit in it has the value {@code true} if and only if it both initially had the value {@code true} and the corresponding bit in the bit set argument also had the value {@code true}." />
       <item value="Returns the index of the first bit that is set to {@code false} that occurs on or after the specified starting index." />
-      <item value="dimensions of data analyse" />
-      <item value="sequential" />
-      <item value="分析" />
-      <item value="var 8" />
-      <item value="unique Candidate" />
-      <item value="Time data need copy directly" />
-      <item value="Filter" />
-      <item value="Filte" />
-      <item value="Filt" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="148" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
