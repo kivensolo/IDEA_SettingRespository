@@ -17,6 +17,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="source Data List" />
+      <item value="Data Wash" />
       <item value="All of the {@code calendar}'s date-time fields are {@linkplain Calendarclear() cleared} before parsing," />
       <item value="This parsing operation uses the {@link DateFormatcalendar calendar} to produce a {@code Date}" />
       <item value="This parsing operation uses the {@link DateFormatcalendar calendar} to produce a {@code Date}. All of the {@code calendar}'s date-time fields are {@linkplain Calendarclear() cleared} before parsing, and the {@code calendar}'s default values of the date-time fields are used for any missing date-time information. For example, the year value of the parsed {@code Date} is 1970 with {@link GregorianCalendar} if no year value is given from the parsing operation. The {@code TimeZone} value may be overwritten, depending on the given pattern and the time zone value in {@code text}. Any {@code TimeZone} value that has previously been set by a call to {@link setTimeZone(java.util.TimeZone) setTimeZone} may need to be restored for further operations." />
@@ -65,14 +67,12 @@
       <item value="Filter" />
       <item value="Filte" />
       <item value="Filt" />
-      <item value="Filtter" />
-      <item value="Every interval cache data map" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="139" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="SUNDANESE" value="1" />
