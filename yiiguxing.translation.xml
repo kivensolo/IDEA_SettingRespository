@@ -12,11 +12,16 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="描述文本，最好是json格式" />
+      <item value="describe" />
+      <item value="描述" />
+      <item value="describable" />
+      <item value="可描述的" />
       <item value="ReactiveElasticsearchRestClientAutoConfiguration: Did not match: - @ConditionalOnClass did not find required class 'reactor.netty.http.client.HttpClient' (OnClassCondition)" />
       <item value="Unconditional classes:" />
       <item value="No qualifying bean of type 'java.util.ArrayList&lt;com.starcor.adminapplication.domain.collect.PlayReportBean&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
@@ -62,17 +67,12 @@
       <item value="不一致" />
       <item value="Token校验失败!" />
       <item value="无权限操作" />
-      <item value="算法" />
-      <item value="签名" />
-      <item value="token校验失败" />
-      <item value="token已失效" />
-      <item value="EXISTED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="161" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
