@@ -17,6 +17,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="wash" />
       <item value="wash Data In Every Minutes" />
       <item value="wash Data In One Minutes" />
       <item value="增加总数" />
@@ -66,13 +67,12 @@
       <item value="By design, as you parse through a string with different formats, you can use the same &lt;code&gt;ParsePosition&lt;code&gt;, since the index parameter records the current position." />
       <item value="非法" />
       <item value="USER STATE NOT EXISTED" />
-      <item value="register" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="167" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
