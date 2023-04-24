@@ -17,6 +17,10 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Play Data Source Dumper" />
+      <item value="Dumper" />
+      <item value="e Dumpper" />
+      <item value="Play Data Source Dumpper" />
       <item value="procedure" />
       <item value="播放会话中过程中的Bean对象" />
       <item value="Need wait" />
@@ -63,18 +67,15 @@
       <item value="Returns whether an entity with the given id exists." />
       <item value="wildfire" />
       <item value="Extension of {@link CrudRepository} to provide additional methods to retrieve entities using the pagination and sorting abstraction." />
-      <item value="已分析的数据" />
-      <item value="Performs a logical &lt;b&gt;AND&lt;b&gt; of this target bit set with the argument bit set. This bit set is modified so that each bit in it has the value {@code true} if and only if it both initially had the value {@code true} and the corresponding bit in the bit set argument also had the value {@code true}." />
-      <item value="erforms a logical &lt;b&gt;AND&lt;b&gt; of this target bit set with the argument bit set. This bit set is modified so that each bit in it has the value {@code true} if and only if it both initially had the value {@code true} and the corresponding bit in the bit set argument also had the value {@code true}." />
-      <item value="Returns the index of the first bit that is set to {@code false} that occurs on or after the specified starting index." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="151" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
+        <entry key="ITALIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="TURKISH" value="1" />
