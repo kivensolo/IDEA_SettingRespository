@@ -17,11 +17,11 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="wash" />
       <item value="summay" />
       <item value="总概括" />
       <item value="Application failed to start due to an exception" />
       <item value="available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="wash" />
       <item value="wash Data In Every Minutes" />
       <item value="wash Data In One Minutes" />
       <item value="增加总数" />
@@ -71,8 +71,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="172" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
