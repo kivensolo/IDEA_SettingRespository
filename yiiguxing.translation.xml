@@ -17,6 +17,11 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="counts" />
+      <item value="total counts" />
+      <item value="Bi Consumer" />
+      <item value="a function that creates a new result container. For a parallel execution, this function may be called multiple times and must return a fresh value each time." />
+      <item value="the intermediate accumulation type of the {@code Collector}" />
       <item value="wash" />
       <item value="summay" />
       <item value="总概括" />
@@ -62,17 +67,12 @@
       <item value="This class is immutable and thread-safe" />
       <item value="Obtains the current date from the system clock in the default time-zone. &lt;p&gt; This will query the {@link ClocksystemDefaultZone() system clock} in the default time-zone to obtain the current date. &lt;p&gt; Using this method will prevent the ability to use an alternate clock for testing because the clock is hard-coded. @return the current date using the system clock and default time-zone, not null" />
       <item value="Semaphore" />
-      <item value="the date to parse" />
-      <item value="It is recommended to create separate format instances for each thread. If multiple threads access a format concurrently, it must be synchronized externally" />
-      <item value="synchronized" />
-      <item value="not synchronized" />
-      <item value="Date formats are not synchronized." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="183" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="177" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
