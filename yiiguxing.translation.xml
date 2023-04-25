@@ -17,6 +17,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Stutter Info" />
       <item value="Cleaner" />
       <item value="数据清洗" />
       <item value="counts" />
@@ -66,13 +67,12 @@
       <item value="If the year value is ambiguous," />
       <item value="If the year value is ambiguous, then the two-digit year == the default start year" />
       <item value="multiple points" />
-      <item value="This class is immutable and thread-safe" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="180" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
