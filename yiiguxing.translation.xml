@@ -17,6 +17,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="裸体" />
+      <item value="duration" />
       <item value="Stutter Info" />
       <item value="Cleaner" />
       <item value="数据清洗" />
@@ -65,14 +67,12 @@
       <item value="This parsing operation uses the {@link DateFormatcalendar calendar} to produce a {@code Date}. All of the {@code calendar}'s date-time fields are {@linkplain Calendarclear() cleared} before parsing, and the {@code calendar}'s default values of the date-time fields are used for any missing date-time information. For example, the year value of the parsed {@code Date} is 1970 with {@link GregorianCalendar} if no year value is given from the parsing operation. The {@code TimeZone} value may be overwritten, depending on the given pattern and the time zone value in {@code text}. Any {@code TimeZone} value that has previously been set by a call to {@link setTimeZone(java.util.TimeZone) setTimeZone} may need to be restored for further operations." />
       <item value="then the two-digit year == the default start year" />
       <item value="If the year value is ambiguous," />
-      <item value="If the year value is ambiguous, then the two-digit year == the default start year" />
-      <item value="multiple points" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="182" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
