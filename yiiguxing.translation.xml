@@ -17,6 +17,13 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Build Increment" />
+      <item value="Buildincrement" />
+      <item value="Buildincremental" />
+      <item value="incremental Build" />
+      <item value="增量构建" />
+      <item value="build From" />
+      <item value="increase" />
       <item value="业务" />
       <item value="容器" />
       <item value="擦地工" />
@@ -60,19 +67,12 @@
       <item value="e Dumpper" />
       <item value="Play Data Source Dumpper" />
       <item value="procedure" />
-      <item value="播放会话中过程中的Bean对象" />
-      <item value="Need wait" />
-      <item value="会话未结束" />
-      <item value="会话结束,可以进行数据清洗" />
-      <item value="单条数据" />
-      <item value="更新播放会话单条数据" />
-      <item value="添加播放会话单条数据" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="200" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
