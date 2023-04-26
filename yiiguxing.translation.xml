@@ -17,6 +17,11 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="业务" />
+      <item value="容器" />
+      <item value="擦地工" />
+      <item value="洗刷" />
+      <item value="Data Washer" />
       <item value="allowing for implementation classes to be autodetected through classpath scanning." />
       <item value="This annotation serves as a specialization of {@link Component @Component}," />
       <item value="Indicates that an annotated class is a &quot;Service&quot;, originally defined by Domain-Driven Design (Evans, 2003) as &quot;an operation offered as an interface that stands alone in the model, with no encapsulated state.&quot; &lt;p&gt;May also indicate that a class is a &quot;Business Service Facade&quot; (in the Core J2EE patterns sense), or something similar. This annotation is a general-purpose stereotype and individual teams may narrow their semantics and use as appropriate. &lt;p&gt;This annotation serves as a specialization of {@link Component @Component}, allowing for implementation classes to be autodetected through classpath scanning. @author Juergen Hoeller @since 2.5" />
@@ -62,17 +67,12 @@
       <item value="单条数据" />
       <item value="更新播放会话单条数据" />
       <item value="添加播放会话单条数据" />
-      <item value="过期" />
-      <item value="source Data List" />
-      <item value="Data Wash" />
-      <item value="All of the {@code calendar}'s date-time fields are {@linkplain Calendarclear() cleared} before parsing," />
-      <item value="This parsing operation uses the {@link DateFormatcalendar calendar} to produce a {@code Date}" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="190" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
