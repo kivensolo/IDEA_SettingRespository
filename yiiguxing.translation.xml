@@ -17,6 +17,9 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="allowing for implementation classes to be autodetected through classpath scanning." />
+      <item value="This annotation serves as a specialization of {@link Component @Component}," />
+      <item value="Indicates that an annotated class is a &quot;Service&quot;, originally defined by Domain-Driven Design (Evans, 2003) as &quot;an operation offered as an interface that stands alone in the model, with no encapsulated state.&quot; &lt;p&gt;May also indicate that a class is a &quot;Business Service Facade&quot; (in the Core J2EE patterns sense), or something similar. This annotation is a general-purpose stereotype and individual teams may narrow their semantics and use as appropriate. &lt;p&gt;This annotation serves as a specialization of {@link Component @Component}, allowing for implementation classes to be autodetected through classpath scanning. @author Juergen Hoeller @since 2.5" />
       <item value="裸体" />
       <item value="duration" />
       <item value="Stutter Info" />
@@ -64,15 +67,12 @@
       <item value="Data Wash" />
       <item value="All of the {@code calendar}'s date-time fields are {@linkplain Calendarclear() cleared} before parsing," />
       <item value="This parsing operation uses the {@link DateFormatcalendar calendar} to produce a {@code Date}" />
-      <item value="This parsing operation uses the {@link DateFormatcalendar calendar} to produce a {@code Date}. All of the {@code calendar}'s date-time fields are {@linkplain Calendarclear() cleared} before parsing, and the {@code calendar}'s default values of the date-time fields are used for any missing date-time information. For example, the year value of the parsed {@code Date} is 1970 with {@link GregorianCalendar} if no year value is given from the parsing operation. The {@code TimeZone} value may be overwritten, depending on the given pattern and the time zone value in {@code text}. Any {@code TimeZone} value that has previously been set by a call to {@link setTimeZone(java.util.TimeZone) setTimeZone} may need to be restored for further operations." />
-      <item value="then the two-digit year == the default start year" />
-      <item value="If the year value is ambiguous," />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="185" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
