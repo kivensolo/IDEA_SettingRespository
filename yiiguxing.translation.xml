@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682231359791" />
+    <option name="lastTrimTime" value="1683270913378" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -17,6 +17,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Caller Sensitive" />
+      <item value="Invocation Handler" />
       <item value="Build Increment" />
       <item value="Buildincrement" />
       <item value="Buildincremental" />
@@ -65,14 +67,12 @@
       <item value="Play Data Source Dumper" />
       <item value="Dumper" />
       <item value="e Dumpper" />
-      <item value="Play Data Source Dumpper" />
-      <item value="procedure" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="202" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
