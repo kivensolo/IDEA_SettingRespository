@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/mallowigi/color-highlighter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Wang-Jun-Chao/asm-learning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\GitHubProjects" />
