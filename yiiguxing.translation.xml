@@ -1,10 +1,11 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683270913378" />
+    <option name="lastTrimTime" value="1688973798690" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
     <option name="translator" value="YOUDAO" />
+    <option name="wordbookStoragePath" value="C:\Users\ZekeWang\OneDrive\TranslationPlugin" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6953e2b0635b37a0" />
@@ -17,6 +18,9 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Convert a bound type to a value type." />
+      <item value="Convert a value type to a bound type." />
+      <item value="Specifies the XML target namespace of the XML Schema attribute." />
       <item value="Caller Sensitive" />
       <item value="Invocation Handler" />
       <item value="Build Increment" />
@@ -64,15 +68,12 @@
       <item value="No qualifying bean of type 'java.util.ArrayList&lt;com.starcor.adminapplication.domain.collect.PlayReportBean&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="JSON parse error: Unexpected character ('.' (code 46)): was expecting comma to separate Object entries; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character ('.' (code 46)): was expecting comma to separate Object entries at [Source: (PushbackInputStream); line: 18, column: 17]]" />
       <item value="was expecting comma" />
-      <item value="Play Data Source Dumper" />
-      <item value="Dumper" />
-      <item value="e Dumpper" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="206" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
@@ -81,5 +82,8 @@
         <entry key="TURKISH" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Translation.YoudaoSettings">
+    <option name="DOMAIN" value="COMPUTERS" />
   </component>
 </application>
