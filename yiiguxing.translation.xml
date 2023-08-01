@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688973798690" />
+    <option name="lastTrimTime" value="1690874051561" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -18,6 +18,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="instrument Code" />
+      <item value="Giraffe" />
       <item value="Xml Accessor Type" />
       <item value="marshal" />
       <item value="Convert a bound type to a value type." />
@@ -66,15 +68,13 @@
       <item value="describable" />
       <item value="可描述的" />
       <item value="ReactiveElasticsearchRestClientAutoConfiguration: Did not match: - @ConditionalOnClass did not find required class 'reactor.netty.http.client.HttpClient' (OnClassCondition)" />
-      <item value="Unconditional classes:" />
-      <item value="No qualifying bean of type 'java.util.ArrayList&lt;com.starcor.adminapplication.domain.collect.PlayReportBean&gt;' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="219" />
+        <entry key="CHINESE" value="221" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="ENGLISH" value="210" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
