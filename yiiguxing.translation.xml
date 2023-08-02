@@ -18,6 +18,10 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Xul Js Lexer" />
+      <item value="lexer" />
+      <item value="Flex Lexer" />
+      <item value="Lexer" />
       <item value="instrument Code" />
       <item value="Giraffe" />
       <item value="Xml Accessor Type" />
@@ -64,18 +68,15 @@
       <item value="播放计数" />
       <item value="描述文本，最好是json格式" />
       <item value="describe" />
-      <item value="描述" />
-      <item value="describable" />
-      <item value="可描述的" />
-      <item value="ReactiveElasticsearchRestClientAutoConfiguration: Did not match: - @ConditionalOnClass did not find required class 'reactor.netty.http.client.HttpClient' (OnClassCondition)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="221" />
+        <entry key="CHINESE" value="225" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="ENGLISH" value="213" />
         <entry key="FRENCH" value="1" />
+        <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="SUNDANESE" value="1" />
