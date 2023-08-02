@@ -18,6 +18,13 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Facet" />
+      <item value="See [SourceProviderManager] to get instances of [SourceProviders]." />
+      <item value="A project service providing access to various collections of source providers of a project." />
+      <item value="since-build='202.7660.26' property requires targetCompatibility=1.8" />
+      <item value="The Kotlin configuration specifies jvmTarget=11 but IntelliJ Platform 2020.2 requires jvmTarget=1.8." />
+      <item value="The following plugin configuration issues were found" />
+      <item value="VIRTUAL FILE" />
       <item value="Xul Js Lexer" />
       <item value="lexer" />
       <item value="Flex Lexer" />
@@ -61,24 +68,18 @@
       <item value="总概括" />
       <item value="Application failed to start due to an exception" />
       <item value="available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="wash Data In Every Minutes" />
-      <item value="wash Data In One Minutes" />
-      <item value="增加总数" />
-      <item value="Describe" />
-      <item value="播放计数" />
-      <item value="描述文本，最好是json格式" />
-      <item value="describe" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="225" />
+        <entry key="CHINESE" value="233" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="ENGLISH" value="219" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
+        <entry key="POLISH" value="2" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="TURKISH" value="1" />
