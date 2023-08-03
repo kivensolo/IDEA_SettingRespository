@@ -16,8 +16,9 @@
     <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="External Annotators Filter" />
+      <item value="is Prohibited" />
       <item value="Rendered representation of documentation comments" />
       <item value="Navigation info (shown in editor on CtrlCmd+mouse hover)" />
       <item value="Quick Documentation (invoked via explicit action or shown on mouse hover)&lt;li&gt;" />
@@ -66,15 +67,13 @@
       <item value="total counts" />
       <item value="Bi Consumer" />
       <item value="a function that creates a new result container. For a parallel execution, this function may be called multiple times and must return a fresh value each time." />
-      <item value="the intermediate accumulation type of the {@code Collector}" />
-      <item value="wash" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="237" />
+        <entry key="CHINESE" value="239" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="ENGLISH" value="225" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />

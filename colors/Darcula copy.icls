@@ -827,6 +827,12 @@
         <option name="FOREGROUND" value="ce9178" />
       </value>
     </option>
+    <option name="KDOC_LINK">
+      <value>
+        <option name="FOREGROUND" value="8ec74e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="bbb529" />
@@ -845,6 +851,11 @@
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
         <option name="FOREGROUND" value="2c7eb8" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="8ec74e" />
       </value>
     </option>
     <option name="KOTLIN_STRING">
