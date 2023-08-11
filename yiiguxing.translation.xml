@@ -17,6 +17,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes." />
+      <item value="Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
       <item value="Possible solution:" />
       <item value="org.jetbrains:annotations:24.0.0." />
       <item value="Could not resolve org.jetbrains.intellij.plugins:gradle-intellij-plugin:1.15.0." />
@@ -65,15 +67,13 @@
       <item value="build From" />
       <item value="increase" />
       <item value="业务" />
-      <item value="容器" />
-      <item value="擦地工" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="253" />
+        <entry key="CHINESE" value="255" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="ENGLISH" value="241" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
