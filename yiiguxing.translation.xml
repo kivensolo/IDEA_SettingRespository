@@ -17,6 +17,13 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Doesn't say anything about its target Java version (required compatibility with Java 8) - Doesn't say anything about its elements (required them packaged as a jar) - Doesn't say anything about org.gradle.plugin.api-version (required '8.2')" />
+      <item value="Other compatible attributes:" />
+      <item value="Variant 'apiElements' capability org.jetbrains.intellij.plugins:gradle-intellij-plugin:1.15.0 declares a library, packaged as a jar, and its dependencies declared externally:" />
+      <item value="The consumer was configured to find a library for use during runtime, compatible with Java 8, packaged as a jar, and its dependencies declared externally, as well as attribute 'org.gradle.plugin.api-version' with value '8.2' but:" />
+      <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 11 and the consumer needed a component for use during runtime, compatible with Java 8" />
+      <item value="Other compatible attribute:" />
+      <item value="Doesn't say anything about org.gradle.plugin.api-version" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="Ivy Descriptor File Generator" />
       <item value="Describes current action, this description will appear on the status bar when presentation has focus" />
@@ -60,20 +67,13 @@
       <item value="洗刷" />
       <item value="Data Washer" />
       <item value="allowing for implementation classes to be autodetected through classpath scanning." />
-      <item value="This annotation serves as a specialization of {@link Component @Component}," />
-      <item value="Indicates that an annotated class is a &quot;Service&quot;, originally defined by Domain-Driven Design (Evans, 2003) as &quot;an operation offered as an interface that stands alone in the model, with no encapsulated state.&quot; &lt;p&gt;May also indicate that a class is a &quot;Business Service Facade&quot; (in the Core J2EE patterns sense), or something similar. This annotation is a general-purpose stereotype and individual teams may narrow their semantics and use as appropriate. &lt;p&gt;This annotation serves as a specialization of {@link Component @Component}, allowing for implementation classes to be autodetected through classpath scanning. @author Juergen Hoeller @since 2.5" />
-      <item value="裸体" />
-      <item value="duration" />
-      <item value="Stutter Info" />
-      <item value="Cleaner" />
-      <item value="数据清洗" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="243" />
+        <entry key="CHINESE" value="250" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="ENGLISH" value="236" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
