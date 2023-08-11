@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690874051561" />
+    <option name="lastTrimTime" value="1691717022669" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -17,6 +17,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
+      <item value="Ivy Descriptor File Generator" />
       <item value="Describes current action, this description will appear on the status bar when presentation has focus" />
       <item value="Dynamic Bundle" />
       <item value="External Annotators Filter" />
@@ -65,15 +67,13 @@
       <item value="Stutter Info" />
       <item value="Cleaner" />
       <item value="数据清洗" />
-      <item value="counts" />
-      <item value="total counts" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="241" />
+        <entry key="CHINESE" value="243" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="ENGLISH" value="229" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
