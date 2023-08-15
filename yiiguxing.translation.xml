@@ -17,8 +17,10 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
-      <item value="Extension points defined by the plugin" />
+      <item value="Note that {@code PsiFile} passed to handler's methods isn't guaranteed to be in sync with the document at the time of invocation (due to performance considerations). {@link com.intellij.psi.PsiDocumentManagercommitDocument(Document)} should be invoked explicitly, if an up-to-date PSI is required." />
+      <item value="Handler, extending IDE behaviour on typing in editor." />
       <item value="Called after the specified character typed by the user has been inserted in the editor." />
+      <item value="Extension points defined by the plugin" />
       <item value="Make the document change in the context of a write action." />
       <item value="This is a custom {@link TypedHandlerDelegate} that handles actions activated keystrokes in the editor. The execute method inserts a fixed string at Offset 0 of the document. Document changes are made in the context of a write action." />
       <item value="May support several carets existing simultaneously in a document. {@link supportsMultipleCarets()} method can be used to find out whether particular instance of CaretModel does it. If it does, query and update methods for caret position operate on a certain 'primary' caret." />
@@ -65,15 +67,13 @@
       <item value="Convert to Gradle-based plugin" />
       <item value="Menu action to clone a new caret based on an existing one." />
       <item value="De-select the text range that was just replaced" />
-      <item value="Work off of the primary caret to get the selection info" />
-      <item value="Editor and Project were verified in update(), so they are not null." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="323" />
+        <entry key="CHINESE" value="326" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="ENGLISH" value="308" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
