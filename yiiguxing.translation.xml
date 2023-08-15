@@ -17,6 +17,27 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="The same action can have various presentations" />
+      <item value="place" />
+      <item value="presentation" />
+      <item value="you can dynamically change action's presentation" />
+      <item value="Represents an entity that has a state, a presentation and can be performed. For an action to be useful, you need to implement actionPerformed and optionally to override update. By overriding the update method you can dynamically change action's presentation depending on the place (for more information on places see ActionPlaces. The same action can have various presentations." />
+      <item value="Implement this method to provide your action handler. Params: e – Carries information on the invocation place" />
+      <item value="Updates the state of the action. Default implementation does nothing. Override this method to provide the ability to dynamically change action's state and(or) presentation depending on the context (For example when your action state depends on the selection you can check for selection and change the state accordingly).&lt;p&gt;&lt;p&gt; This method can be called frequently, and on UI thread. This means that this method is supposed to work really fast, no real work should be done at this phase. For example, checking selection in a tree or a list, is considered valid, but working with a file system or PSI (especially resolve) is not. If you cannot determine the state of the action fast enough, you should do it in the {@link actionPerformed(AnActionEvent)} method and notify the user that action cannot be executed if it's the case.&lt;p&gt;&lt;p&gt; If the action is added to a toolbar, its &quot;update&quot; can be called twice a second, but only if there was any user activity or a focus transfer. If your action's availability is changed in absence of any of these events, please call {@code ActivityTracker.getInstance().inc()} to notify action subsystem to update all toolbar actions when your subsystem's determines that its actions' visibility might be affected. @param e Carries information on the invocation place and data available" />
+      <item value="Illustration" />
+      <item value="Editor Illustration Action" />
+      <item value="Convert to Gradle-based plugin" />
+      <item value="Menu action to clone a new caret based on an existing one." />
+      <item value="De-select the text range that was just replaced" />
+      <item value="Work off of the primary caret to get the selection info" />
+      <item value="Editor and Project were verified in update(), so they are not null." />
+      <item value="Get all the required data from data keys" />
+      <item value="Event related to this action" />
+      <item value="Replaces the run of text selected by the primary caret with a fixed string." />
+      <item value="Sets visibility and enables this action menu item if:" />
+      <item value="Menu action to replace a selection of characters with a fixed string." />
+      <item value="Caused by: java.lang.UnsupportedClassVersionError: comwildfireij_pluginbase_plamtformeditorEditorIllustrationAction has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0" />
+      <item value="Cannot resolve the latest Gradle IntelliJ Plugin version" />
       <item value="Product and plugin compatibility requirements." />
       <item value="In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes." />
       <item value="Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
@@ -46,34 +67,13 @@
       <item value="since-build='202.7660.26' property requires targetCompatibility=1.8" />
       <item value="The Kotlin configuration specifies jvmTarget=11 but IntelliJ Platform 2020.2 requires jvmTarget=1.8." />
       <item value="The following plugin configuration issues were found" />
-      <item value="VIRTUAL FILE" />
-      <item value="Xul Js Lexer" />
-      <item value="lexer" />
-      <item value="Flex Lexer" />
-      <item value="Lexer" />
-      <item value="instrument Code" />
-      <item value="Giraffe" />
-      <item value="Xml Accessor Type" />
-      <item value="marshal" />
-      <item value="Convert a bound type to a value type." />
-      <item value="Convert a value type to a bound type." />
-      <item value="Specifies the XML target namespace of the XML Schema attribute." />
-      <item value="Caller Sensitive" />
-      <item value="Invocation Handler" />
-      <item value="Build Increment" />
-      <item value="Buildincrement" />
-      <item value="Buildincremental" />
-      <item value="incremental Build" />
-      <item value="增量构建" />
-      <item value="build From" />
-      <item value="increase" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="256" />
+        <entry key="CHINESE" value="281" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="ENGLISH" value="267" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
