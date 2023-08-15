@@ -17,6 +17,20 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Illustration" />
+      <item value="CARET" />
+      <item value="ACTION EDITOR CLONE CARET BELOW" />
+      <item value="Get the action manager in order to get the necessary action handler..." />
+      <item value="Clones a new caret at a higher Logical Position line number." />
+      <item value="Ensure the list of carets in the editor is not empty" />
+      <item value="Make sure at least one caret is available" />
+      <item value="Returns not null data by a data key. This method assumes that data has been checked for null in AnActionupdate method" />
+      <item value="Container for the information necessary to execute or update an AnAction." />
+      <item value="it's always enabled if a project and editor are open" />
+      <item value="Place this entry first in the popup menu" />
+      <item value="Handler" />
+      <item value="caret" />
+      <item value="Adds a second caret below the existing one" />
       <item value="The same action can have various presentations" />
       <item value="place" />
       <item value="presentation" />
@@ -24,7 +38,6 @@
       <item value="Represents an entity that has a state, a presentation and can be performed. For an action to be useful, you need to implement actionPerformed and optionally to override update. By overriding the update method you can dynamically change action's presentation depending on the place (for more information on places see ActionPlaces. The same action can have various presentations." />
       <item value="Implement this method to provide your action handler. Params: e – Carries information on the invocation place" />
       <item value="Updates the state of the action. Default implementation does nothing. Override this method to provide the ability to dynamically change action's state and(or) presentation depending on the context (For example when your action state depends on the selection you can check for selection and change the state accordingly).&lt;p&gt;&lt;p&gt; This method can be called frequently, and on UI thread. This means that this method is supposed to work really fast, no real work should be done at this phase. For example, checking selection in a tree or a list, is considered valid, but working with a file system or PSI (especially resolve) is not. If you cannot determine the state of the action fast enough, you should do it in the {@link actionPerformed(AnActionEvent)} method and notify the user that action cannot be executed if it's the case.&lt;p&gt;&lt;p&gt; If the action is added to a toolbar, its &quot;update&quot; can be called twice a second, but only if there was any user activity or a focus transfer. If your action's availability is changed in absence of any of these events, please call {@code ActivityTracker.getInstance().inc()} to notify action subsystem to update all toolbar actions when your subsystem's determines that its actions' visibility might be affected. @param e Carries information on the invocation place and data available" />
-      <item value="Illustration" />
       <item value="Editor Illustration Action" />
       <item value="Convert to Gradle-based plugin" />
       <item value="Menu action to clone a new caret based on an existing one." />
@@ -54,30 +67,18 @@
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="Ivy Descriptor File Generator" />
       <item value="Describes current action, this description will appear on the status bar when presentation has focus" />
-      <item value="Dynamic Bundle" />
-      <item value="External Annotators Filter" />
-      <item value="is Prohibited" />
-      <item value="Rendered representation of documentation comments" />
-      <item value="Navigation info (shown in editor on CtrlCmd+mouse hover)" />
-      <item value="Quick Documentation (invoked via explicit action or shown on mouse hover)&lt;li&gt;" />
-      <item value="This extension point allows to contribute content to the following IDE features:" />
-      <item value="Facet" />
-      <item value="See [SourceProviderManager] to get instances of [SourceProviders]." />
-      <item value="A project service providing access to various collections of source providers of a project." />
-      <item value="since-build='202.7660.26' property requires targetCompatibility=1.8" />
-      <item value="The Kotlin configuration specifies jvmTarget=11 but IntelliJ Platform 2020.2 requires jvmTarget=1.8." />
-      <item value="The following plugin configuration issues were found" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="281" />
+        <entry key="CHINESE" value="295" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="267" />
+        <entry key="ENGLISH" value="278" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="4" />
         <entry key="ITALIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="4" />
