@@ -17,6 +17,28 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Extension points defined by the plugin" />
+      <item value="Called after the specified character typed by the user has been inserted in the editor." />
+      <item value="Make the document change in the context of a write action." />
+      <item value="This is a custom {@link TypedHandlerDelegate} that handles actions activated keystrokes in the editor. The execute method inserts a fixed string at Offset 0 of the document. Document changes are made in the context of a write action." />
+      <item value="May support several carets existing simultaneously in a document. {@link supportsMultipleCarets()} method can be used to find out whether particular instance of CaretModel does it. If it does, query and update methods for caret position operate on a certain 'primary' caret." />
+      <item value="If it does, query and update methods for caret position operate on a certain 'primary' caret." />
+      <item value="How 'primary' caret is determined by the model is not defined (currently it's the most recently added caret, but that can change)." />
+      <item value="Update methods, {@link runBatchCaretOperation(Runnable)} and {@link runForEachCaret(CaretAction)} methods should only be run from EDT. Query methods can be run from any thread, when called not from EDT, those methods are 'not aware' of 'runForEachCaret' scope - they will always return information about primary caret." />
+      <item value="run Batch Caret Operation" />
+      <item value="At all times at least one caret will exist in a document." />
+      <item value="May support several carets existing simultaneously in a document." />
+      <item value="May support several carets existing simultaneously in a document. {@link supportsMultipleCarets()} method can be used to find out whether particular instance of CaretModel does it. If it does, query and update methods for caret position operate on a certain 'primary' caret. There exists a way to perform the same operation(s) on each caret - see {@link runForEachCaret(CaretAction)} method. Within its context, query and update methods operate on the current caret in that iteration. This behaviour can change in future though, so using caret and selection query and update methods in actions that need to operate on multiple carets is discouraged - methods on {@link Caret} instances obtained via {@link getAllCarets()} or {@link runForEachCaret(CaretAction)} should be used instead. &lt;p&gt; How 'primary' caret is determined by the model is not defined (currently it's the most recently added caret, but that can change). &lt;p&gt; At all times at least one caret will exist in a document. &lt;p&gt; Update methods, {@link runBatchCaretOperation(Runnable)} and {@link runForEachCaret(CaretAction)} methods should only be run from EDT. Query methods can be run from any thread, when called not from EDT, those methods are 'not aware' of 'runForEachCaret' scope - they will always return information about primary caret." />
+      <item value="Provides services for moving the caret and retrieving information about caret position." />
+      <item value="caret" />
+      <item value="caret model" />
+      <item value="Returns the caret model for the document, which can be used to add and remove carets to the editor, as well as to query and update carets' and corresponding selections' positions." />
+      <item value="Caret Model" />
+      <item value="If conditions support it, makes a menu visible to display information about the caret." />
+      <item value="Could not resolve org.jetbrains.intellij.plugins:gradle-intellij-plugin:1.13.3." />
+      <item value="Module Version Resolve Exception" />
+      <item value="Incompatible because this component declares documentation and the consumer needed a library" />
+      <item value="Incompatible because this component declares a component, compatible with Java 11 and the consumer needed a component, compatible with Java 8" />
       <item value="Editor Add Caret" />
       <item value="Editor Add Care" />
       <item value="Illustration" />
@@ -31,7 +53,6 @@
       <item value="it's always enabled if a project and editor are open" />
       <item value="Place this entry first in the popup menu" />
       <item value="Handler" />
-      <item value="caret" />
       <item value="Adds a second caret below the existing one" />
       <item value="The same action can have various presentations" />
       <item value="place" />
@@ -46,37 +67,16 @@
       <item value="De-select the text range that was just replaced" />
       <item value="Work off of the primary caret to get the selection info" />
       <item value="Editor and Project were verified in update(), so they are not null." />
-      <item value="Get all the required data from data keys" />
-      <item value="Event related to this action" />
-      <item value="Replaces the run of text selected by the primary caret with a fixed string." />
-      <item value="Sets visibility and enables this action menu item if:" />
-      <item value="Menu action to replace a selection of characters with a fixed string." />
-      <item value="Caused by: java.lang.UnsupportedClassVersionError: comwildfireij_pluginbase_plamtformeditorEditorIllustrationAction has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0" />
-      <item value="Cannot resolve the latest Gradle IntelliJ Plugin version" />
-      <item value="Product and plugin compatibility requirements." />
-      <item value="In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes." />
-      <item value="Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
-      <item value="Possible solution:" />
-      <item value="org.jetbrains:annotations:24.0.0." />
-      <item value="Could not resolve org.jetbrains.intellij.plugins:gradle-intellij-plugin:1.15.0." />
-      <item value="Doesn't say anything about its target Java version (required compatibility with Java 8) - Doesn't say anything about its elements (required them packaged as a jar) - Doesn't say anything about org.gradle.plugin.api-version (required '8.2')" />
-      <item value="Other compatible attributes:" />
-      <item value="Variant 'apiElements' capability org.jetbrains.intellij.plugins:gradle-intellij-plugin:1.15.0 declares a library, packaged as a jar, and its dependencies declared externally:" />
-      <item value="The consumer was configured to find a library for use during runtime, compatible with Java 8, packaged as a jar, and its dependencies declared externally, as well as attribute 'org.gradle.plugin.api-version' with value '8.2' but:" />
-      <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 11 and the consumer needed a component for use during runtime, compatible with Java 8" />
-      <item value="Other compatible attribute:" />
-      <item value="Doesn't say anything about org.gradle.plugin.api-version" />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="297" />
+        <entry key="CHINESE" value="323" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="ENGLISH" value="305" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="4" />
+        <entry key="INDONESIAN" value="5" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="POLISH" value="2" />
