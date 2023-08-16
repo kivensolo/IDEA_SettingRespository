@@ -17,12 +17,15 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="the quick brown fox&quot;" />
+      <item value="if any is available" />
+      <item value="Retrieve the text from the macro or selection" />
+      <item value="Retrieve the text from the macro or selection, if any is available." />
       <item value="by typing the `{&lt;TAB&gt;`, the following template will be inserted: `[TEXT](LINK)END`" />
       <item value="New link reference" />
       <item value="Might want to be less restrictive in future" />
       <item value="is Acceptable In Context" />
       <item value="Capitalize the start of every word" />
-      <item value="Retrieve the text from the macro or selection, if any is available." />
       <item value="A macro which can be used in live templates." />
       <item value="calculate Result" />
       <item value="uphold" />
@@ -64,16 +67,13 @@
       <item value="CARET" />
       <item value="ACTION EDITOR CLONE CARET BELOW" />
       <item value="Get the action manager in order to get the necessary action handler..." />
-      <item value="Clones a new caret at a higher Logical Position line number." />
-      <item value="Ensure the list of carets in the editor is not empty" />
-      <item value="Make sure at least one caret is available" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="344" />
+        <entry key="CHINESE" value="348" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="ENGLISH" value="330" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
