@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691717022669" />
+    <option name="lastTrimTime" value="1692152346556" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -17,6 +17,23 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="by typing the `{&lt;TAB&gt;`, the following template will be inserted: `[TEXT](LINK)END`" />
+      <item value="New link reference" />
+      <item value="Might want to be less restrictive in future" />
+      <item value="is Acceptable In Context" />
+      <item value="Capitalize the start of every word" />
+      <item value="Retrieve the text from the macro or selection, if any is available." />
+      <item value="A macro which can be used in live templates." />
+      <item value="calculate Result" />
+      <item value="uphold" />
+      <item value="Strictly to uphold contract for constructors in base class." />
+      <item value="Presentable" />
+      <item value="Presentable Name" />
+      <item value="Macro" />
+      <item value="Title Case Macro" />
+      <item value="Template Context Type" />
+      <item value="Macro Base" />
+      <item value="Convert to title case - retrieves the text from the macro or selection, if available" />
       <item value="Note that {@code PsiFile} passed to handler's methods isn't guaranteed to be in sync with the document at the time of invocation (due to performance considerations). {@link com.intellij.psi.PsiDocumentManagercommitDocument(Document)} should be invoked explicitly, if an up-to-date PSI is required." />
       <item value="Handler, extending IDE behaviour on typing in editor." />
       <item value="Called after the specified character typed by the user has been inserted in the editor." />
@@ -50,30 +67,13 @@
       <item value="Clones a new caret at a higher Logical Position line number." />
       <item value="Ensure the list of carets in the editor is not empty" />
       <item value="Make sure at least one caret is available" />
-      <item value="Returns not null data by a data key. This method assumes that data has been checked for null in AnActionupdate method" />
-      <item value="Container for the information necessary to execute or update an AnAction." />
-      <item value="it's always enabled if a project and editor are open" />
-      <item value="Place this entry first in the popup menu" />
-      <item value="Handler" />
-      <item value="Adds a second caret below the existing one" />
-      <item value="The same action can have various presentations" />
-      <item value="place" />
-      <item value="presentation" />
-      <item value="you can dynamically change action's presentation" />
-      <item value="Represents an entity that has a state, a presentation and can be performed. For an action to be useful, you need to implement actionPerformed and optionally to override update. By overriding the update method you can dynamically change action's presentation depending on the place (for more information on places see ActionPlaces. The same action can have various presentations." />
-      <item value="Implement this method to provide your action handler. Params: e – Carries information on the invocation place" />
-      <item value="Updates the state of the action. Default implementation does nothing. Override this method to provide the ability to dynamically change action's state and(or) presentation depending on the context (For example when your action state depends on the selection you can check for selection and change the state accordingly).&lt;p&gt;&lt;p&gt; This method can be called frequently, and on UI thread. This means that this method is supposed to work really fast, no real work should be done at this phase. For example, checking selection in a tree or a list, is considered valid, but working with a file system or PSI (especially resolve) is not. If you cannot determine the state of the action fast enough, you should do it in the {@link actionPerformed(AnActionEvent)} method and notify the user that action cannot be executed if it's the case.&lt;p&gt;&lt;p&gt; If the action is added to a toolbar, its &quot;update&quot; can be called twice a second, but only if there was any user activity or a focus transfer. If your action's availability is changed in absence of any of these events, please call {@code ActivityTracker.getInstance().inc()} to notify action subsystem to update all toolbar actions when your subsystem's determines that its actions' visibility might be affected. @param e Carries information on the invocation place and data available" />
-      <item value="Editor Illustration Action" />
-      <item value="Convert to Gradle-based plugin" />
-      <item value="Menu action to clone a new caret based on an existing one." />
-      <item value="De-select the text range that was just replaced" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="326" />
+        <entry key="CHINESE" value="344" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="ENGLISH" value="326" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
