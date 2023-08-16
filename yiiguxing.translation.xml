@@ -17,6 +17,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="get Presentable Name" />
+      <item value="to Shorten FQ Names" />
       <item value="the quick brown fox&quot;" />
       <item value="if any is available" />
       <item value="Retrieve the text from the macro or selection" />
@@ -65,15 +67,13 @@
       <item value="Editor Add Care" />
       <item value="Illustration" />
       <item value="CARET" />
-      <item value="ACTION EDITOR CLONE CARET BELOW" />
-      <item value="Get the action manager in order to get the necessary action handler..." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="348" />
+        <entry key="CHINESE" value="350" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="ENGLISH" value="332" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
