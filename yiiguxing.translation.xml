@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692152346556" />
+    <option name="lastTrimTime" value="1693189449171" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -17,6 +17,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Tool Windows are child windows of the IDE used to display information. These windows generally have their toolbars (referred to as tool window bars) along the outer edges of the main window containing one or more tool window buttons, which activate panels displayed on the left, bottom, and right sides of the main IDE window. The current implementation displays a `JPanel` component containing simple icons and information about the actual system date, time, and timezone. Component is provided by the `CalendarToolWindowFactory.CalendarToolWindowContent` class through the `getContentPanel()` method invoked inside the `CalendarToolWindowFactory` implementation." />
+      <item value="This demo project shows how to add an extra step to the Project Wizard to provide additional project configuration settings. The new step contains a simple `JLabel` element as an example presentation of the new step content." />
       <item value="containing class" />
       <item value="containing method" />
       <item value="Provides several default notification dialogs (&quot;OK|Cancel&quot;) as well as simple input dialogs." />
@@ -65,15 +67,13 @@
       <item value="Returns the caret model for the document, which can be used to add and remove carets to the editor, as well as to query and update carets' and corresponding selections' positions." />
       <item value="Caret Model" />
       <item value="If conditions support it, makes a menu visible to display information about the caret." />
-      <item value="Could not resolve org.jetbrains.intellij.plugins:gradle-intellij-plugin:1.13.3." />
-      <item value="Module Version Resolve Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="356" />
+        <entry key="CHINESE" value="358" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="ENGLISH" value="340" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
