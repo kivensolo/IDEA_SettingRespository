@@ -17,6 +17,10 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Aware" />
+      <item value="Dumb" />
+      <item value="Dumb Aware" />
+      <item value="A marker interface for the things that are allowed to run in dumb mode (when indices are in background update). Implementors must take care of handling andor not calling non-DumbAware parts of system." />
       <item value="Tool Windows are child windows of the IDE used to display information. These windows generally have their toolbars (referred to as tool window bars) along the outer edges of the main window containing one or more tool window buttons, which activate panels displayed on the left, bottom, and right sides of the main IDE window. The current implementation displays a `JPanel` component containing simple icons and information about the actual system date, time, and timezone. Component is provided by the `CalendarToolWindowFactory.CalendarToolWindowContent` class through the `getContentPanel()` method invoked inside the `CalendarToolWindowFactory` implementation." />
       <item value="This demo project shows how to add an extra step to the Project Wizard to provide additional project configuration settings. The new step contains a simple `JLabel` element as an example presentation of the new step content." />
       <item value="containing class" />
@@ -63,17 +67,13 @@
       <item value="May support several carets existing simultaneously in a document. {@link supportsMultipleCarets()} method can be used to find out whether particular instance of CaretModel does it. If it does, query and update methods for caret position operate on a certain 'primary' caret. There exists a way to perform the same operation(s) on each caret - see {@link runForEachCaret(CaretAction)} method. Within its context, query and update methods operate on the current caret in that iteration. This behaviour can change in future though, so using caret and selection query and update methods in actions that need to operate on multiple carets is discouraged - methods on {@link Caret} instances obtained via {@link getAllCarets()} or {@link runForEachCaret(CaretAction)} should be used instead. &lt;p&gt; How 'primary' caret is determined by the model is not defined (currently it's the most recently added caret, but that can change). &lt;p&gt; At all times at least one caret will exist in a document. &lt;p&gt; Update methods, {@link runBatchCaretOperation(Runnable)} and {@link runForEachCaret(CaretAction)} methods should only be run from EDT. Query methods can be run from any thread, when called not from EDT, those methods are 'not aware' of 'runForEachCaret' scope - they will always return information about primary caret." />
       <item value="Provides services for moving the caret and retrieving information about caret position." />
       <item value="caret" />
-      <item value="caret model" />
-      <item value="Returns the caret model for the document, which can be used to add and remove carets to the editor, as well as to query and update carets' and corresponding selections' positions." />
-      <item value="Caret Model" />
-      <item value="If conditions support it, makes a menu visible to display information about the caret." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="358" />
+        <entry key="CHINESE" value="362" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="ENGLISH" value="344" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
