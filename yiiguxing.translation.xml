@@ -17,6 +17,10 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Incompatible because this component declares a component, compatible with Java 11 and the consumer needed a component, compatible with Java 8" />
+      <item value="this version of the Java Runtime only recognizes class file versions up to 55.0" />
+      <item value="orgintellijsdktoolWindowCalendarToolWindowFactory has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0 [Plugin: org.intellij.sdk.toolWindow] [Plugin: org.intellij.sdk.toolWindow]" />
+      <item value="has been compiled by a more recent version of the Java Runtime" />
       <item value="The current implementation displays a `JPanel` component containing simple icons and information about the actual system date, time, and timezone. Component is provided by the `CalendarToolWindowFactory.CalendarToolWindowContent` class through the `getContentPanel()` method invoked inside the `CalendarToolWindowFactory` implementation." />
       <item value="dumb mode" />
       <item value="A marker interface for the things that are allowed to run in dumb mode (when indices are in background update). Implementors must take care of handling andor not calling non-DumbAware parts of system. &lt;p&gt; Some known implementors are:" />
@@ -63,17 +67,13 @@
       <item value="May support several carets existing simultaneously in a document. {@link supportsMultipleCarets()} method can be used to find out whether particular instance of CaretModel does it. If it does, query and update methods for caret position operate on a certain 'primary' caret." />
       <item value="If it does, query and update methods for caret position operate on a certain 'primary' caret." />
       <item value="How 'primary' caret is determined by the model is not defined (currently it's the most recently added caret, but that can change)." />
-      <item value="Update methods, {@link runBatchCaretOperation(Runnable)} and {@link runForEachCaret(CaretAction)} methods should only be run from EDT. Query methods can be run from any thread, when called not from EDT, those methods are 'not aware' of 'runForEachCaret' scope - they will always return information about primary caret." />
-      <item value="run Batch Caret Operation" />
-      <item value="At all times at least one caret will exist in a document." />
-      <item value="May support several carets existing simultaneously in a document." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="365" />
+        <entry key="CHINESE" value="369" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="ENGLISH" value="351" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
