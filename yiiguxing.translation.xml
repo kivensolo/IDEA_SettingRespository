@@ -17,6 +17,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="dumb mode" />
+      <item value="A marker interface for the things that are allowed to run in dumb mode (when indices are in background update). Implementors must take care of handling andor not calling non-DumbAware parts of system. &lt;p&gt; Some known implementors are:" />
       <item value="Aware" />
       <item value="Dumb" />
       <item value="Dumb Aware" />
@@ -65,15 +67,13 @@
       <item value="At all times at least one caret will exist in a document." />
       <item value="May support several carets existing simultaneously in a document." />
       <item value="May support several carets existing simultaneously in a document. {@link supportsMultipleCarets()} method can be used to find out whether particular instance of CaretModel does it. If it does, query and update methods for caret position operate on a certain 'primary' caret. There exists a way to perform the same operation(s) on each caret - see {@link runForEachCaret(CaretAction)} method. Within its context, query and update methods operate on the current caret in that iteration. This behaviour can change in future though, so using caret and selection query and update methods in actions that need to operate on multiple carets is discouraged - methods on {@link Caret} instances obtained via {@link getAllCarets()} or {@link runForEachCaret(CaretAction)} should be used instead. &lt;p&gt; How 'primary' caret is determined by the model is not defined (currently it's the most recently added caret, but that can change). &lt;p&gt; At all times at least one caret will exist in a document. &lt;p&gt; Update methods, {@link runBatchCaretOperation(Runnable)} and {@link runForEachCaret(CaretAction)} methods should only be run from EDT. Query methods can be run from any thread, when called not from EDT, those methods are 'not aware' of 'runForEachCaret' scope - they will always return information about primary caret." />
-      <item value="Provides services for moving the caret and retrieving information about caret position." />
-      <item value="caret" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="362" />
+        <entry key="CHINESE" value="364" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="ENGLISH" value="346" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
