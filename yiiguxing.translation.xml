@@ -17,6 +17,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Provides a UI to configure internal settings of the IDE." />
       <item value="Incompatible because this component declares a component, compatible with Java 11 and the consumer needed a component, compatible with Java 8" />
       <item value="this version of the Java Runtime only recognizes class file versions up to 55.0" />
       <item value="orgintellijsdktoolWindowCalendarToolWindowFactory has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0 [Plugin: org.intellij.sdk.toolWindow] [Plugin: org.intellij.sdk.toolWindow]" />
@@ -66,14 +67,13 @@
       <item value="This is a custom {@link TypedHandlerDelegate} that handles actions activated keystrokes in the editor. The execute method inserts a fixed string at Offset 0 of the document. Document changes are made in the context of a write action." />
       <item value="May support several carets existing simultaneously in a document. {@link supportsMultipleCarets()} method can be used to find out whether particular instance of CaretModel does it. If it does, query and update methods for caret position operate on a certain 'primary' caret." />
       <item value="If it does, query and update methods for caret position operate on a certain 'primary' caret." />
-      <item value="How 'primary' caret is determined by the model is not defined (currently it's the most recently added caret, but that can change)." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="369" />
+        <entry key="CHINESE" value="370" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
