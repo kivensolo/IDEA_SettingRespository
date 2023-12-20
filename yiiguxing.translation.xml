@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699012219484" />
+    <option name="lastTrimTime" value="1703059986408" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -17,6 +17,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="常用功能区" />
       <item value="Caculate" />
       <item value="Updates were rejected because the remote contains work that you do" />
       <item value="temporary" />
@@ -66,14 +67,13 @@
       <item value="Note that {@code PsiFile} passed to handler's methods isn't guaranteed to be in sync with the document at the time of invocation (due to performance considerations). {@link com.intellij.psi.PsiDocumentManagercommitDocument(Document)} should be invoked explicitly, if an up-to-date PSI is required." />
       <item value="Handler, extending IDE behaviour on typing in editor." />
       <item value="Called after the specified character typed by the user has been inserted in the editor." />
-      <item value="Extension points defined by the plugin" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="374" />
+        <entry key="CHINESE" value="375" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
