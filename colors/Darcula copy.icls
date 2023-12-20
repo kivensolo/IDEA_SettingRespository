@@ -25877,6 +25877,7 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
+        <option name="FOREGROUND" value="e6c495" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -25892,7 +25893,7 @@
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="a5844c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -25918,7 +25919,7 @@
     </option>
     <option name="PY.NESTED_FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="e6c495" />
+        <option name="FOREGROUND" value="a5844c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -25943,7 +25944,9 @@
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="b06b99" />
+      </value>
     </option>
     <option name="PY.STRING.B">
       <value>
@@ -25952,7 +25955,7 @@
     </option>
     <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="84c473" />
+        <option name="FOREGROUND" value="5f9667" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
