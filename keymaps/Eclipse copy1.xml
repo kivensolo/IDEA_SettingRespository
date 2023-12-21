@@ -1,4 +1,10 @@
 <keymap version="1" name="Eclipse copy1" parent="Eclipse">
+  <action id="ChangesView.ShelveSilently" />
+  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy.BaseOnThisMethod" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
   <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
