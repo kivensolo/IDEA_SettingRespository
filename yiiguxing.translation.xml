@@ -17,6 +17,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="Choice" />
       <item value="窗口屏幕占比" />
       <item value="退出" />
       <item value="quite" />
@@ -66,14 +67,13 @@
       <item value="Macro" />
       <item value="Title Case Macro" />
       <item value="Template Context Type" />
-      <item value="Macro Base" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="379" />
+        <entry key="CHINESE" value="380" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
