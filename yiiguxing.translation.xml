@@ -17,6 +17,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="富文本" />
       <item value="strip" />
       <item value="应用进程" />
       <item value="Process" />
@@ -66,14 +67,13 @@
       <item value="calculate Result" />
       <item value="uphold" />
       <item value="Strictly to uphold contract for constructors in base class." />
-      <item value="Presentable" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="385" />
+        <entry key="CHINESE" value="386" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
