@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1703059986408" />
+    <option name="lastTrimTime" value="1703565540942" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -17,6 +17,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="列" />
       <item value="富文本" />
       <item value="strip" />
       <item value="应用进程" />
@@ -66,14 +67,13 @@
       <item value="A macro which can be used in live templates." />
       <item value="calculate Result" />
       <item value="uphold" />
-      <item value="Strictly to uphold contract for constructors in base class." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="386" />
+        <entry key="CHINESE" value="387" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
