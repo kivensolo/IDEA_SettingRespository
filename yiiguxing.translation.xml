@@ -17,6 +17,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="便捷操作区域" />
+      <item value="常用操作区域" />
       <item value="列" />
       <item value="富文本" />
       <item value="strip" />
@@ -65,15 +67,13 @@
       <item value="is Acceptable In Context" />
       <item value="Capitalize the start of every word" />
       <item value="A macro which can be used in live templates." />
-      <item value="calculate Result" />
-      <item value="uphold" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="387" />
+        <entry key="CHINESE" value="390" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="ENGLISH" value="372" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
