@@ -17,6 +17,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="格式" />
+      <item value="通配符" />
       <item value="cannot set 'isShell' attribute of immutable type 'object'" />
       <item value="argument 1 has unexpected type 'NoneType'" />
       <item value="便捷操作区域" />
@@ -65,15 +67,13 @@
       <item value="Retrieve the text from the macro or selection, if any is available." />
       <item value="by typing the `{&lt;TAB&gt;`, the following template will be inserted: `[TEXT](LINK)END`" />
       <item value="New link reference" />
-      <item value="Might want to be less restrictive in future" />
-      <item value="is Acceptable In Context" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="392" />
+        <entry key="CHINESE" value="394" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="ENGLISH" value="376" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
