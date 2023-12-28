@@ -17,6 +17,9 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="屏幕截图获取中" />
+      <item value="Screenshot saving" />
+      <item value="saving" />
       <item value="格式" />
       <item value="通配符" />
       <item value="cannot set 'isShell' attribute of immutable type 'object'" />
@@ -64,16 +67,13 @@
       <item value="the quick brown fox&quot;" />
       <item value="if any is available" />
       <item value="Retrieve the text from the macro or selection" />
-      <item value="Retrieve the text from the macro or selection, if any is available." />
-      <item value="by typing the `{&lt;TAB&gt;`, the following template will be inserted: `[TEXT](LINK)END`" />
-      <item value="New link reference" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="394" />
+        <entry key="CHINESE" value="397" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="ENGLISH" value="379" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
