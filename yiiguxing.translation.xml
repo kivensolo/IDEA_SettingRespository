@@ -17,6 +17,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="diskstats" />
       <item value="屏幕截图获取中" />
       <item value="Screenshot saving" />
       <item value="saving" />
@@ -66,12 +67,12 @@
       <item value="to Shorten FQ Names" />
       <item value="the quick brown fox&quot;" />
       <item value="if any is available" />
-      <item value="Retrieve the text from the macro or selection" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="397" />
+        <entry key="CATALAN" value="1" />
+        <entry key="CHINESE" value="398" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="379" />
         <entry key="FRENCH" value="1" />
