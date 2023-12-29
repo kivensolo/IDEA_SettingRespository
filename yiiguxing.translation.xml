@@ -17,6 +17,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="降级" />
       <item value="Buttom" />
       <item value="高亮" />
       <item value="diskstats" />
@@ -66,15 +67,14 @@
       <item value="PSI Demo project demonstrates working with the PSI Navigation by implementing `AnAction` that through the message dialog, informs about:" />
       <item value="A problem occurred configuring root project" />
       <item value="get Presentable Name" />
-      <item value="to Shorten FQ Names" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="400" />
+        <entry key="CHINESE" value="401" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="FINNISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
