@@ -17,8 +17,8 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
-      <item value="降级" />
       <item value="Buttom" />
+      <item value="降级" />
       <item value="高亮" />
       <item value="diskstats" />
       <item value="屏幕截图获取中" />
@@ -72,10 +72,10 @@
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="401" />
+        <entry key="CHINESE" value="402" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="381" />
-        <entry key="FINNISH" value="1" />
+        <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
