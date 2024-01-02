@@ -13,10 +13,15 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Abort" />
+      <item value="终止" />
+      <item value="abord" />
+      <item value="abort" />
       <item value="Return with status (not strictly necessary)" />
       <item value="Signal to update the QLabel in the main thread" />
       <item value="End of output reached, break the loop and exit the thread" />
@@ -63,24 +68,20 @@
       <item value="this version of the Java Runtime only recognizes class file versions up to 55.0" />
       <item value="orgintellijsdktoolWindowCalendarToolWindowFactory has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0 [Plugin: org.intellij.sdk.toolWindow] [Plugin: org.intellij.sdk.toolWindow]" />
       <item value="has been compiled by a more recent version of the Java Runtime" />
-      <item value="The current implementation displays a `JPanel` component containing simple icons and information about the actual system date, time, and timezone. Component is provided by the `CalendarToolWindowFactory.CalendarToolWindowContent` class through the `getContentPanel()` method invoked inside the `CalendarToolWindowFactory` implementation." />
-      <item value="dumb mode" />
-      <item value="A marker interface for the things that are allowed to run in dumb mode (when indices are in background update). Implementors must take care of handling andor not calling non-DumbAware parts of system. &lt;p&gt; Some known implementors are:" />
-      <item value="Aware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="AFRIKAANS" value="1" />
+        <entry key="AFRIKAANS" value="3" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="414" />
+        <entry key="CHINESE" value="421" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="ENGLISH" value="396" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="5" />
         <entry key="ITALIAN" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="POLISH" value="2" />
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="4" />
