@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1703565540942" />
+    <option name="lastTrimTime" value="1704174738208" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -17,6 +17,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="communicate" />
       <item value="Buttom" />
       <item value="降级" />
       <item value="高亮" />
@@ -66,15 +67,14 @@
       <item value="- an element at the caret, - containing method, - containing class, - local variables." />
       <item value="PSI Demo project demonstrates working with the PSI Navigation by implementing `AnAction` that through the message dialog, informs about:" />
       <item value="A problem occurred configuring root project" />
-      <item value="get Presentable Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="402" />
+        <entry key="CHINESE" value="403" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
