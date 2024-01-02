@@ -17,6 +17,7 @@
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <histories>
+      <item value="异步" />
       <item value="communicate" />
       <item value="Buttom" />
       <item value="降级" />
@@ -66,15 +67,14 @@
       <item value="Provides several default notification dialogs (&quot;OK|Cancel&quot;) as well as simple input dialogs." />
       <item value="- an element at the caret, - containing method, - containing class, - local variables." />
       <item value="PSI Demo project demonstrates working with the PSI Navigation by implementing `AnAction` that through the message dialog, informs about:" />
-      <item value="A problem occurred configuring root project" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="403" />
+        <entry key="CHINESE" value="404" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="ENGLISH" value="383" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
