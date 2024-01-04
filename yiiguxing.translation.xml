@@ -18,6 +18,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Default levels and level names, these can be replaced with any positive set of values having corresponding names. There is a pseudo-level, NOTSET, which is only really there as a lower limit for user-defined levels. Handlers and loggers are initialized with NOTSET so that they will log all messages, even at user-defined levels." />
+      <item value="NOTSET" />
       <item value="纯" />
       <item value="char.isalpha()" />
       <item value="isalpha" />
@@ -66,16 +68,14 @@
       <item value="horizontal" />
       <item value="常用功能区" />
       <item value="Caculate" />
-      <item value="Updates were rejected because the remote contains work that you do" />
-      <item value="temporary" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="427" />
+        <entry key="CHINESE" value="430" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="ENGLISH" value="401" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
@@ -86,6 +86,7 @@
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="TURKISH" value="1" />
+        <entry key="UZBEK" value="2" />
       </map>
     </option>
   </component>
