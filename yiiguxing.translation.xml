@@ -18,6 +18,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="纯" />
       <item value="char.isalpha()" />
       <item value="isalpha" />
       <item value="contains alphabet" />
@@ -67,15 +68,14 @@
       <item value="Caculate" />
       <item value="Updates were rejected because the remote contains work that you do" />
       <item value="temporary" />
-      <item value="Alpha" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="426" />
+        <entry key="CHINESE" value="427" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="ENGLISH" value="400" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
