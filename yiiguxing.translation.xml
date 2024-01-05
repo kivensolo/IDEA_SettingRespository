@@ -18,6 +18,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="argument 1 has unexpected type 'tuple'" />
       <item value="Convenient Area" />
       <item value="alias" />
       <item value="别名" />
@@ -67,15 +68,14 @@
       <item value="strip" />
       <item value="应用进程" />
       <item value="Process" />
-      <item value="cannot import name 'MainWindow' from partially initialized module 'ui.MainWindow' (most likely due to a circular import) (E:\GitHubProjects\EasyPyADB\ui\MainWindow.py)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="438" />
+        <entry key="CHINESE" value="439" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="ENGLISH" value="409" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
