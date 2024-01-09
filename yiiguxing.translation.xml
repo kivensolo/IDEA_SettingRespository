@@ -18,6 +18,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="can only concatenate str (not &quot;CalledProcessError&quot;) to str" />
       <item value="监听者" />
       <item value="警告" />
       <item value="验证" />
@@ -67,15 +68,14 @@
       <item value="saving" />
       <item value="格式" />
       <item value="通配符" />
-      <item value="cannot set 'isShell' attribute of immutable type 'object'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="448" />
+        <entry key="CHINESE" value="449" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
