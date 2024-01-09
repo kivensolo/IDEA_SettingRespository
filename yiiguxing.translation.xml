@@ -18,6 +18,9 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="验证" />
+      <item value="verfily" />
+      <item value="verfiy" />
       <item value="rootModelIndex(self) -&gt; QModelIndex" />
       <item value="real signature unknown; restored from __doc__" />
       <item value="types is normally a sequence of individual types. Each type is either a type object or a string that is the name of a C++ type. Alternatively each type could itself be a sequence of types each describing a different overloaded signal. name is the optional C++ name of the signal. If it is not specified then the name of the class attribute that is bound to the signal is used. revision is the optional revision of the signal that is exported to QML. If it is not specified then 0 is used. arguments is the optional sequence of the names of the signal's arguments." />
@@ -65,20 +68,18 @@
       <item value="cannot set 'isShell' attribute of immutable type 'object'" />
       <item value="argument 1 has unexpected type 'NoneType'" />
       <item value="便捷操作区域" />
-      <item value="常用操作区域" />
-      <item value="列" />
-      <item value="富文本" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="443" />
+        <entry key="CHINESE" value="446" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
+        <entry key="ICELANDIC" value="1" />
         <entry key="INDONESIAN" value="6" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="3" />
@@ -86,7 +87,7 @@
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="TURKISH" value="1" />
-        <entry key="UZBEK" value="2" />
+        <entry key="UZBEK" value="3" />
         <entry key="WELSH" value="1" />
       </map>
     </option>
