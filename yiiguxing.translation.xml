@@ -18,6 +18,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="convert unicode" />
       <item value="Set the logging level of this handler. level must be an int or a str." />
       <item value="can only concatenate str (not &quot;CalledProcessError&quot;) to str" />
       <item value="监听者" />
@@ -67,15 +68,14 @@
       <item value="屏幕截图获取中" />
       <item value="Screenshot saving" />
       <item value="saving" />
-      <item value="格式" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="450" />
+        <entry key="CHINESE" value="451" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
