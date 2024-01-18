@@ -18,6 +18,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="过滤" />
+      <item value="Filter" />
       <item value="types is normally a sequence of individual types. Each type is either a type object or a string that is the name of a C++ type. Alternatively each type could itself be a sequence of types each describing a different overloaded signal. name is the optional C++ name of the signal. If it is not specified then the name of the class attribute that is bound to the signal is used. revision is the optional revision of the signal that is exported to QML. If it is not specified then 0 is used. arguments is the optional sequence of the names of the signal's arguments." />
       <item value="living Log" />
       <item value="live Log" />
@@ -66,16 +68,14 @@
       <item value="Buttom" />
       <item value="降级" />
       <item value="高亮" />
-      <item value="diskstats" />
-      <item value="屏幕截图获取中" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="454" />
+        <entry key="CHINESE" value="456" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="421" />
+        <entry key="ENGLISH" value="423" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
