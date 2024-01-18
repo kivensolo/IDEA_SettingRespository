@@ -18,6 +18,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="NOTSET" />
       <item value="过滤" />
       <item value="Filter" />
       <item value="types is normally a sequence of individual types. Each type is either a type object or a string that is the name of a C++ type. Alternatively each type could itself be a sequence of types each describing a different overloaded signal. name is the optional C++ name of the signal. If it is not specified then the name of the class attribute that is bound to the signal is used. revision is the optional revision of the signal that is exported to QML. If it is not specified then 0 is used. arguments is the optional sequence of the names of the signal's arguments." />
@@ -42,7 +43,6 @@
       <item value="warning" />
       <item value="Scroll to bottom" />
       <item value="Default levels and level names, these can be replaced with any positive set of values having corresponding names. There is a pseudo-level, NOTSET, which is only really there as a lower limit for user-defined levels. Handlers and loggers are initialized with NOTSET so that they will log all messages, even at user-defined levels." />
-      <item value="NOTSET" />
       <item value="纯" />
       <item value="char.isalpha()" />
       <item value="isalpha" />
@@ -73,7 +73,7 @@
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="456" />
+        <entry key="CHINESE" value="458" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="423" />
         <entry key="FINNISH" value="2" />
@@ -87,7 +87,7 @@
         <entry key="SUNDANESE" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="TURKISH" value="1" />
-        <entry key="UZBEK" value="3" />
+        <entry key="UZBEK" value="5" />
         <entry key="WELSH" value="1" />
       </map>
     </option>
