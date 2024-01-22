@@ -18,6 +18,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="segment" />
       <item value="Logging live is Stoped." />
       <item value="NOTSET" />
       <item value="过滤" />
@@ -67,15 +68,14 @@
       <item value="异步" />
       <item value="communicate" />
       <item value="Buttom" />
-      <item value="降级" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="460" />
+        <entry key="CHINESE" value="461" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
