@@ -18,6 +18,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ridge" />
       <item value="CRITICAL" />
       <item value="FATAL" />
       <item value="segment" />
@@ -67,15 +68,14 @@
       <item value="Log 'msg % args' with severity 'CRITICAL'." />
       <item value="log" />
       <item value="critical" />
-      <item value="异步" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="464" />
+        <entry key="CHINESE" value="465" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
