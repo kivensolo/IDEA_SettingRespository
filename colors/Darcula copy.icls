@@ -7,6 +7,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
+    <option name="BREADCRUMBS_BORDER_COLOR" value="7c7c7c" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="323232" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b2b2b" />
@@ -25,6 +26,7 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="211f1f" />
     <option name="GUTTER_BACKGROUND" value="313335" />
     <option name="INDENT_GUIDE" value="373737" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
@@ -87,6 +89,22 @@
     <option name="BNF_STRING">
       <value>
         <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="585858" />
+        <option name="BACKGROUND" value="d7d4d4" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="9f9d9d" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="d7d4d4" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -26099,7 +26117,7 @@
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ae8abe" />
+        <option name="FOREGROUND" value="4da440" />
       </value>
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
