@@ -18,6 +18,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CRITICAL" />
+      <item value="FATAL" />
       <item value="segment" />
       <item value="Logging live is Stoped." />
       <item value="NOTSET" />
@@ -66,16 +68,14 @@
       <item value="log" />
       <item value="critical" />
       <item value="异步" />
-      <item value="communicate" />
-      <item value="Buttom" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="461" />
+        <entry key="CHINESE" value="464" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="ENGLISH" value="428" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
