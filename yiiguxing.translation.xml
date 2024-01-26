@@ -13,11 +13,16 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogHeight" value="260" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="多次" />
+      <item value="频繁点击限制" />
+      <item value="barrier" />
+      <item value="栅栏" />
       <item value="透明" />
       <item value="ridge" />
       <item value="CRITICAL" />
@@ -64,18 +69,14 @@
       <item value="End of output reached, break the loop and exit the thread" />
       <item value="Optionally kill the adb process if it's still running (not strictly necessary)" />
       <item value="integer severity" />
-      <item value="with severity 'INFO'." />
-      <item value="Log 'msg % args' with the integer severity 'level'." />
-      <item value="Log 'msg % args' with severity 'CRITICAL'." />
-      <item value="log" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="466" />
+        <entry key="CHINESE" value="470" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="ENGLISH" value="434" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
