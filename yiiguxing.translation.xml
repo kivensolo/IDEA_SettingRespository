@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705907154915" />
+    <option name="lastTrimTime" value="1706609029861" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -19,6 +19,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="garbge" />
       <item value="多次" />
       <item value="频繁点击限制" />
       <item value="barrier" />
@@ -68,19 +69,18 @@
       <item value="Signal to update the QLabel in the main thread" />
       <item value="End of output reached, break the loop and exit the thread" />
       <item value="Optionally kill the adb process if it's still running (not strictly necessary)" />
-      <item value="integer severity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="470" />
+        <entry key="CHINESE" value="471" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="434" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
-        <entry key="ICELANDIC" value="1" />
+        <entry key="ICELANDIC" value="2" />
         <entry key="INDONESIAN" value="6" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="3" />
