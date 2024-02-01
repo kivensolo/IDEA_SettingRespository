@@ -14,11 +14,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="2711" />
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="identification code" />
+      <item value="识别码" />
       <item value="garbge" />
       <item value="多次" />
       <item value="频繁点击限制" />
@@ -67,16 +69,14 @@
       <item value="abort" />
       <item value="Return with status (not strictly necessary)" />
       <item value="Signal to update the QLabel in the main thread" />
-      <item value="End of output reached, break the loop and exit the thread" />
-      <item value="Optionally kill the adb process if it's still running (not strictly necessary)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="471" />
+        <entry key="CHINESE" value="473" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="ENGLISH" value="436" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
