@@ -19,6 +19,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="string inserted between values, default a space" />
       <item value="identification code" />
       <item value="识别码" />
       <item value="garbge" />
@@ -68,15 +69,14 @@
       <item value="abord" />
       <item value="abort" />
       <item value="Return with status (not strictly necessary)" />
-      <item value="Signal to update the QLabel in the main thread" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="473" />
+        <entry key="CHINESE" value="474" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="ENGLISH" value="437" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
