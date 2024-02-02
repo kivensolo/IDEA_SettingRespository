@@ -128,6 +128,10 @@
           <option name="key" value="tldFunction" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Python" />
+          <option name="key" value="iter" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="spring" />
           <option name="key" value="sb" />
         </TemplateKey>
