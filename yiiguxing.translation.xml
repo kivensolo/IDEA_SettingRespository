@@ -19,6 +19,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="重要" />
+      <item value="importent" />
       <item value="Shady" />
       <item value="Shady Bar" />
       <item value="Spinner" />
@@ -67,18 +69,16 @@
       <item value="contains alphabet" />
       <item value="音量" />
       <item value="Deprecation Warning" />
-      <item value="Abort" />
-      <item value="终止" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="478" />
+        <entry key="CHINESE" value="480" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="ENGLISH" value="442" />
         <entry key="FINNISH" value="2" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="HINDI" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="INDONESIAN" value="6" />
