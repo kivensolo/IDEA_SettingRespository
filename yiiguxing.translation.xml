@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1706609029861" />
+    <option name="lastTrimTime" value="1707116670258" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -19,6 +19,10 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="un Supporte" />
+      <item value="不支持" />
+      <item value="un Support" />
+      <item value="un Supportformat" />
       <item value="重要" />
       <item value="importent" />
       <item value="Shady" />
@@ -65,20 +69,16 @@
       <item value="Default levels and level names, these can be replaced with any positive set of values having corresponding names. There is a pseudo-level, NOTSET, which is only really there as a lower limit for user-defined levels. Handlers and loggers are initialized with NOTSET so that they will log all messages, even at user-defined levels." />
       <item value="纯" />
       <item value="char.isalpha()" />
-      <item value="isalpha" />
-      <item value="contains alphabet" />
-      <item value="音量" />
-      <item value="Deprecation Warning" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="480" />
+        <entry key="CHINESE" value="484" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="442" />
+        <entry key="ENGLISH" value="445" />
         <entry key="FINNISH" value="2" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="INDONESIAN" value="6" />
