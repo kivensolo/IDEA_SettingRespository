@@ -19,6 +19,11 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Hint" />
+      <item value="Window Title Hint" />
+      <item value="Forward Button" />
+      <item value="Frameless Window Hint" />
+      <item value="Foreign Window" />
       <item value="un Supporte" />
       <item value="不支持" />
       <item value="un Support" />
@@ -64,19 +69,14 @@
       <item value="别名" />
       <item value="alis" />
       <item value="Installing" />
-      <item value="warning" />
-      <item value="Scroll to bottom" />
-      <item value="Default levels and level names, these can be replaced with any positive set of values having corresponding names. There is a pseudo-level, NOTSET, which is only really there as a lower limit for user-defined levels. Handlers and loggers are initialized with NOTSET so that they will log all messages, even at user-defined levels." />
-      <item value="纯" />
-      <item value="char.isalpha()" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="484" />
+        <entry key="CHINESE" value="489" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="445" />
+        <entry key="ENGLISH" value="450" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
