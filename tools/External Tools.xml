@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
   <tool name="Qt Designer" description="qt ui编辑器" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="E:\GitHubProjects\PythonDemo\venv\Lib\site-packages\pyqt5_tools\designer.exe" />
+      <option name="COMMAND" value="D:\Program Files\Python\Python311\Lib\site-packages\qt5_applications\Qt\bin\designer.exe" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="E:/GitHubProjects/PythonDemo/venv/Lib/site-packages/pyqt5_tools/" />
+      <option name="WORKING_DIRECTORY" value="E:/GitHubProjects/PythonDemo/myvenv/" />
     </exec>
   </tool>
   <tool name="PyUIC" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
