@@ -19,6 +19,11 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="解压完毕" />
+      <item value="进行解压" />
+      <item value="依赖文件下载完毕" />
+      <item value="依赖文件下载完毕, 进行解压...." />
+      <item value="依赖文件下载完毕,即将解压" />
       <item value="指定" />
       <item value="Inflate" />
       <item value="Embed" />
@@ -64,19 +69,14 @@
       <item value="验证" />
       <item value="verfily" />
       <item value="verfiy" />
-      <item value="rootModelIndex(self) -&gt; QModelIndex" />
-      <item value="real signature unknown; restored from __doc__" />
-      <item value="argument 1 has unexpected type 'tuple'" />
-      <item value="Convenient Area" />
-      <item value="alias" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="493" />
+        <entry key="CHINESE" value="498" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="ENGLISH" value="459" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
