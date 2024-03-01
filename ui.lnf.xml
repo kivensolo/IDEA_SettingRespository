@@ -1,9 +1,11 @@
 <application>
   <component name="UISettings">
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="17" />
     <option name="NAVIGATION_BAR_LOCATION" value="TOP" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="UI_DENSITY" value="COMPACT" />
   </component>
