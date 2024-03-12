@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1709606266146" />
+    <option name="lastTrimTime" value="1710229894675" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -19,6 +19,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="周期" />
+      <item value="间隔" />
       <item value="严格相等" />
       <item value="相等" />
       <item value="Destructing" />
@@ -67,16 +69,14 @@
       <item value="NOTSET" />
       <item value="过滤" />
       <item value="Filter" />
-      <item value="types is normally a sequence of individual types. Each type is either a type object or a string that is the name of a C++ type. Alternatively each type could itself be a sequence of types each describing a different overloaded signal. name is the optional C++ name of the signal. If it is not specified then the name of the class attribute that is bound to the signal is used. revision is the optional revision of the signal that is exported to QML. If it is not specified then 0 is used. arguments is the optional sequence of the names of the signal's arguments." />
-      <item value="living Log" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="507" />
+        <entry key="CHINESE" value="509" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="ENGLISH" value="470" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
