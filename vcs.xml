@@ -9,6 +9,7 @@
         <option value="Space.CommitStatus" />
       </list>
     </option>
+    <option name="SHOW_TAG_NAMES" value="true" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="E:/临时数据" />
