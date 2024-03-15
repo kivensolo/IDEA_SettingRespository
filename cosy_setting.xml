@@ -39,6 +39,13 @@
             </list>
           </value>
         </entry>
+        <entry key="auto_tcpdump_v1.1|1318473438567511">
+          <value>
+            <list>
+              <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
