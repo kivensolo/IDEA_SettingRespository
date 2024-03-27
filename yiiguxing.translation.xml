@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1710229894675" />
+    <option name="lastTrimTime" value="1711071380862" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -19,6 +19,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="multicast channel not implemented" />
+      <item value="open Fake Multicast Channel" />
       <item value="兼容" />
       <item value="周期" />
       <item value="间隔" />
@@ -67,16 +69,14 @@
       <item value="FATAL" />
       <item value="segment" />
       <item value="Logging live is Stoped." />
-      <item value="NOTSET" />
-      <item value="过滤" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="510" />
+        <entry key="CHINESE" value="512" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="471" />
+        <entry key="ENGLISH" value="473" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
