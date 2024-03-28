@@ -37,6 +37,8 @@
             <list>
               <option value="/explain code" />
               <option value="/explain code" />
+              <option value="/explain code" />
+              <option value="为什么这个数据通过channel无法发送到服务端，服务端我已经监听了SelectionKey.OP_READ事件。" />
             </list>
           </value>
         </entry>
