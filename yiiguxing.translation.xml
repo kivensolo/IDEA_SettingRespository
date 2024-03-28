@@ -19,6 +19,9 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="新增修改后的代码" />
+      <item value="Not resolved" />
+      <item value="resolved" />
       <item value="Accepts a connection made to this channel's socket." />
       <item value="Finishes the process of connecting a socket channel. A non-blocking connection operation is initiated by placing a socket channel in non-blocking mode and then invoking its connect method. Once the connection is established, or the attempt has failed, the socket channel will become connectable and this method may be invoked to complete the connection sequence. If the connection operation failed then invoking this method will cause an appropriate IOException to be thrown. If this channel is already connected then this method will not block and will immediately return true. If this channel is in non-blocking mode then this method will return false if the connection process is not yet complete. If this channel is in blocking mode then this method will block until the connection either completes or fails, and will always either return true or throw a checked exception describing the failure. This method may be invoked at any time. If a read or write operation upon this channel is invoked while an invocation of this method is in progress then that operation will first block until this invocation is complete. If a connection attempt fails, that is, if an invocation of this method throws a checked exception, then the channel will be closed. Returns: true if, and only if, this channel's socket is now connected" />
       <item value="Selects a set of keys whose corresponding channels are ready for IO operations. This method performs a blocking selection operation. It returns only after at least one channel is selected, this selector's wakeup method is invoked, or the current thread is interrupted, whichever comes first." />
@@ -66,17 +69,14 @@
       <item value="重要" />
       <item value="importent" />
       <item value="Shady" />
-      <item value="Shady Bar" />
-      <item value="Spinner" />
-      <item value="string inserted between values, default a space" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="524" />
+        <entry key="CHINESE" value="527" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="ENGLISH" value="488" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
