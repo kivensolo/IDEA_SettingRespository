@@ -19,6 +19,8 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="修复服务器不长久监听的问题" />
+      <item value="Fix server alive one time" />
       <item value="Requests that the registration of this key's channel with its selector be cancelled. Upon return the key will be invalid and will have been added to its selector's cancelled-key set. The key will be removed from all of the selector's key sets during the next selection operation. If this key has already been cancelled then invoking this method has no effect. Once cancelled, a key remains forever invalid. This method may be invoked at any time. It synchronizes on the selector's cancelled-key set, and therefore may block briefly if invoked concurrently with a cancellation or selection operation involving the same selector." />
       <item value="新增修改后的代码" />
       <item value="Not resolved" />
@@ -67,16 +69,14 @@
       <item value="不支持" />
       <item value="un Support" />
       <item value="un Supportformat" />
-      <item value="重要" />
-      <item value="importent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="528" />
+        <entry key="CHINESE" value="530" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="ENGLISH" value="491" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
