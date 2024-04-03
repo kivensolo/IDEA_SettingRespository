@@ -19,6 +19,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="创建临时文件并打开对应的File Channel" />
       <item value="花费" />
       <item value="Buffer Underflow Exception" />
       <item value="Multiplexer" />
@@ -68,15 +69,14 @@
       <item value="Forward Button" />
       <item value="Frameless Window Hint" />
       <item value="Foreign Window" />
-      <item value="un Supporte" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="533" />
+        <entry key="CHINESE" value="534" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
