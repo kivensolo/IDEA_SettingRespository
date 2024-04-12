@@ -19,6 +19,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="None of the following lines of code will throw compiler errors. Using `any` disables all further type checking, and it is assumed you know the environment better than TypeScript." />
       <item value="Partial" />
       <item value="创建临时文件并打开对应的File Channel" />
       <item value="花费" />
@@ -68,15 +69,14 @@
       <item value="Hint" />
       <item value="Window Title Hint" />
       <item value="Forward Button" />
-      <item value="Frameless Window Hint" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="535" />
+        <entry key="CHINESE" value="536" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
