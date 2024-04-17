@@ -41,6 +41,8 @@
               <option value="为什么这个数据通过channel无法发送到服务端，服务端我已经监听了SelectionKey.OP_READ事件。" />
               <option value="我这个NIOFTPServer类中，通过socketChannel转发数据给FileChannel，有没有优化的视线方案？" />
               <option value="我这个NIOFTPServer类中，通过socketChannel转发数据给FileChannel，有没有优化的实现方案？" />
+              <option value="vim 下如何批量替换字符串，比如把a.txt改为b.log" />
+              <option value="vim 下如何批量替换字符串，比如把/tmp/supervisor.sock改为/var/run/supervisor.sock" />
             </list>
           </value>
         </entry>
