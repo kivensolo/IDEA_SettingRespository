@@ -51,6 +51,13 @@
             </list>
           </value>
         </entry>
+        <entry key="sftp_test|1318473438567511">
+          <value>
+            <list>
+              <option value="java代码实现将Buffer数据打印成16进制的字符串数据，不需要加0x,如何实现？" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
