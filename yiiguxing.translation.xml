@@ -19,6 +19,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Instructs compiler to mark the class as a record and generate relevant toStringequalshashCode methods" />
       <item value="Incompatible because this component declares an API of a component and the consumer needed a runtime of a component" />
       <item value="The consumer was configured to find a runtime of a component compatible with Java 8, packaged as a jar, and its dependencies declared externally. However we cannot choose between the following variants of org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.20:" />
       <item value="error msg too long. Cut it." />
@@ -68,15 +69,14 @@
       <item value="依赖文件下载完毕,即将解压" />
       <item value="指定" />
       <item value="Inflate" />
-      <item value="Embed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="539" />
+        <entry key="CHINESE" value="540" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
