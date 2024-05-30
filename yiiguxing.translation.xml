@@ -19,6 +19,12 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a list containing first elements satisfying the given [predicate]." />
+      <item value="celsius Degrees" />
+      <item value="Type inference failed. The value of the type parameter T should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly." />
+      <item value="partition" />
+      <item value="predicate" />
+      <item value="Returns a list containing first elements satisfying the given" />
       <item value="Instructs compiler to mark the class as a record and generate relevant toStringequalshashCode methods" />
       <item value="Incompatible because this component declares an API of a component and the consumer needed a runtime of a component" />
       <item value="The consumer was configured to find a runtime of a component compatible with Java 8, packaged as a jar, and its dependencies declared externally. However we cannot choose between the following variants of org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.20:" />
@@ -63,20 +69,14 @@
       <item value="透明" />
       <item value="types is normally a sequence of individual types. Each type is either a type object or a string that is the name of a C++ type. Alternatively each type could itself be a sequence of types each describing a different overloaded signal." />
       <item value="解压完毕" />
-      <item value="进行解压" />
-      <item value="依赖文件下载完毕" />
-      <item value="依赖文件下载完毕, 进行解压...." />
-      <item value="依赖文件下载完毕,即将解压" />
-      <item value="指定" />
-      <item value="Inflate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="540" />
+        <entry key="CHINESE" value="555" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="ENGLISH" value="516" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
