@@ -44,6 +44,7 @@
               <option value="vim 下如何批量替换字符串，比如把a.txt改为b.log" />
               <option value="vim 下如何批量替换字符串，比如把/tmp/supervisor.sock改为/var/run/supervisor.sock" />
               <option value="kotlin的kotlinx库，包含哪些内容？" />
+              <option value="请告诉我kotlin中lambda的语法格式" />
             </list>
           </value>
         </entry>
