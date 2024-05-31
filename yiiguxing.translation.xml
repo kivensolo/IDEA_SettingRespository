@@ -19,12 +19,13 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Splits the original collection into pair of lists, where first list contains elements for which [predicate] yielded `true`, while second list contains elements for which [predicate] yielded `false`." />
+      <item value="partition" />
       <item value="Returns a list containing all elements except first elements that satisfy the given [predicate]." />
       <item value="has Previous" />
       <item value="Returns a list containing first elements satisfying the given [predicate]." />
       <item value="celsius Degrees" />
       <item value="Type inference failed. The value of the type parameter T should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly." />
-      <item value="partition" />
       <item value="predicate" />
       <item value="Returns a list containing first elements satisfying the given" />
       <item value="Instructs compiler to mark the class as a record and generate relevant toStringequalshashCode methods" />
@@ -68,15 +69,14 @@
       <item value="on Malformed Input" />
       <item value="on Unmappable Character" />
       <item value="Text mode encoding and error handling to use for file objects stdin, stdout and stderr." />
-      <item value="透明" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="557" />
+        <entry key="CHINESE" value="559" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="ENGLISH" value="520" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
