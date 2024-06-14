@@ -19,6 +19,7 @@
     <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="intrinsics" />
       <item value="I'm done and I don't explicitly join my children that are still active" />
       <item value="This property is a shortcut for `coroutineContext.isActive` in the scope when" />
       <item value="Check this property in long-running computation loops to support cancellation:" />
@@ -68,13 +69,12 @@
       <item value="严格相等" />
       <item value="相等" />
       <item value="Destructing" />
-      <item value="Destructring Assignment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="563" />
+        <entry key="CHINESE" value="564" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="524" />
         <entry key="FINNISH" value="2" />
@@ -85,7 +85,7 @@
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="3" />
         <entry key="POLISH" value="2" />
-        <entry key="SUNDANESE" value="1" />
+        <entry key="SUNDANESE" value="2" />
         <entry key="SWEDISH" value="4" />
         <entry key="TURKISH" value="1" />
         <entry key="UZBEK" value="6" />
