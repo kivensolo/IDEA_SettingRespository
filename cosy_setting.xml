@@ -47,6 +47,7 @@
               <option value="请告诉我kotlin中lambda的语法格式" />
               <option value="RCF 2617中 ，涉及数字认证的算法如下：" />
               <option value="RCF 2617中 ，涉及数字认证的算法如下：&#10;request-digest  = &lt;&quot;&gt; &lt; KD ( H(A1),     unq(nonce-value)&#10;                                          &quot;:&quot; nc-value&#10;                                          &quot;:&quot; unq(cnonce-value)&#10;                                          &quot;:&quot; unq(qop-value)&#10;                                          &quot;:&quot; H(A2)&#10;                                  ) &lt;&quot;&gt; &#10;其中的unq是什么意思" />
+              <option value="在安卓的Activity中，Launch一个协程，延迟500ms做操作处理：&#10;GlobalScope.launch {    &#10;    delay(500)    &#10;    if (isOpenPlayActivity) {       &#10;        isOpenPlayActivity = false    &#10;    }&#10;}&#10;若500ms内，activity退出了，这个协程后续的逻辑如何执行？如何正确取消这个协程？" />
             </list>
           </value>
         </entry>
