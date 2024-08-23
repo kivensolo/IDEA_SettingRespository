@@ -39,6 +39,8 @@
             <list>
               <option value="/explain code" />
               <option value="请给我介绍一下BeautifulSoup的select用法" />
+              <option value="/explain code" />
+              <option value="python的json.loads方法是什么意思" />
             </list>
           </value>
         </entry>
