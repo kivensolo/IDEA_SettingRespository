@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1724401096540" />
+    <option name="lastTrimTime" value="1726044530266" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -13,12 +13,9 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="586" />
-    <option name="newTranslationDialogX" value="2711" />
-    <option name="newTranslationDialogY" value="456" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="解析" />
       <item value="Beautiful Soup" />
       <item value="soup" />
       <item value="Request element information" />
@@ -68,15 +65,14 @@
       <item value="interest set" />
       <item value="A selection key contains two &lt;i&gt;operation sets&lt;i&gt; represented as integer values. Each bit of an operation set denotes a category of selectable operations that are supported by the key's channel." />
       <item value="A selection key is created each time a channel is registered with a selector. A key remains valid until it is &lt;i&gt;cancelled&lt;i&gt; by invoking its {@link cancel cancel} method, by closing its channel, or by closing its selector. Cancelling a key does not immediately remove it from its selector; it is instead added to the selector's &lt;a href=&quot;Selector.htmlks&quot;&gt;&lt;i&gt;cancelled-key set&lt;i&gt;&lt;a&gt; for removal during the next selection operation. The validity of a key may be tested by invoking its {@link isValid isValid} method." />
-      <item value="A token representing the registration of a {@link SelectableChannel} with a {@link Selector}." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="572" />
+        <entry key="CHINESE" value="573" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="ENGLISH" value="533" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
