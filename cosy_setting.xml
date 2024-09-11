@@ -54,6 +54,9 @@
               <option value="python中这种语法正确吗" />
               <option value="/explain code" />
               <option value="/generate optimization" />
+              <option value="我这个代码为什么不能展示垂直方向上的3个横向布局，分别是'包名', '名称', &quot;证书MD5&quot;和其右边的LinEdit" />
+              <option value="如何让其中的LineEdit左侧垂直对齐？" />
+              <option value="这行代码的函数入参，如果没有，会有什么影响？self.gv_layout = QtWidgets.QVBoxLayout(self.apkInfoGroupBox)" />
             </list>
           </value>
         </entry>
