@@ -52,6 +52,8 @@
               <option value="我想遍历这个列表，如何操作" />
               <option value="/explain code" />
               <option value="python中这种语法正确吗" />
+              <option value="/explain code" />
+              <option value="/generate optimization" />
             </list>
           </value>
         </entry>
