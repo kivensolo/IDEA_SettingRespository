@@ -58,6 +58,7 @@
               <option value="如何让其中的LineEdit左侧垂直对齐？" />
               <option value="这行代码的函数入参，如果没有，会有什么影响？self.gv_layout = QtWidgets.QVBoxLayout(self.apkInfoGroupBox)" />
               <option value="如果我在formLayout中通过addRow方法添加了labelView和 lineEdit，我如何保证lineEdit是左对齐的？" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
