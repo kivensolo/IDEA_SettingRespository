@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="我想遍历这个列表，如何操作" />
               <option value="/explain code" />
               <option value="python中这种语法正确吗" />
               <option value="/explain code" />
@@ -67,6 +66,7 @@
               <option value="我想计算文件的md5值该如何计算？" />
               <option value="这个计算md5的过程耗时吗" />
               <option value="如何使用异步IO计算文件MD5值" />
+              <option value="python代码如何解析安卓apk文件获取应用包名和app名称、证书MD5版本号、icon图标、权限要求等信息？" />
             </list>
           </value>
         </entry>
