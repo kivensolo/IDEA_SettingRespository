@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="/generate optimization" />
               <option value="我这个代码为什么不能展示垂直方向上的3个横向布局，分别是'包名', '名称', &quot;证书MD5&quot;和其右边的LinEdit" />
               <option value="如何让其中的LineEdit左侧垂直对齐？" />
@@ -67,6 +66,7 @@
               <option value="python代码如何解析安卓apk文件获取应用包名和app名称、证书MD5版本号、icon图标、权限要求等信息？" />
               <option value="androguard库可以获取文件大小和文件修改时间吗，如果可以，怎么获取？" />
               <option value="androguard如何获取apk文件签名，怎么识别是V1还是V2版本的签名？" />
+              <option value="安卓aapt命令如何获取apk应用名称" />
             </list>
           </value>
         </entry>
