@@ -59,6 +59,7 @@
               <option value="这行代码的函数入参，如果没有，会有什么影响？self.gv_layout = QtWidgets.QVBoxLayout(self.apkInfoGroupBox)" />
               <option value="如果我在formLayout中通过addRow方法添加了labelView和 lineEdit，我如何保证lineEdit是左对齐的？" />
               <option value="/explain code" />
+              <option value="我有一段java代码，需要查询正则表达式的匹配结果：&#10;String url = “LCACHE:/storage/sdcard/Android/data/com.starcor.sktv.launcher/files/V3_sktv_data_template_65238f0b21f4afddb641045756ff0474/cache/34DC1816F1EAF45BF1800DC006C4A495.png:http://182.138.101.48:13281/nn_img/prev/StarCor/epgimg/d/7/3/3aab22e38f32333676702ec56572e76d.png”；&#10;    public static final Pattern LAUNCHER_LOCAL_IMG_PATTERN = Pattern.compile(&quot;^LCACHE:.*:(.+://.+)$&quot;);&#10;Matcher matcher = LAUNCHER_LOCAL_IMG_PATTERN.matcher(url);&#10;        if (matcher.matches()) {&#10;            String filePath = matcher.group(1);&#10;        }&#10;&#10;请问filePath 值为多少" />
             </list>
           </value>
         </entry>
