@@ -47,10 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="/generate optimization" />
-              <option value="我这个代码为什么不能展示垂直方向上的3个横向布局，分别是'包名', '名称', &quot;证书MD5&quot;和其右边的LinEdit" />
-              <option value="如何让其中的LineEdit左侧垂直对齐？" />
-              <option value="这行代码的函数入参，如果没有，会有什么影响？self.gv_layout = QtWidgets.QVBoxLayout(self.apkInfoGroupBox)" />
               <option value="如果我在formLayout中通过addRow方法添加了labelView和 lineEdit，我如何保证lineEdit是左对齐的？" />
               <option value="/explain code" />
               <option value="我有一段java代码，需要查询正则表达式的匹配结果：&#10;String url = “LCACHE:/storage/sdcard/Android/data/com.starcor.sktv.launcher/files/V3_sktv_data_template_65238f0b21f4afddb641045756ff0474/cache/34DC1816F1EAF45BF1800DC006C4A495.png:http://182.138.101.48:13281/nn_img/prev/StarCor/epgimg/d/7/3/3aab22e38f32333676702ec56572e76d.png”；&#10;    public static final Pattern LAUNCHER_LOCAL_IMG_PATTERN = Pattern.compile(&quot;^LCACHE:.*:(.+://.+)$&quot;);&#10;Matcher matcher = LAUNCHER_LOCAL_IMG_PATTERN.matcher(url);&#10;        if (matcher.matches()) {&#10;            String filePath = matcher.group(1);&#10;        }&#10;&#10;请问filePath 值为多少" />
@@ -67,6 +63,10 @@
               <option value="androguard库可以获取文件大小和文件修改时间吗，如果可以，怎么获取？" />
               <option value="androguard如何获取apk文件签名，怎么识别是V1还是V2版本的签名？" />
               <option value="安卓aapt命令如何获取apk应用名称" />
+              <option value="python中将[&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]拼接为字符串，并用换行符分割如何实现？" />
+              <option value="apksigner获取apk文件签名命令是什么" />
+              <option value="apksigner获取apk签名Md5" />
+              <option value="如何查看android apk文件的签名版本是V几的" />
             </list>
           </value>
         </entry>
