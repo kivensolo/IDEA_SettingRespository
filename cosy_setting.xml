@@ -47,11 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="如果我在formLayout中通过addRow方法添加了labelView和 lineEdit，我如何保证lineEdit是左对齐的？" />
-              <option value="/explain code" />
-              <option value="我有一段java代码，需要查询正则表达式的匹配结果：&#10;String url = “LCACHE:/storage/sdcard/Android/data/com.starcor.sktv.launcher/files/V3_sktv_data_template_65238f0b21f4afddb641045756ff0474/cache/34DC1816F1EAF45BF1800DC006C4A495.png:http://182.138.101.48:13281/nn_img/prev/StarCor/epgimg/d/7/3/3aab22e38f32333676702ec56572e76d.png”；&#10;    public static final Pattern LAUNCHER_LOCAL_IMG_PATTERN = Pattern.compile(&quot;^LCACHE:.*:(.+://.+)$&quot;);&#10;Matcher matcher = LAUNCHER_LOCAL_IMG_PATTERN.matcher(url);&#10;        if (matcher.matches()) {&#10;            String filePath = matcher.group(1);&#10;        }&#10;&#10;请问filePath 值为多少" />
-              <option value="pyqt中，如何在一个layout中，根据object去查找对应的控件？" />
-              <option value="如何实现一个Dialog支持文件拖入，并计算文件大小。" />
               <option value="self.findChild可以找多层级的子view吗？" />
               <option value="python中，已知一个文件的路径path，如何获取文件日期" />
               <option value="其中的file_info['last_modified']如何转换为年月日时分秒的字符串？" />
@@ -67,6 +62,11 @@
               <option value="apksigner获取apk文件签名命令是什么" />
               <option value="apksigner获取apk签名Md5" />
               <option value="如何查看android apk文件的签名版本是V几的" />
+              <option value="我要使用python代码从下面3行文字中，提取出v1\v2\v3字段以及冒号后面的true或者false" />
+              <option value="我要使用python代码从下面3行文字中，提取出v1\v2\v3字段以及冒号后面的true或者falseVerified using v1 scheme (JAR signing): true&#10;Verified using v2 scheme (APK Signature Scheme v2): true&#10;Verified using v3 scheme (APK Signature Scheme v3): false" />
+              <option value="subprocess.run的入参是什么意思，格式如何？" />
+              <option value="先执行一次subprocess.run 后，再通过subprocess.run执行另一行命令，就崩溃了，为什么" />
+              <option value="先执行一次subprocess.run 后，再通过subprocess.run执行另一行命令，报错：FileNotFoundError(2, '系统找不到指定的文件。', None, 2, None)" />
             </list>
           </value>
         </entry>
