@@ -47,8 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="/explain code" />
-              <option value="如何变量这个列表" />
               <option value="我想遍历这个列表，如何操作" />
               <option value="/explain code" />
               <option value="python中这种语法正确吗" />
@@ -64,6 +62,11 @@
               <option value="如何实现一个Dialog支持文件拖入，并计算文件大小。" />
               <option value="self.findChild可以找多层级的子view吗？" />
               <option value="python中，已知一个文件的路径path，如何获取文件日期" />
+              <option value="其中的file_info['last_modified']如何转换为年月日时分秒的字符串？" />
+              <option value="如何把os.stat(file_path).st_size返回的字节数转为逗号分割的？比如数值为43524068，需转为43,524,068" />
+              <option value="我想计算文件的md5值该如何计算？" />
+              <option value="这个计算md5的过程耗时吗" />
+              <option value="如何使用异步IO计算文件MD5值" />
             </list>
           </value>
         </entry>
