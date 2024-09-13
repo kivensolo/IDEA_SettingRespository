@@ -47,10 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="self.findChild可以找多层级的子view吗？" />
-              <option value="python中，已知一个文件的路径path，如何获取文件日期" />
-              <option value="其中的file_info['last_modified']如何转换为年月日时分秒的字符串？" />
-              <option value="如何把os.stat(file_path).st_size返回的字节数转为逗号分割的？比如数值为43524068，需转为43,524,068" />
               <option value="我想计算文件的md5值该如何计算？" />
               <option value="这个计算md5的过程耗时吗" />
               <option value="如何使用异步IO计算文件MD5值" />
@@ -67,6 +63,10 @@
               <option value="subprocess.run的入参是什么意思，格式如何？" />
               <option value="先执行一次subprocess.run 后，再通过subprocess.run执行另一行命令，就崩溃了，为什么" />
               <option value="先执行一次subprocess.run 后，再通过subprocess.run执行另一行命令，报错：FileNotFoundError(2, '系统找不到指定的文件。', None, 2, None)" />
+              <option value="/explain code" />
+              <option value="使用apksigner命令获取APK文件的签名信息时，报错：[WinError 2] 系统找不到指定的文件" />
+              <option value="python中，我需要连续执行两个cmd命令，该如何执行？" />
+              <option value="执行apksigner命令时，提示系统找不到此文件，为什么呢，这个命令我加了全局的环境变量，可以直接调用" />
             </list>
           </value>
         </entry>
