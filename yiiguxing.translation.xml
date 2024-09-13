@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="communicate" />
       <item value="or a sequence of program arguments." />
       <item value="判断" />
       <item value="解析" />
@@ -64,15 +65,14 @@
       <item value="Read data into rest of buffer" />
       <item value="Prepend header" />
       <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded." />
-      <item value="interest set" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="575" />
+        <entry key="CHINESE" value="576" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />

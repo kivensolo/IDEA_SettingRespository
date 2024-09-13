@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="我想计算文件的md5值该如何计算？" />
               <option value="这个计算md5的过程耗时吗" />
               <option value="如何使用异步IO计算文件MD5值" />
               <option value="python代码如何解析安卓apk文件获取应用包名和app名称、证书MD5版本号、icon图标、权限要求等信息？" />
@@ -67,6 +66,7 @@
               <option value="使用apksigner命令获取APK文件的签名信息时，报错：[WinError 2] 系统找不到指定的文件" />
               <option value="python中，我需要连续执行两个cmd命令，该如何执行？" />
               <option value="执行apksigner命令时，提示系统找不到此文件，为什么呢，这个命令我加了全局的环境变量，可以直接调用" />
+              <option value="我需要在python中异步执行两个命令，等两者执行完毕后，统一进行回调。该如何操作？" />
             </list>
           </value>
         </entry>
