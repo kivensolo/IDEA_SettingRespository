@@ -47,9 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="这个计算md5的过程耗时吗" />
-              <option value="如何使用异步IO计算文件MD5值" />
-              <option value="python代码如何解析安卓apk文件获取应用包名和app名称、证书MD5版本号、icon图标、权限要求等信息？" />
               <option value="androguard库可以获取文件大小和文件修改时间吗，如果可以，怎么获取？" />
               <option value="androguard如何获取apk文件签名，怎么识别是V1还是V2版本的签名？" />
               <option value="安卓aapt命令如何获取apk应用名称" />
@@ -67,6 +64,9 @@
               <option value="python中，我需要连续执行两个cmd命令，该如何执行？" />
               <option value="执行apksigner命令时，提示系统找不到此文件，为什么呢，这个命令我加了全局的环境变量，可以直接调用" />
               <option value="我需要在python中异步执行两个命令，等两者执行完毕后，统一进行回调。该如何操作？" />
+              <option value="pyqt中，异步线程执行完毕后，获取到一个文本字符串，需要对UI中的一个QLineEdit进行文字设置，如何实现？" />
+              <option value="self.worker_thread.finished.connect的方法使用正确吗？pyqtSignal可以直接调用connect吗？" />
+              <option value="如何在函数中访问parseFinished？class APKHelperDialog(DragDialog):&#10;    parseFinished = pyqtSignal(list)" />
             </list>
           </value>
         </entry>
