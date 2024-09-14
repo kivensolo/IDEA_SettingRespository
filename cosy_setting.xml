@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="帮我列出android应用isers-permission的name值以及对应的中文名，两者用=号分割，=号之间不可以有空格，如：android.permission.RECEIVE_BOOT_COMPLETED=开机时自动启动   并且每一行长度要从短到长的排列" />
               <option value="pyqt中，QGroupBox设置了Css后，背景为白色，但是和根布局QVBoxLayout有一点间隙，如何去除这一个间隙？" />
               <option value="pyqt中，如何设置QVBoxLayout的背景色" />
               <option value="如何设置QDialog窗口顶部栏的颜色？" />
@@ -67,6 +66,7 @@
               <option value="android.permission.CONNECTIVITY_INTERNAL是什么含义" />
               <option value="如何使用python获取android.permission.CHANGE_WIFI_MULTICAST_STATE中的CHANGE_WIFI_MULTICAST_STATE？" />
               <option value="如何使用python获“取android.permission.CHANGE_WIFI_MULTICAST_STATE”字符串中的CHANGE_WIFI_MULTICAST_STATE？" />
+              <option value="我使用pyqt设置dialog尺寸 self.setFixedSize(558, 750)，但是当我电脑接了一个大尺寸的显示屏后（大尺寸的显示屏分辨率与电脑屏幕分辨率一样），Dialog窗口也变大了，请问如何保持Dialog窗口不变？" />
             </list>
           </value>
         </entry>
