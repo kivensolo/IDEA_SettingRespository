@@ -47,10 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="如何查看android apk文件的签名版本是V几的" />
-              <option value="我要使用python代码从下面3行文字中，提取出v1\v2\v3字段以及冒号后面的true或者false" />
-              <option value="我要使用python代码从下面3行文字中，提取出v1\v2\v3字段以及冒号后面的true或者falseVerified using v1 scheme (JAR signing): true&#10;Verified using v2 scheme (APK Signature Scheme v2): true&#10;Verified using v3 scheme (APK Signature Scheme v3): false" />
-              <option value="subprocess.run的入参是什么意思，格式如何？" />
               <option value="先执行一次subprocess.run 后，再通过subprocess.run执行另一行命令，就崩溃了，为什么" />
               <option value="先执行一次subprocess.run 后，再通过subprocess.run执行另一行命令，报错：FileNotFoundError(2, '系统找不到指定的文件。', None, 2, None)" />
               <option value="/explain code" />
@@ -67,6 +63,10 @@
               <option value="pyqt中，我想实现一个配置功能，将指定英文配置为中文，然后在代码中判断到有指定英文时，替换为中文。" />
               <option value="如果使用INI文件呢？" />
               <option value="如果我想让config_manager成为一个单例，全局都可以随意调用，该如何修改代码？" />
+              <option value="我通过ConfigManager('config.ini')去load_config失败。ini文件路径就是和当前py文件在一个目录下，请问是怎么回事？" />
+              <option value="请帮我列出android应用isers-permission的name值以及对应的中文名，两者用=号分割，如android.permission.RECEIVE_BOOT_COMPLETED=开机时自动启动" />
+              <option value="请按照长短把上面以=号分割的数据进行排序，且=号左右两侧的空格需要去除。" />
+              <option value="帮我列出android应用isers-permission的name值以及对应的中文名，两者用=号分割，=号之间不可以有空格，如：android.permission.RECEIVE_BOOT_COMPLETED=开机时自动启动   并且每一行长度要从短到长的排列" />
             </list>
           </value>
         </entry>
