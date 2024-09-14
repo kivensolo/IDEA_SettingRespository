@@ -47,9 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="python中将[&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]拼接为字符串，并用换行符分割如何实现？" />
-              <option value="apksigner获取apk文件签名命令是什么" />
-              <option value="apksigner获取apk签名Md5" />
               <option value="如何查看android apk文件的签名版本是V几的" />
               <option value="我要使用python代码从下面3行文字中，提取出v1\v2\v3字段以及冒号后面的true或者false" />
               <option value="我要使用python代码从下面3行文字中，提取出v1\v2\v3字段以及冒号后面的true或者falseVerified using v1 scheme (JAR signing): true&#10;Verified using v2 scheme (APK Signature Scheme v2): true&#10;Verified using v3 scheme (APK Signature Scheme v3): false" />
@@ -67,6 +64,9 @@
               <option value="pyqt中，如何实现QLineEdit在鼠标hover时边框变成蓝色？" />
               <option value="如果我要把颜色改为RGB值，该如何修改？" />
               <option value="如果我还想要边框的颜色有扩散效果，而不是单纯的描边，怎么设置？" />
+              <option value="pyqt中，我想实现一个配置功能，将指定英文配置为中文，然后在代码中判断到有指定英文时，替换为中文。" />
+              <option value="如果使用INI文件呢？" />
+              <option value="如果我想让config_manager成为一个单例，全局都可以随意调用，该如何修改代码？" />
             </list>
           </value>
         </entry>
