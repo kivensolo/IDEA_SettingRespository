@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="white" />
       <item value="spread-radius color" />
       <item value="tuple" />
       <item value="communicate" />
@@ -64,15 +65,14 @@
       <item value="Selects a set of keys whose corresponding channels are ready for IO operations. This method performs a blocking selection operation. It returns only after at least one channel is selected, this selector's wakeup method is invoked, or the current thread is interrupted, whichever comes first." />
       <item value="After a sequence of channel-read or put operations, invoke this method to prepare for a sequence of channel-write or relative get operations. For example:" />
       <item value="After a sequence of channel-read or &lt;i&gt;put&lt;i&gt; operations, invoke this method to prepare for a sequence of channel-write or relative &lt;i&gt;get&lt;i&gt; operations. For example:" />
-      <item value="Read data into rest of buffer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="578" />
+        <entry key="CHINESE" value="579" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="ENGLISH" value="539" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
