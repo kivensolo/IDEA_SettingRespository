@@ -47,15 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="pyqt中，如何实现QLineEdit在鼠标hover时边框变成蓝色？" />
-              <option value="如果我要把颜色改为RGB值，该如何修改？" />
-              <option value="如果我还想要边框的颜色有扩散效果，而不是单纯的描边，怎么设置？" />
-              <option value="pyqt中，我想实现一个配置功能，将指定英文配置为中文，然后在代码中判断到有指定英文时，替换为中文。" />
-              <option value="如果使用INI文件呢？" />
-              <option value="如果我想让config_manager成为一个单例，全局都可以随意调用，该如何修改代码？" />
-              <option value="我通过ConfigManager('config.ini')去load_config失败。ini文件路径就是和当前py文件在一个目录下，请问是怎么回事？" />
-              <option value="请帮我列出android应用isers-permission的name值以及对应的中文名，两者用=号分割，如android.permission.RECEIVE_BOOT_COMPLETED=开机时自动启动" />
-              <option value="请按照长短把上面以=号分割的数据进行排序，且=号左右两侧的空格需要去除。" />
               <option value="帮我列出android应用isers-permission的name值以及对应的中文名，两者用=号分割，=号之间不可以有空格，如：android.permission.RECEIVE_BOOT_COMPLETED=开机时自动启动   并且每一行长度要从短到长的排列" />
               <option value="pyqt中，QGroupBox设置了Css后，背景为白色，但是和根布局QVBoxLayout有一点间隙，如何去除这一个间隙？" />
               <option value="pyqt中，如何设置QVBoxLayout的背景色" />
@@ -67,6 +58,15 @@
               <option value="我想用pyqt从一个安卓apk中获取app的图标，并展示在一个Qlabel中，如何实现？" />
               <option value="请给我列出一个正则表达式，可以匹配240这种数字以及后续png的路径&#10;application-icon-160:'res/drawable/ic_launcher.png'&#10;application-icon-240:'res/drawable/ic_launcher.png'&#10;application-icon-320:'res/drawable/ic_launcher.png'&#10;application-icon-480:'res/drawable/ic_launcher.png'&#10;application-icon-640:'res/drawable/ic_launcher.png'" />
               <option value="我想用pyqt从一个安卓apk中获取app的图标，并展示在一个Qlabel中，但是不通过第三方库，我已经通过aapt知道了icon图标的path，并且apk图片的抽取我想使用手动从zip文件抽取的操作，如何实现？" />
+              <option value="zip_ref.extract(self.icon_path, temp_dir) 会把图片包含的路径也释放到temp_dir，我只是想释放图片，不包含路径目录，如何操作？" />
+              <option value="这样还是连文件路径也抽离出来了吧？" />
+              <option value="pyqt设置QLabel大小如何设置" />
+              <option value="我使用QLabel加载一张本地图片时，想知道图片的宽高尺寸，并且加载时，需要固定位320x320的尺寸。如何实现？" />
+              <option value="python清除指定目录下的所有文件，该使用os的什么api、" />
+              <option value="QLabel的文字如何通过css设置底部居中" />
+              <option value="android.permission.CONNECTIVITY_INTERNAL是什么含义" />
+              <option value="如何使用python获取android.permission.CHANGE_WIFI_MULTICAST_STATE中的CHANGE_WIFI_MULTICAST_STATE？" />
+              <option value="如何使用python获“取android.permission.CHANGE_WIFI_MULTICAST_STATE”字符串中的CHANGE_WIFI_MULTICAST_STATE？" />
             </list>
           </value>
         </entry>
