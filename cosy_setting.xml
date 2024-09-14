@@ -47,9 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="androguard库可以获取文件大小和文件修改时间吗，如果可以，怎么获取？" />
-              <option value="androguard如何获取apk文件签名，怎么识别是V1还是V2版本的签名？" />
-              <option value="安卓aapt命令如何获取apk应用名称" />
               <option value="python中将[&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]拼接为字符串，并用换行符分割如何实现？" />
               <option value="apksigner获取apk文件签名命令是什么" />
               <option value="apksigner获取apk签名Md5" />
@@ -67,6 +64,9 @@
               <option value="pyqt中，异步线程执行完毕后，获取到一个文本字符串，需要对UI中的一个QLineEdit进行文字设置，如何实现？" />
               <option value="self.worker_thread.finished.connect的方法使用正确吗？pyqtSignal可以直接调用connect吗？" />
               <option value="如何在函数中访问parseFinished？class APKHelperDialog(DragDialog):&#10;    parseFinished = pyqtSignal(list)" />
+              <option value="pyqt中，如何实现QLineEdit在鼠标hover时边框变成蓝色？" />
+              <option value="如果我要把颜色改为RGB值，该如何修改？" />
+              <option value="如果我还想要边框的颜色有扩散效果，而不是单纯的描边，怎么设置？" />
             </list>
           </value>
         </entry>
