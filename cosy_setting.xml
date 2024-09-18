@@ -47,8 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="如何使用python获取android.permission.CHANGE_WIFI_MULTICAST_STATE中的CHANGE_WIFI_MULTICAST_STATE？" />
-              <option value="如何使用python获“取android.permission.CHANGE_WIFI_MULTICAST_STATE”字符串中的CHANGE_WIFI_MULTICAST_STATE？" />
               <option value="我使用pyqt设置dialog尺寸 self.setFixedSize(558, 750)，但是当我电脑接了一个大尺寸的显示屏后（大尺寸的显示屏分辨率与电脑屏幕分辨率一样），Dialog窗口也变大了，请问如何保持Dialog窗口不变？" />
               <option value="我如何实现在qt中对一个qLabel加载图片，并且可以右键保存这个图片到本地？" />
               <option value="我如何实现在pyqt中对一个qLabel加载图片，并且可以右键保存这个图片到本地？" />
@@ -67,6 +65,8 @@
               <option value="QDialog弹窗如何设置为当前窗口的居中位置？" />
               <option value="Qyqt中，没什么简单控件可以展示loadding状态吗？" />
               <option value="Qyqt中，有什么简单控件可以展示loadding状态吗？" />
+              <option value="pyqt的dialog窗口的状态栏如何设置文本？" />
+              <option value="报错提示：object has no attribute 'setStatusBar'. Did you mean: 'setStatusTip'?" />
             </list>
           </value>
         </entry>
