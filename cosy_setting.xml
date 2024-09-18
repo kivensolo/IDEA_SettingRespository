@@ -47,10 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="我使用QLabel加载一张本地图片时，想知道图片的宽高尺寸，并且加载时，需要固定位320x320的尺寸。如何实现？" />
-              <option value="python清除指定目录下的所有文件，该使用os的什么api、" />
-              <option value="QLabel的文字如何通过css设置底部居中" />
-              <option value="android.permission.CONNECTIVITY_INTERNAL是什么含义" />
               <option value="如何使用python获取android.permission.CHANGE_WIFI_MULTICAST_STATE中的CHANGE_WIFI_MULTICAST_STATE？" />
               <option value="如何使用python获“取android.permission.CHANGE_WIFI_MULTICAST_STATE”字符串中的CHANGE_WIFI_MULTICAST_STATE？" />
               <option value="我使用pyqt设置dialog尺寸 self.setFixedSize(558, 750)，但是当我电脑接了一个大尺寸的显示屏后（大尺寸的显示屏分辨率与电脑屏幕分辨率一样），Dialog窗口也变大了，请问如何保持Dialog窗口不变？" />
@@ -67,6 +63,10 @@
               <option value="python中的静态方法在什么情况下定义和使用？请举例说明" />
               <option value="和java的静态方法是不是一样的用法？" />
               <option value="Pyqt中的QFileDialog如何使用？请说明一下常用的API及其参数" />
+              <option value="pyqt中，Dialog弹窗如何设置窗口的图标？" />
+              <option value="QDialog弹窗如何设置为当前窗口的居中位置？" />
+              <option value="Qyqt中，没什么简单控件可以展示loadding状态吗？" />
+              <option value="Qyqt中，有什么简单控件可以展示loadding状态吗？" />
             </list>
           </value>
         </entry>
