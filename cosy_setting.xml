@@ -47,8 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="zip_ref.extract(self.icon_path, temp_dir) 会把图片包含的路径也释放到temp_dir，我只是想释放图片，不包含路径目录，如何操作？" />
-              <option value="这样还是连文件路径也抽离出来了吧？" />
               <option value="pyqt设置QLabel大小如何设置" />
               <option value="我使用QLabel加载一张本地图片时，想知道图片的宽高尺寸，并且加载时，需要固定位320x320的尺寸。如何实现？" />
               <option value="python清除指定目录下的所有文件，该使用os的什么api、" />
@@ -67,6 +65,8 @@
               <option value="我如果想在saveImage中，给一个默认文件名，比如“icon_242”，如何进行参数传递？" />
               <option value="python中threading.Thread在start后，如何重复使用？" />
               <option value="使用方式2报错：ThreadPoolExecutor.submit() missing 1 required positional argument: 'fn'" />
+              <option value="python中的静态方法在什么情况下定义和使用？请举例说明" />
+              <option value="和java的静态方法是不是一样的用法？" />
             </list>
           </value>
         </entry>
