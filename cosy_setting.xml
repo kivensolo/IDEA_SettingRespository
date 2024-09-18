@@ -47,8 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="请给我列出一个正则表达式，可以匹配240这种数字以及后续png的路径&#10;application-icon-160:'res/drawable/ic_launcher.png'&#10;application-icon-240:'res/drawable/ic_launcher.png'&#10;application-icon-320:'res/drawable/ic_launcher.png'&#10;application-icon-480:'res/drawable/ic_launcher.png'&#10;application-icon-640:'res/drawable/ic_launcher.png'" />
-              <option value="我想用pyqt从一个安卓apk中获取app的图标，并展示在一个Qlabel中，但是不通过第三方库，我已经通过aapt知道了icon图标的path，并且apk图片的抽取我想使用手动从zip文件抽取的操作，如何实现？" />
               <option value="zip_ref.extract(self.icon_path, temp_dir) 会把图片包含的路径也释放到temp_dir，我只是想释放图片，不包含路径目录，如何操作？" />
               <option value="这样还是连文件路径也抽离出来了吧？" />
               <option value="pyqt设置QLabel大小如何设置" />
@@ -67,6 +65,8 @@
               <option value="如何获取QLabel的文字？" />
               <option value="针对QFileDialog.getSaveFileName(self, '保存图片', '', '图像文件 (*.png *.jpg *.bmp)')如何选择保存路径？我想默认设置为windows的下载目录、" />
               <option value="我如果想在saveImage中，给一个默认文件名，比如“icon_242”，如何进行参数传递？" />
+              <option value="python中threading.Thread在start后，如何重复使用？" />
+              <option value="使用方式2报错：ThreadPoolExecutor.submit() missing 1 required positional argument: 'fn'" />
             </list>
           </value>
         </entry>
