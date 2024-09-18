@@ -47,11 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="我如何实现在qt中对一个qLabel加载图片，并且可以右键保存这个图片到本地？" />
-              <option value="我如何实现在pyqt中对一个qLabel加载图片，并且可以右键保存这个图片到本地？" />
-              <option value="showContextMenu函数的第二个参数pos是从哪里来的？" />
-              <option value="我已经在pyqt中对一个qLabel加载了图片，现在我想点击右键，出现一个“保存图片”的菜单，然后点击“保存图片”就将这个图片导出到本地？" />
-              <option value="我不想通过installEventFilter，而是想通过customContextMenuRequested的方式实现这个功能，该如何实现？" />
               <option value="如何获取QLabel的文字？" />
               <option value="针对QFileDialog.getSaveFileName(self, '保存图片', '', '图像文件 (*.png *.jpg *.bmp)')如何选择保存路径？我想默认设置为windows的下载目录、" />
               <option value="我如果想在saveImage中，给一个默认文件名，比如“icon_242”，如何进行参数传递？" />
@@ -67,6 +62,11 @@
               <option value="pyqt的dialog窗口的状态栏如何设置文本？" />
               <option value="报错提示：object has no attribute 'setStatusBar'. Did you mean: 'setStatusTip'?" />
               <option value="qlabel文字加粗如何实现？" />
+              <option value="QDialog弹出时会影响主窗口的使用，如何设置为不影响？" />
+              <option value="为什么我使用了show方法后，Dialog闪现一下就关闭了？" />
+              <option value="setWindowModality的API有什么作用？" />
+              <option value="/explain code" />
+              <option value="这段代码运行后，Dialog闪退，请问是为什么？" />
             </list>
           </value>
         </entry>
