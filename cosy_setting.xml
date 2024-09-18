@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="如何获取QLabel的文字？" />
               <option value="针对QFileDialog.getSaveFileName(self, '保存图片', '', '图像文件 (*.png *.jpg *.bmp)')如何选择保存路径？我想默认设置为windows的下载目录、" />
               <option value="我如果想在saveImage中，给一个默认文件名，比如“icon_242”，如何进行参数传递？" />
               <option value="python中threading.Thread在start后，如何重复使用？" />
@@ -67,6 +66,7 @@
               <option value="setWindowModality的API有什么作用？" />
               <option value="/explain code" />
               <option value="这段代码运行后，Dialog闪退，请问是为什么？" />
+              <option value="pyqt窗口实现一个弹窗功能，并且调用了center使其居中展示，在单一屏幕上展示正常。但是如果外接一个显示器，如屏幕2，那么如果主窗口在屏幕2中，此时点击按钮弹出Dialog，弹窗还在屏幕1. 请问如何解决这个问题？" />
             </list>
           </value>
         </entry>
