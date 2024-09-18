@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="pyqt设置QLabel大小如何设置" />
               <option value="我使用QLabel加载一张本地图片时，想知道图片的宽高尺寸，并且加载时，需要固定位320x320的尺寸。如何实现？" />
               <option value="python清除指定目录下的所有文件，该使用os的什么api、" />
               <option value="QLabel的文字如何通过css设置底部居中" />
@@ -67,6 +66,7 @@
               <option value="使用方式2报错：ThreadPoolExecutor.submit() missing 1 required positional argument: 'fn'" />
               <option value="python中的静态方法在什么情况下定义和使用？请举例说明" />
               <option value="和java的静态方法是不是一样的用法？" />
+              <option value="Pyqt中的QFileDialog如何使用？请说明一下常用的API及其参数" />
             </list>
           </value>
         </entry>
