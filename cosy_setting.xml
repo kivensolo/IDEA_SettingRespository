@@ -47,9 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="Qyqt中，有什么简单控件可以展示loadding状态吗？" />
-              <option value="pyqt的dialog窗口的状态栏如何设置文本？" />
-              <option value="报错提示：object has no attribute 'setStatusBar'. Did you mean: 'setStatusTip'?" />
               <option value="qlabel文字加粗如何实现？" />
               <option value="QDialog弹出时会影响主窗口的使用，如何设置为不影响？" />
               <option value="为什么我使用了show方法后，Dialog闪现一下就关闭了？" />
@@ -67,6 +64,9 @@
               <option value="pyqt中，QMainWindow可以通过垂直和水平方向的拉伸改变其宽高，但是QDialog不行，如何在QDialog中实现这种效果？" />
               <option value="QWidget的resize方法有什么作用？" />
               <option value="android aapt可否判定app是否是launcher应用？" />
+              <option value="我这有一行文字 android:sharedUserId(0x0101000b)=&quot;android.uid.system&quot; (Raw: &quot;android.uid.system&quot;)，想用python判断=号后面是不是“android.uid.system”，如何判断？" />
+              <option value="如果我想匹配A: android:name(0x01010003)=&quot;android.intent.category.LAUNCHER&quot; (Raw: &quot;android.intent.category.LAUNCHER&quot;)中=号后面双引号中的值是否是android.intent.category.LAUNCHER,该如何匹配？" />
+              <option value="我如何用正则表达式匹配launchable-activity: name='com.starcor.terminal.activity.MainActivity'  label='' icon=''这个字符串中，name=后面双引号的数据是否是com.starcor.terminal.activity.MainActivity？" />
             </list>
           </value>
         </entry>
