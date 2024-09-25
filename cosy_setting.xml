@@ -47,9 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="Pyqt中的QFileDialog如何使用？请说明一下常用的API及其参数" />
-              <option value="pyqt中，Dialog弹窗如何设置窗口的图标？" />
-              <option value="QDialog弹窗如何设置为当前窗口的居中位置？" />
               <option value="Qyqt中，没什么简单控件可以展示loadding状态吗？" />
               <option value="Qyqt中，有什么简单控件可以展示loadding状态吗？" />
               <option value="pyqt的dialog窗口的状态栏如何设置文本？" />
@@ -67,6 +64,9 @@
               <option value="Elecard-StreamEye与ElecardStream Analyzer 两个软件有什么区别？" />
               <option value="pyqt中，如何设置QStandardItem的背景颜色？" />
               <option value="QStandardItem可以添加border吗？" />
+              <option value="如何实现QDialog支持用鼠标拉伸其宽高的效果？" />
+              <option value="pyqt中，QMainWindow可以通过垂直和水平方向的拉伸改变其宽高，但是QDialog不行，如何在QDialog中实现这种效果？" />
+              <option value="QWidget的resize方法有什么作用？" />
             </list>
           </value>
         </entry>
