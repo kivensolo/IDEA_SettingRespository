@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="但是这个代码在多屏幕的情况下，始终会移动到第一个屏幕中心，而不是当前屏幕，如何修改？" />
               <option value="你这个代码没有效果" />
               <option value="Elecard-StreamEye与ElecardStream Analyzer 两个软件有什么区别？" />
@@ -67,6 +66,7 @@
               <option value="pyqt中，如何设置QGroupBox的title文字样式" />
               <option value="subcontrol-origin: margin是什么意思" />
               <option value="padding的方向顺序是什么？" />
+              <option value="pyqt中，想要label根据文本中的换行符自动换行展示，该如何实现？" />
             </list>
           </value>
         </entry>
