@@ -47,12 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="但是这个代码在多屏幕的情况下，始终会移动到第一个屏幕中心，而不是当前屏幕，如何修改？" />
-              <option value="你这个代码没有效果" />
-              <option value="Elecard-StreamEye与ElecardStream Analyzer 两个软件有什么区别？" />
-              <option value="pyqt中，如何设置QStandardItem的背景颜色？" />
-              <option value="QStandardItem可以添加border吗？" />
-              <option value="如何实现QDialog支持用鼠标拉伸其宽高的效果？" />
               <option value="pyqt中，QMainWindow可以通过垂直和水平方向的拉伸改变其宽高，但是QDialog不行，如何在QDialog中实现这种效果？" />
               <option value="QWidget的resize方法有什么作用？" />
               <option value="android aapt可否判定app是否是launcher应用？" />
@@ -67,6 +61,12 @@
               <option value="subcontrol-origin: margin是什么意思" />
               <option value="padding的方向顺序是什么？" />
               <option value="pyqt中，想要label根据文本中的换行符自动换行展示，该如何实现？" />
+              <option value="在windows上，使用aapt dump badging xxx.apk， 当xxx.apk有中文字符时，aapt就会报错：ERROR: dump failed because no AndroidManifest.xml found，请问如何在不改变文件名的前提下进行正确的apk信息解析？" />
+              <option value="对于这个问题，如果我通过python去执行aapt的命令，如何进行unicode转码？" />
+              <option value="subprocess.run的capture_output和text以及check参数作用是什么？" />
+              <option value="/explain code" />
+              <option value="如何设置垂直方向拉伸？" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
