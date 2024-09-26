@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="qlabel文字加粗如何实现？" />
               <option value="QDialog弹出时会影响主窗口的使用，如何设置为不影响？" />
               <option value="为什么我使用了show方法后，Dialog闪现一下就关闭了？" />
               <option value="setWindowModality的API有什么作用？" />
@@ -67,6 +66,7 @@
               <option value="我这有一行文字 android:sharedUserId(0x0101000b)=&quot;android.uid.system&quot; (Raw: &quot;android.uid.system&quot;)，想用python判断=号后面是不是“android.uid.system”，如何判断？" />
               <option value="如果我想匹配A: android:name(0x01010003)=&quot;android.intent.category.LAUNCHER&quot; (Raw: &quot;android.intent.category.LAUNCHER&quot;)中=号后面双引号中的值是否是android.intent.category.LAUNCHER,该如何匹配？" />
               <option value="我如何用正则表达式匹配launchable-activity: name='com.starcor.terminal.activity.MainActivity'  label='' icon=''这个字符串中，name=后面双引号的数据是否是com.starcor.terminal.activity.MainActivity？" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>
