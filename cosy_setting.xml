@@ -48,9 +48,6 @@
           <value>
             <list>
               <option value="/explain code" />
-              <option value="这段代码运行后，Dialog闪退，请问是为什么？" />
-              <option value="pyqt窗口实现一个弹窗功能，并且调用了center使其居中展示，在单一屏幕上展示正常。但是如果外接一个显示器，如屏幕2，那么如果主窗口在屏幕2中，此时点击按钮弹出Dialog，弹窗还在屏幕1. 请问如何解决这个问题？" />
-              <option value="/explain code" />
               <option value="但是这个代码在多屏幕的情况下，始终会移动到第一个屏幕中心，而不是当前屏幕，如何修改？" />
               <option value="你这个代码没有效果" />
               <option value="Elecard-StreamEye与ElecardStream Analyzer 两个软件有什么区别？" />
@@ -67,6 +64,9 @@
               <option value="这段代码可不可以实现一行表达" />
               <option value="python如何判断list长度大于0？" />
               <option value="如何判断字符串不为None或者不为空字符串？" />
+              <option value="pyqt中，如何设置QGroupBox的title文字样式" />
+              <option value="subcontrol-origin: margin是什么意思" />
+              <option value="padding的方向顺序是什么？" />
             </list>
           </value>
         </entry>
