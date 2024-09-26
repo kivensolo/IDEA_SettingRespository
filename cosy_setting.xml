@@ -47,8 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="为什么我使用了show方法后，Dialog闪现一下就关闭了？" />
-              <option value="setWindowModality的API有什么作用？" />
               <option value="/explain code" />
               <option value="这段代码运行后，Dialog闪退，请问是为什么？" />
               <option value="pyqt窗口实现一个弹窗功能，并且调用了center使其居中展示，在单一屏幕上展示正常。但是如果外接一个显示器，如屏幕2，那么如果主窗口在屏幕2中，此时点击按钮弹出Dialog，弹窗还在屏幕1. 请问如何解决这个问题？" />
@@ -67,6 +65,8 @@
               <option value="我如何用正则表达式匹配launchable-activity: name='com.starcor.terminal.activity.MainActivity'  label='' icon=''这个字符串中，name=后面双引号的数据是否是com.starcor.terminal.activity.MainActivity？" />
               <option value="/explain code" />
               <option value="这段代码可不可以实现一行表达" />
+              <option value="python如何判断list长度大于0？" />
+              <option value="如何判断字符串不为None或者不为空字符串？" />
             </list>
           </value>
         </entry>
