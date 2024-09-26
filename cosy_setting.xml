@@ -47,8 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="pyqt中，QMainWindow可以通过垂直和水平方向的拉伸改变其宽高，但是QDialog不行，如何在QDialog中实现这种效果？" />
-              <option value="QWidget的resize方法有什么作用？" />
               <option value="android aapt可否判定app是否是launcher应用？" />
               <option value="我这有一行文字 android:sharedUserId(0x0101000b)=&quot;android.uid.system&quot; (Raw: &quot;android.uid.system&quot;)，想用python判断=号后面是不是“android.uid.system”，如何判断？" />
               <option value="如果我想匹配A: android:name(0x01010003)=&quot;android.intent.category.LAUNCHER&quot; (Raw: &quot;android.intent.category.LAUNCHER&quot;)中=号后面双引号中的值是否是android.intent.category.LAUNCHER,该如何匹配？" />
@@ -67,6 +65,8 @@
               <option value="/explain code" />
               <option value="如何设置垂直方向拉伸？" />
               <option value="/explain code" />
+              <option value=".setVerticalStretch的参数值，1和100有什么区别？" />
+              <option value="1份垂直空间的高度如何计算？或者说以什么为标准？" />
             </list>
           </value>
         </entry>
