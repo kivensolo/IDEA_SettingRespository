@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Hint" />
       <item value="sizePolicy.setHeightForWidth(lineEdit.sizePolicy().hasHeightForWidth())" />
       <item value="问号" />
       <item value="桌面入口" />
@@ -64,15 +65,14 @@
       <item value="创建临时文件并打开对应的File Channel" />
       <item value="花费" />
       <item value="Buffer Underflow Exception" />
-      <item value="Multiplexer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="590" />
+        <entry key="CHINESE" value="591" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />

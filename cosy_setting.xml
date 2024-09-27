@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="如果我想匹配A: android:name(0x01010003)=&quot;android.intent.category.LAUNCHER&quot; (Raw: &quot;android.intent.category.LAUNCHER&quot;)中=号后面双引号中的值是否是android.intent.category.LAUNCHER,该如何匹配？" />
               <option value="我如何用正则表达式匹配launchable-activity: name='com.starcor.terminal.activity.MainActivity'  label='' icon=''这个字符串中，name=后面双引号的数据是否是com.starcor.terminal.activity.MainActivity？" />
               <option value="/explain code" />
               <option value="这段代码可不可以实现一行表达" />
@@ -67,6 +66,7 @@
               <option value="1份垂直空间的高度如何计算？或者说以什么为标准？" />
               <option value="/explain code" />
               <option value="QTextEdit如何实现文字超长后横向滑动" />
+              <option value="pyqt中，QWidget.sizeHint()和QWidget.minimumSizeHint()的作用是什么呢？" />
             </list>
           </value>
         </entry>
