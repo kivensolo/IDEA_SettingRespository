@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="这段代码可不可以实现一行表达" />
               <option value="python如何判断list长度大于0？" />
               <option value="如何判断字符串不为None或者不为空字符串？" />
@@ -67,6 +66,7 @@
               <option value="QTextEdit如何实现文字超长后横向滑动" />
               <option value="pyqt中，QWidget.sizeHint()和QWidget.minimumSizeHint()的作用是什么呢？" />
               <option value="sizeHint()和size()有什么区别？" />
+              <option value="LabVIEW可以用来做什么？可以服务于android开发人员吗？" />
             </list>
           </value>
         </entry>
