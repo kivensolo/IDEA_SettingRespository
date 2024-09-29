@@ -47,7 +47,6 @@
         <entry key="EasyADB|1318473438567511">
           <value>
             <list>
-              <option value="这段代码可不可以实现一行表达" />
               <option value="python如何判断list长度大于0？" />
               <option value="如何判断字符串不为None或者不为空字符串？" />
               <option value="pyqt中，如何设置QGroupBox的title文字样式" />
@@ -67,6 +66,7 @@
               <option value="pyqt中，QWidget.sizeHint()和QWidget.minimumSizeHint()的作用是什么呢？" />
               <option value="sizeHint()和size()有什么区别？" />
               <option value="LabVIEW可以用来做什么？可以服务于android开发人员吗？" />
+              <option value="pyqt中，我自定义了一个QToolBar，并且对其设置了layout：self.setLayout(self.horizontalLayout)&#10;不过提示我QWidget::setLayout: Attempting to set QLayout &quot;horizontalLayout&quot; on Ui_ToolBar &quot;&quot;, which already has a layout，为什么会已经有了一个layout?" />
             </list>
           </value>
         </entry>
