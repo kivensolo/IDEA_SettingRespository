@@ -96,6 +96,8 @@
               <option value="鸿蒙4.0是否支持android, 与鸿蒙4.0 Next有什么区别？" />
               <option value="华为magicbook如何锁触摸屏" />
               <option value="python的print没换行，如何才能实现打印换行？" />
+              <option value="/explain code" />
+              <option value="请解释一下lambda d : d.switch_to.alert" />
             </list>
           </value>
         </entry>

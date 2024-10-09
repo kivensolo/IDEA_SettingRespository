@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1727244247722" />
+    <option name="lastTrimTime" value="1728451771816" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="wait = WebDriverWait(driver, timeout=2) alert = wait.until(lambda d : d.switch_to.alert) text = alert.text" />
       <item value="Hint" />
       <item value="sizePolicy.setHeightForWidth(lineEdit.sizePolicy().hasHeightForWidth())" />
       <item value="问号" />
@@ -64,15 +65,14 @@
       <item value="Partial" />
       <item value="创建临时文件并打开对应的File Channel" />
       <item value="花费" />
-      <item value="Buffer Underflow Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="591" />
+        <entry key="CHINESE" value="592" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="ENGLISH" value="552" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
