@@ -2,5 +2,8 @@
   <template name="{" value="[$TEXT$]($LINK$)$END$" description="SDK: New link reference" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="LINK" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Markdown" value="true" />
+    </context>
   </template>
 </templateSet>
