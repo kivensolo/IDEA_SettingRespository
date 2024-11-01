@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1729751957300" />
+    <option name="lastTrimTime" value="1730455594363" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -15,6 +15,9 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="this version of the Java Runtime only recognizes class file versions up to 55.0," />
+      <item value="this version of the Java Runtime only recognizes class file versions up to 55.0" />
+      <item value="compiled by a more recent version of the Java Runtime (class file version 61.0)," />
       <item value="Document changes are made in the context of a write action." />
       <item value="The execute method inserts a fixed string at Offset 0 of the document. Document changes are made in the context of a write action." />
       <item value="This is a custom {@link TypedHandlerDelegate} that handles actions activated keystrokes in the editor." />
@@ -62,17 +65,14 @@
       <item value="Establish Waiting Strategy" />
       <item value="intrinsics" />
       <item value="I'm done and I don't explicitly join my children that are still active" />
-      <item value="This property is a shortcut for `coroutineContext.isActive` in the scope when" />
-      <item value="Check this property in long-running computation loops to support cancellation:" />
-      <item value="片段" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="609" />
+        <entry key="CHINESE" value="612" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="ENGLISH" value="572" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
