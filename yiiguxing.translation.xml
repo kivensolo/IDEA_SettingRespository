@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1730455594363" />
+    <option name="lastTrimTime" value="1730966487344" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The 'since-build' property is lower than the target IntelliJ Platform major version: 212 &lt; 231." />
       <item value="this version of the Java Runtime only recognizes class file versions up to 55.0," />
       <item value="this version of the Java Runtime only recognizes class file versions up to 55.0" />
       <item value="compiled by a more recent version of the Java Runtime (class file version 61.0)," />
@@ -64,15 +65,14 @@
       <item value="Request browser information" />
       <item value="Establish Waiting Strategy" />
       <item value="intrinsics" />
-      <item value="I'm done and I don't explicitly join my children that are still active" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="612" />
+        <entry key="CHINESE" value="613" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="572" />
+        <entry key="ENGLISH" value="573" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
