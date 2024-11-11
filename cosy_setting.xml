@@ -133,6 +133,13 @@
             </list>
           </value>
         </entry>
+        <entry key="ycy-intellij-plugin|">
+          <value>
+            <list>
+              <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
