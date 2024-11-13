@@ -1,9 +1,8 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1730966487344" />
+    <option name="lastTrimTime" value="1731485911146" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="primaryLanguage" value="AUTO" />
     <option name="translator" value="YOUDAO" />
     <option name="wordbookStoragePath" value="C:\Users\ZekeWang\OneDrive\TranslationPlugin" />
@@ -16,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This is an unexpected error. Please file a bug containing the idea.log file." />
       <item value="package cn.fantasticmao.ycy.intellij.plugin.remind;" />
       <item value="instrumented" />
       <item value="The 'since-build' property is lower than the target IntelliJ Platform major version: 212 &lt; 231." />
@@ -65,15 +65,14 @@
       <item value="Take action on element" />
       <item value="Start the session" />
       <item value="Take action on browser" />
-      <item value="Request browser information" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="615" />
+        <entry key="CHINESE" value="616" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
