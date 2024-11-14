@@ -15,6 +15,9 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="FileChooserDescriptor IMAGE_FILE_CHOOSER = new FileChooserDescriptor(true, false, false, false, false, false) { @Override public void validateSelectedFiles(VirtualFile @NotNull [] files) throws Exception { super.validateSelectedFiles(files); Use {isFileSelectable()} for (VirtualFile file : files) { if (!MIME_OF_IMAGE.contains(file.getExtension())) { throw new IllegalArgumentException(&quot;Please select a image file, support:&quot; + IMAGE_EXTENSION_LIST_STR); } } } @Override public boolean isFileSelectable(@Nullable VirtualFile file) { if(file == null){ return false; } return MIME_OF_IMAGE.contains(file.getExtension()); } };" />
+      <item value="Please select a image file" />
+      <item value="validate selected files" />
       <item value="请选择图片文件,支持&quot;jpg&quot;, &quot;jpeg&quot;, &quot;png&quot;, &quot;bmp&quot;, &quot;gif&quot;" />
       <item value="请确保上传的是" />
       <item value="get extension" />
@@ -62,17 +65,14 @@
       <item value="physical dots per inch" />
       <item value="CONNECTIVITY INTERNAL" />
       <item value="white" />
-      <item value="spread-radius color" />
-      <item value="tuple" />
-      <item value="communicate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="625" />
+        <entry key="CHINESE" value="628" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="585" />
+        <entry key="ENGLISH" value="588" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
