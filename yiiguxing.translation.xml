@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="请选择图片文件,支持&quot;jpg&quot;, &quot;jpeg&quot;, &quot;png&quot;, &quot;bmp&quot;, &quot;gif&quot;" />
+      <item value="请确保上传的是" />
       <item value="get extension" />
       <item value="removal" />
       <item value="Experimental" />
@@ -63,16 +65,14 @@
       <item value="spread-radius color" />
       <item value="tuple" />
       <item value="communicate" />
-      <item value="or a sequence of program arguments." />
-      <item value="判断" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="623" />
+        <entry key="CHINESE" value="625" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="583" />
+        <entry key="ENGLISH" value="585" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
