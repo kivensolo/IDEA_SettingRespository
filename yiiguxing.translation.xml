@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="removal" />
       <item value="Experimental" />
       <item value="unstable api usage" />
       <item value="Delete" />
@@ -64,15 +65,14 @@
       <item value="or a sequence of program arguments." />
       <item value="判断" />
       <item value="解析" />
-      <item value="Beautiful Soup" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="621" />
+        <entry key="CHINESE" value="622" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="ENGLISH" value="582" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
