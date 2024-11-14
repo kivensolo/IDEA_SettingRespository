@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Delete" />
+      <item value="@deprecated Use {@link ComponentManagergetService(Class)}: {@code Application.getService() Project.getService()}." />
       <item value="@see com.intellij.openapi.project.ProjectManagerTOPIC @deprecated Components are deprecated, please see &lt;a href=&quot;https:plugins.jetbrains.comdocsintellijplugin-components.html&quot;&gt;SDK Docs&lt;a&gt; for guidelines on migrating to other APIs. &lt;p&gt; If you register a class as a project component it will be loaded, its instance will be created and {@link initComponent()} and {@link projectOpened()} methods will be called for each project even if user doesn't use any feature of your plugin. Also, plugins which declare project components don't support dynamic loading." />
       <item value="This is an unexpected error. Please file a bug containing the idea.log file." />
       <item value="package cn.fantasticmao.ycy.intellij.plugin.remind;" />
@@ -63,16 +65,14 @@
       <item value="Beautiful Soup" />
       <item value="soup" />
       <item value="Request element information" />
-      <item value="Take action on element" />
-      <item value="Start the session" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="617" />
+        <entry key="CHINESE" value="619" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="ENGLISH" value="579" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
