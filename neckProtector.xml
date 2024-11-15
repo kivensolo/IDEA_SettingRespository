@@ -1,6 +1,5 @@
 <application>
   <component name="neckProtector">
     <option name="imageSrcType" value="2" />
-    <option name="periodMinutes" value="1" />
   </component>
 </application>
