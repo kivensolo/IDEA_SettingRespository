@@ -42,6 +42,9 @@
               <option value="/explain code" />
               <option value="python的json.loads方法是什么意思" />
               <option value="No longer broken 表示什么含义" />
+              <option value="如何通过svn在指定路径下搜索目标仓库名称" />
+              <option value="如何通过SVN的Repository Browser搜索目标仓库AAA_C" />
+              <option value="如果是要循环查找呢" />
             </list>
           </value>
         </entry>
