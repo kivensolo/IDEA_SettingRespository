@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Initialize the message reminder method drop-down box is optional" />
+      <item value="初始化消息提醒方式下拉框可选项" />
       <item value="SETTING notification" />
       <item value="语言" />
       <item value="Minutes" />
@@ -63,16 +65,14 @@
       <item value="请选择图片文件,支持&quot;jpg&quot;, &quot;jpeg&quot;, &quot;png&quot;, &quot;bmp&quot;, &quot;gif&quot;" />
       <item value="请确保上传的是" />
       <item value="get extension" />
-      <item value="removal" />
-      <item value="Experimental" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="674" />
+        <entry key="CHINESE" value="676" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="ENGLISH" value="634" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
