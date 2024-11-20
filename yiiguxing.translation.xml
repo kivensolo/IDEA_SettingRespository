@@ -15,10 +15,13 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="语言" />
+      <item value="Language" />
+      <item value="init multi language UI" />
+      <item value="Reminder Interval(Minutes)" />
       <item value="Initialize the message reminder method drop-down box is optional" />
       <item value="初始化消息提醒方式下拉框可选项" />
       <item value="SETTING notification" />
-      <item value="语言" />
       <item value="Minutes" />
       <item value="This project illustrates a custom Application-level Settings through the implementation of:" />
       <item value="- `AppSettingsConfigurable` is analogous to a Controller in the MVC model - it interacts with the other two Settings classes and the IntelliJ Platform," />
@@ -62,24 +65,21 @@
       <item value="FileChooserDescriptor IMAGE_FILE_CHOOSER = new FileChooserDescriptor(true, false, false, false, false, false) { @Override public void validateSelectedFiles(VirtualFile @NotNull [] files) throws Exception { super.validateSelectedFiles(files); Use {isFileSelectable()} for (VirtualFile file : files) { if (!MIME_OF_IMAGE.contains(file.getExtension())) { throw new IllegalArgumentException(&quot;Please select a image file, support:&quot; + IMAGE_EXTENSION_LIST_STR); } } } @Override public boolean isFileSelectable(@Nullable VirtualFile file) { if(file == null){ return false; } return MIME_OF_IMAGE.contains(file.getExtension()); } };" />
       <item value="Please select a image file" />
       <item value="validate selected files" />
-      <item value="请选择图片文件,支持&quot;jpg&quot;, &quot;jpeg&quot;, &quot;png&quot;, &quot;bmp&quot;, &quot;gif&quot;" />
-      <item value="请确保上传的是" />
-      <item value="get extension" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="676" />
+        <entry key="CHINESE" value="680" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="ENGLISH" value="637" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
         <entry key="ICELANDIC" value="2" />
         <entry key="INDONESIAN" value="6" />
         <entry key="ITALIAN" value="1" />
-        <entry key="LATIN" value="2" />
+        <entry key="LATIN" value="3" />
         <entry key="NORWEGIAN" value="3" />
         <entry key="POLISH" value="2" />
         <entry key="SUNDANESE" value="2" />
