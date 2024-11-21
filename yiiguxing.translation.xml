@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Interval minutes" />
       <item value="highlight severity" />
       <item value="语言" />
       <item value="Language" />
@@ -64,15 +65,14 @@
       <item value="repository" />
       <item value="respository" />
       <item value="FileChooserDescriptor IMAGE_FILE_CHOOSER = new FileChooserDescriptor(true, false, false, false, false, false) { @Override public void validateSelectedFiles(VirtualFile @NotNull [] files) throws Exception { super.validateSelectedFiles(files); Use {isFileSelectable()} for (VirtualFile file : files) { if (!MIME_OF_IMAGE.contains(file.getExtension())) { throw new IllegalArgumentException(&quot;Please select a image file, support:&quot; + IMAGE_EXTENSION_LIST_STR); } } } @Override public boolean isFileSelectable(@Nullable VirtualFile file) { if(file == null){ return false; } return MIME_OF_IMAGE.contains(file.getExtension()); } };" />
-      <item value="Please select a image file" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="681" />
+        <entry key="CHINESE" value="682" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="638" />
+        <entry key="ENGLISH" value="639" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
