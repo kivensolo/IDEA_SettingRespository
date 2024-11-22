@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Containing class:" />
+      <item value="instrument idea extensions" />
       <item value="完成多语言国际化适配，支持英文与中文" />
       <item value="Diaplay picture directly" />
       <item value="picture" />
@@ -63,16 +65,14 @@
       <item value="Allows user to configure visible gutter icons" />
       <item value="element color provider" />
       <item value="Macro" />
-      <item value="&quot;Dumb&quot; mode starts and ends in a {@link com.intellij.openapi.application.WriteAction}, so if you're inside a {@link ReadAction} on a background thread, it won't suddenly begin in the middle of your operation. But note that whenever you start a top-level read action on a background thread, you should be prepared to anything being changed, including &quot;dumb&quot; mode being suddenly on and off. To avoid executing a read action in &quot;dumb&quot; mode, please use {@link runReadActionInSmartMode} or {@link com.intellij.openapi.application.NonBlockingReadActioninSmartMode}." />
-      <item value="when indexes are updated in the background, and the functionality is very much limited. Only the explicitly allowed functionality is available. Usually, it's allowed by implementing {@link DumbAware} interface." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="688" />
+        <entry key="CHINESE" value="690" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="645" />
+        <entry key="ENGLISH" value="647" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
