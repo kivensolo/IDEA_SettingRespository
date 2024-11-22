@@ -15,9 +15,10 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="caret" />
+      <item value="Element at caret" />
       <item value="Returns the text range in the document occupied by the PSI element." />
       <item value="Returns the text of the PSI element." />
-      <item value="Element at caret" />
       <item value="Containing class:" />
       <item value="instrument idea extensions" />
       <item value="完成多语言国际化适配，支持英文与中文" />
@@ -64,15 +65,14 @@
       <item value="uast utils" />
       <item value="Finds a leaf PSI element at the specified offset from the start of the text range of this node." />
       <item value="Collects line markers for several PsiElements in batch, after all (relatively faster) {@link getLineMarkerInfo(PsiElement)} calls are finished." />
-      <item value="Get line markers for this PsiElement." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="694" />
+        <entry key="CHINESE" value="696" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="ENGLISH" value="653" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
