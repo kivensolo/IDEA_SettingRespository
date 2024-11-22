@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Element at caret" />
       <item value="Containing class:" />
       <item value="instrument idea extensions" />
       <item value="完成多语言国际化适配，支持英文与中文" />
@@ -64,15 +65,14 @@
       <item value="Get line markers for this PsiElement." />
       <item value="Allows user to configure visible gutter icons" />
       <item value="element color provider" />
-      <item value="Macro" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="690" />
+        <entry key="CHINESE" value="691" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
