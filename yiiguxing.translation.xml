@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Field" />
+      <item value="psi field" />
       <item value="caret" />
       <item value="Element at caret" />
       <item value="Returns the text range in the document occupied by the PSI element." />
@@ -63,16 +65,14 @@
       <item value="conditional operator intention" />
       <item value="comparing string references inspection" />
       <item value="uast utils" />
-      <item value="Finds a leaf PSI element at the specified offset from the start of the text range of this node." />
-      <item value="Collects line markers for several PsiElements in batch, after all (relatively faster) {@link getLineMarkerInfo(PsiElement)} calls are finished." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="696" />
+        <entry key="CHINESE" value="698" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="ENGLISH" value="655" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
