@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1731995965607" />
+    <option name="lastTrimTime" value="1732530258436" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Constructs a new URLClassLoader for the specified URLs using the default delegation parent {@code ClassLoader}. The URLs will be searched in the order specified for classes and resources after first searching in the parent class loader. Any URL that ends with a '' is assumed to refer to a directory. Otherwise, the URL is assumed to refer to a JAR file which will be downloaded and opened as needed. &lt;p&gt;If there is a security manager, this method first calls the security manager's {@code checkCreateClassLoader} method to ensure creation of a class loader is allowed. @param urls the URLs from which to load classes and resources @exception SecurityException if a security manager exists and its {@code checkCreateClassLoader} method doesn't allow creation of a class loader. @exception NullPointerException if {@code urls} is {@code null}. @see SecurityManagercheckCreateClassLoader" />
       <item value="Field" />
       <item value="psi field" />
       <item value="caret" />
@@ -64,15 +65,14 @@
       <item value="tree structure provider" />
       <item value="conditional operator intention" />
       <item value="comparing string references inspection" />
-      <item value="uast utils" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="698" />
+        <entry key="CHINESE" value="699" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="655" />
+        <entry key="ENGLISH" value="656" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
