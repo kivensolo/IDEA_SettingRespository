@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="facet basics" />
       <item value="top inset" />
       <item value="Demonstrates implementing a custom settings panel.&lt;br&gt;Adds a settings panel to the &lt;b&gt;Settings&lt;b&gt; panel under" />
       <item value="Provides controller functionality for application settings." />
@@ -64,15 +65,14 @@
       <item value="Facet Basics represents configuration specific for a particular framework or technology, associated with a module. SDK Facet is available to use in the `Project Settings &gt; Facets` section. It allows us to specify any configuration specified by the `FacetConfiguration` implementation - path to the SDK in this case." />
       <item value="Facets extend base IDE features with additional frameworks support by providing additional libraries, dependencies, technologies, and UI elements for configuring framework-specific settings." />
       <item value="Facet" />
-      <item value="Runs an activity on project open." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="715" />
+        <entry key="CHINESE" value="716" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="672" />
+        <entry key="ENGLISH" value="673" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
