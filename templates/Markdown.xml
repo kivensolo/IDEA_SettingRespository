@@ -4,6 +4,7 @@
     <variable name="LINK" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Markdown" value="true" />
+      <option name="Markdown" value="true" />
     </context>
   </template>
 </templateSet>
