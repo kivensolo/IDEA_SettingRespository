@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler) package com.intellij.util.io; import java.io.DataInput; import java.io.DataOutput; import java.io.IOException; import org.jetbrains.annotations.NotNull; public interface DataExternalizer&lt;T&gt; { void save(@NotNull DataOutput var1, T var2) throws IOException; T read(@NotNull DataInput var1) throws IOException; }" />
+      <item value="Externalizer" />
       <item value="layout file raw text" />
       <item value="compute value" />
       <item value="Returns the file containing the PSI element." />
@@ -63,16 +65,14 @@
       <item value="Minutes" />
       <item value="This project illustrates a custom Application-level Settings through the implementation of:" />
       <item value="- `AppSettingsConfigurable` is analogous to a Controller in the MVC model - it interacts with the other two Settings classes and the IntelliJ Platform," />
-      <item value="settings" />
-      <item value="project view pane" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="720" />
+        <entry key="CHINESE" value="722" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="677" />
+        <entry key="ENGLISH" value="679" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
