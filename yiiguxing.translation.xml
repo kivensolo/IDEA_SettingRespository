@@ -15,6 +15,10 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Simplifies API and ensures that data key will always be equal to virtual file id" />
+      <item value="Represents {@link DataIndexer} which behaviour can be extended by some kind of extension points. &lt;p&gt; See {@link com.intellij.psi.impl.cache.impl.id.IdIndex}, {@link com.intellij.psi.stubs.StubUpdatingIndex} as examples. &lt;p&gt;" />
+      <item value="single entry indexer" />
+      <item value="Implement this interface to map input (such as a file) to a {@code Map&lt;Key, Value&gt;}, which will be associated with this input by the {@link InvertedIndex index}." />
       <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler) package com.intellij.util.io; import java.io.DataInput; import java.io.DataOutput; import java.io.IOException; import org.jetbrains.annotations.NotNull; public interface DataExternalizer&lt;T&gt; { void save(@NotNull DataOutput var1, T var2) throws IOException; T read(@NotNull DataInput var1) throws IOException; }" />
       <item value="Externalizer" />
       <item value="layout file raw text" />
@@ -61,18 +65,14 @@
       <item value="Reminder Interval(Minutes)" />
       <item value="Initialize the message reminder method drop-down box is optional" />
       <item value="初始化消息提醒方式下拉框可选项" />
-      <item value="SETTING notification" />
-      <item value="Minutes" />
-      <item value="This project illustrates a custom Application-level Settings through the implementation of:" />
-      <item value="- `AppSettingsConfigurable` is analogous to a Controller in the MVC model - it interacts with the other two Settings classes and the IntelliJ Platform," />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="722" />
+        <entry key="CHINESE" value="727" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="679" />
+        <entry key="ENGLISH" value="684" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
