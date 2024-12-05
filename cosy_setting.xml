@@ -53,6 +53,25 @@
             </list>
           </value>
         </entry>
+        <entry key="intellij-sdk-code-samples|1318473438567511">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="在开发IDEA插件时，我想实现针对java代码中某个字符串，当字符串时resource目录下的资源时，比如“resource/images/hello.png”，可以直接Ctrl+左键点击字符串进行跳转。&#10;这个功能需要掌握哪方面的知识？如何实现？" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
         <entry key="terminal-build-server-freegod|1318473438567511">
           <value>
             <list>
