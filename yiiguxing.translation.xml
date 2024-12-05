@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="layout file raw text" />
       <item value="compute value" />
       <item value="Returns the file containing the PSI element." />
       <item value="并行" />
@@ -64,15 +65,14 @@
       <item value="- `AppSettingsConfigurable` is analogous to a Controller in the MVC model - it interacts with the other two Settings classes and the IntelliJ Platform," />
       <item value="settings" />
       <item value="project view pane" />
-      <item value="project wizard" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="719" />
+        <entry key="CHINESE" value="720" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="676" />
+        <entry key="ENGLISH" value="677" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
