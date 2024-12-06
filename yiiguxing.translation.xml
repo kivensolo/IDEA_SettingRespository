@@ -15,9 +15,12 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Creates a PSI element for the specified AST node. The AST tree is a simple, semantic-free tree of AST nodes which is built during the PsiBuilder parsing pass. The PSI tree is built over the AST tree and includes elements of different types for different language constructs." />
+      <item value="DOUBLE QUOTED STRING" />
+      <item value="STRING LITERAL" />
+      <item value="get comment tokens" />
       <item value="has permissive strings" />
       <item value="completion contributor" />
-      <item value="DOUBLE QUOTED STRING" />
       <item value="CURLY" />
       <item value="L CURLY" />
       <item value="We only care about properties at the root level having the form of &quot;property&quot; : &quot;value&quot;." />
@@ -62,17 +65,14 @@
       <item value="完成多语言国际化适配，支持英文与中文" />
       <item value="Diaplay picture directly" />
       <item value="picture" />
-      <item value="提醒方式" />
-      <item value="Reminder" />
-      <item value="coastline" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="737" />
+        <entry key="CHINESE" value="741" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="694" />
+        <entry key="ENGLISH" value="698" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
