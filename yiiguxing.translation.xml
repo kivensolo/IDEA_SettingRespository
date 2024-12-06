@@ -15,6 +15,11 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CURLY" />
+      <item value="L CURLY" />
+      <item value="We only care about properties at the root level having the form of &quot;property&quot; : &quot;value&quot;." />
+      <item value="json schema file values index" />
+      <item value="Lexer" />
       <item value="layout file raw text" />
       <item value="Simplifies API and ensures that data key will always be equal to virtual file id" />
       <item value="Represents {@link DataIndexer} which behaviour can be extended by some kind of extension points. &lt;p&gt; See {@link com.intellij.psi.impl.cache.impl.id.IdIndex}, {@link com.intellij.psi.stubs.StubUpdatingIndex} as examples. &lt;p&gt;" />
@@ -60,19 +65,14 @@
       <item value="Interval minutes" />
       <item value="highlight severity" />
       <item value="语言" />
-      <item value="Language" />
-      <item value="init multi language UI" />
-      <item value="Reminder Interval(Minutes)" />
-      <item value="Initialize the message reminder method drop-down box is optional" />
-      <item value="初始化消息提醒方式下拉框可选项" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="728" />
+        <entry key="CHINESE" value="734" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="ENGLISH" value="691" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
