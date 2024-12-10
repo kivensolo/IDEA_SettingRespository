@@ -439,6 +439,25 @@
             </list>
           </value>
         </entry>
+        <entry key="xul-ide-plugin|1318473438567511">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="com.intellij.psi.PsiReferenceProvider的作用是什么？如何使用，请举例说明" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="recentQueries">
