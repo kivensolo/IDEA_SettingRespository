@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="instrument code" />
       <item value="psi java token" />
       <item value="Represents a Java identifier." />
       <item value="There is insufficient memory for the Java Runtime Environment to continue." />
@@ -64,15 +65,14 @@
       <item value="Element at caret" />
       <item value="Returns the text range in the document occupied by the PSI element." />
       <item value="Returns the text of the PSI element." />
-      <item value="Containing class:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="745" />
+        <entry key="CHINESE" value="746" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="702" />
+        <entry key="ENGLISH" value="703" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
