@@ -15,6 +15,15 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="simple property" />
+      <item value="Variants" />
+      <item value="{@link PsiElement} andor {@link com.intellij.codeInsight.lookup.LookupElement} instances representing all identifiers that are visible at the location of the reference" />
+      <item value="the array of available identifiers" />
+      <item value="visible identifiers" />
+      <item value="(The list of visible identifiers may not be filtered by the completion prefix string - the filtering is performed later by the IDE.)" />
+      <item value="the returned array are used to build the lookup list for basic code completion" />
+      <item value="The contents of the returned array are used to build the lookup list for basic code completion." />
+      <item value="Returns the array of String, {@link PsiElement} andor {@link com.intellij.codeInsight.lookup.LookupElement} instances representing all identifiers that are visible at the location of the reference. The contents of the returned array are used to build the lookup list for basic code completion. (The list of visible identifiers may not be filtered by the completion prefix string - the filtering is performed later by the IDE.) &lt;p&gt; This method is default since 2018.3." />
       <item value="Inherit this interface if you want the reference to resolve to more than one element, or if you want to provide resolve result(s) for a superset of valid resolve cases." />
       <item value="Inherit this interface if you want the reference to resolve to more than one element, or if you want to provide resolve result(s) for a superset of valid resolve cases. For example, in Java, references in a static context are resolved to non-static methods in case there is no valid candidate. isValidResult() in this case should return false for later analysis by highlighting pass." />
       <item value="if true, the code in the context of which the reference is being resolved is considered incomplete, and the method may return additional invalid results." />
@@ -56,23 +65,14 @@
       <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler) package com.intellij.util.io; import java.io.DataInput; import java.io.DataOutput; import java.io.IOException; import org.jetbrains.annotations.NotNull; public interface DataExternalizer&lt;T&gt; { void save(@NotNull DataOutput var1, T var2) throws IOException; T read(@NotNull DataInput var1) throws IOException; }" />
       <item value="Externalizer" />
       <item value="compute value" />
-      <item value="Returns the file containing the PSI element." />
-      <item value="并行" />
-      <item value="周期性" />
-      <item value="is retain action" />
-      <item value="facet basics" />
-      <item value="top inset" />
-      <item value="Demonstrates implementing a custom settings panel.&lt;br&gt;Adds a settings panel to the &lt;b&gt;Settings&lt;b&gt; panel under" />
-      <item value="Provides controller functionality for application settings." />
-      <item value="get preferred focused component" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="763" />
+        <entry key="CHINESE" value="773" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="ENGLISH" value="730" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
