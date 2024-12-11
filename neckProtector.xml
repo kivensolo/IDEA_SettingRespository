@@ -1,7 +1,7 @@
 <application>
   <component name="neckProtector">
     <option name="imageSrcType" value="1" />
-    <option name="remindImageUrl" value="file:$APPLICATION_PLUGINS_DIR$/neck_protect_cache/bing/780FD0312E08967F29BC0572D7C81A81.jpg" />
+    <option name="remindImageUrl" value="file:$APPLICATION_PLUGINS_DIR$/neck_protect_cache/bing/4FE2D6A62B8A2C90366F7DB68E0A42F5.jpg" />
     <option name="periodMinutes" value="120" />
     <option name="notifyTitle" value="老铁！健康警告！！" />
     <option name="notifyContent" value="放松一下！站起来提肛" />
