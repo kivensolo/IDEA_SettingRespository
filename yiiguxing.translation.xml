@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Literal" />
+      <item value="leaf psi element" />
       <item value="Attempts to collect any comment elements above the Simple keyvalue pair." />
       <item value="simple property" />
       <item value="Variants" />
@@ -29,7 +31,6 @@
       <item value="Inherit this interface if you want the reference to resolve to more than one element, or if you want to provide resolve result(s) for a superset of valid resolve cases. For example, in Java, references in a static context are resolved to non-static methods in case there is no valid candidate. isValidResult() in this case should return false for later analysis by highlighting pass." />
       <item value="if true, the code in the context of which the reference is being resolved is considered incomplete, and the method may return additional invalid results." />
       <item value="Returns the results of resolving the reference." />
-      <item value="Literal" />
       <item value="Scheme" />
       <item value="patterns" />
       <item value="Factory for {@link String}, {@link Character} and {@link Object}-based patterns. Provides methods for composing patterns with e.g. logical operations." />
@@ -64,15 +65,14 @@
       <item value="single entry indexer" />
       <item value="Implement this interface to map input (such as a file) to a {@code Map&lt;Key, Value&gt;}, which will be associated with this input by the {@link InvertedIndex index}." />
       <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler) package com.intellij.util.io; import java.io.DataInput; import java.io.DataOutput; import java.io.IOException; import org.jetbrains.annotations.NotNull; public interface DataExternalizer&lt;T&gt; { void save(@NotNull DataOutput var1, T var2) throws IOException; T read(@NotNull DataInput var1) throws IOException; }" />
-      <item value="Externalizer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="774" />
+        <entry key="CHINESE" value="776" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="731" />
+        <entry key="ENGLISH" value="733" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
