@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Attempts to collect any comment elements above the Simple keyvalue pair." />
       <item value="simple property" />
       <item value="Variants" />
       <item value="{@link PsiElement} andor {@link com.intellij.codeInsight.lookup.LookupElement} instances representing all identifiers that are visible at the location of the reference" />
@@ -64,15 +65,14 @@
       <item value="Implement this interface to map input (such as a file) to a {@code Map&lt;Key, Value&gt;}, which will be associated with this input by the {@link InvertedIndex index}." />
       <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler) package com.intellij.util.io; import java.io.DataInput; import java.io.DataOutput; import java.io.IOException; import org.jetbrains.annotations.NotNull; public interface DataExternalizer&lt;T&gt; { void save(@NotNull DataOutput var1, T var2) throws IOException; T read(@NotNull DataInput var1) throws IOException; }" />
       <item value="Externalizer" />
-      <item value="compute value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="773" />
+        <entry key="CHINESE" value="774" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="ENGLISH" value="731" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
