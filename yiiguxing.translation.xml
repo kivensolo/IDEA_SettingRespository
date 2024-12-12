@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the part of the underlying element which serves as a reference, or the complete text range of the element if the entire element is a reference. &lt;p&gt; Sample: PsiElement representing a fully qualified name with multiple dedicated PsiReferences, each bound to the range it resolves to (skipping the '.' separator). &lt;pre&gt; PsiElement text: qualified.LongName PsiReferences: [Ref1---]X[Ref2--] &lt;pre&gt; where {@code Ref1} would resolve to a &quot;namespace&quot; and {@code Ref2} to an &quot;element&quot;. @return Relative range in element" />
       <item value="尾" />
       <item value="segment" />
       <item value="段" />
@@ -64,15 +65,14 @@
       <item value="return containingFiles.stream() .map {virtualFile: VirtualFile -&gt; PsiManager.getInstance(project).findFile(virtualFile) } .flatMap { psiFile: PsiFile? -&gt; PsiTreeUtil.findChildrenOfType(psiFile, PsiMethod::class.java ).stream() } .filter { method: PsiMethod -&gt; methodName == method.name } .collect(Collectors.toList())" />
       <item value="Creates a PSI element for the specified AST node. The AST tree is a simple, semantic-free tree of AST nodes which is built during the PsiBuilder parsing pass. The PSI tree is built over the AST tree and includes elements of different types for different language constructs." />
       <item value="DOUBLE QUOTED STRING" />
-      <item value="STRING LITERAL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="790" />
+        <entry key="CHINESE" value="791" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="ENGLISH" value="748" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
