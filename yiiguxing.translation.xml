@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Register reference provider with default priority" />
       <item value="reference place description." />
       <item value="Register reference provider with custom priority." />
       <item value="trinity" />
@@ -64,15 +65,14 @@
       <item value="has permissive strings" />
       <item value="completion contributor" />
       <item value="CURLY" />
-      <item value="L CURLY" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="785" />
+        <entry key="CHINESE" value="786" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="ENGLISH" value="743" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
