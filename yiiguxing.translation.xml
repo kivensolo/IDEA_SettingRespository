@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the first element matching the given [predicate], or `null` if no such element was found." />
       <item value="@param file - might (and will be) null. Return true in this case if you'd like to switch this kind of highlighting in ANY file" />
       <item value="annotator" />
       <item value="manipulator" />
@@ -64,15 +65,14 @@
       <item value="We only care about properties at the root level having the form of &quot;property&quot; : &quot;value&quot;." />
       <item value="json schema file values index" />
       <item value="Lexer" />
-      <item value="layout file raw text" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="781" />
+        <entry key="CHINESE" value="782" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="738" />
+        <entry key="ENGLISH" value="739" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
