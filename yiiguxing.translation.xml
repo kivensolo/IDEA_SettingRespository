@@ -15,6 +15,9 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="@param file - might (and will be) null. Return true in this case if you'd like to switch this kind of highlighting in ANY file" />
+      <item value="annotator" />
+      <item value="manipulator" />
       <item value="qualified name provider" />
       <item value="Qualified" />
       <item value="Literal" />
@@ -62,17 +65,14 @@
       <item value="json schema file values index" />
       <item value="Lexer" />
       <item value="layout file raw text" />
-      <item value="Simplifies API and ensures that data key will always be equal to virtual file id" />
-      <item value="Represents {@link DataIndexer} which behaviour can be extended by some kind of extension points. &lt;p&gt; See {@link com.intellij.psi.impl.cache.impl.id.IdIndex}, {@link com.intellij.psi.stubs.StubUpdatingIndex} as examples. &lt;p&gt;" />
-      <item value="single entry indexer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="778" />
+        <entry key="CHINESE" value="781" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="735" />
+        <entry key="ENGLISH" value="738" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
