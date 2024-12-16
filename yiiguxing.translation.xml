@@ -15,6 +15,10 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="BASIC" />
+      <item value="SMART" />
+      <item value="already followed by slash" />
+      <item value="with insert handler" />
       <item value="An item shown in a {@link Lookup} suggestion list, most often produced by code completion or live templates. A typical way to create lookup element is to use {@link LookupElementBuilder}. Another way is to subclass it. Use the latter way only if you need it to implement some additional interface, to modify equalshashCode or other advanced logic." />
       <item value="Lookup" />
       <item value="slash" />
@@ -61,18 +65,14 @@
       <item value="Pattern" />
       <item value="Factory for {@link PsiElement}, {@link PomTarget}, {@link IElementType} and {@link VirtualFile}-based patterns." />
       <item value="reference place description" />
-      <item value="reference place description. See {@link com.intellij.patterns.StandardPatterns}, {@link com.intellij.patterns.PlatformPatterns} and their extenders." />
-      <item value="Contributor" />
-      <item value="Returns the element which is the target of the reference." />
-      <item value="psi reference" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="801" />
+        <entry key="CHINESE" value="805" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="758" />
+        <entry key="ENGLISH" value="762" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
