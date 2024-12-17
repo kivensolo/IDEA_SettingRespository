@@ -15,6 +15,10 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Return true in this case if you'd like to switch this kind of highlighting in ANY file" />
+      <item value="compute if absent" />
+      <item value="text attributes key" />
+      <item value="highlight severity" />
       <item value="A wrapper around map, allowing to put and get values by keys in a type-safe way. Used in various extension implementations to manage temporary state. For example:" />
       <item value="allowing to put and get values by keys in a type-safe way" />
       <item value="Simple processing context can contain a shared processing context inside, which should be used when iterating over several patterns or extensions, possibly from different plugins. They may still wish to reuse some cached information that a previous extension has already calculated. &lt;p&gt;" />
@@ -61,18 +65,14 @@
       <item value="Attempts to collect any comment elements above the Simple keyvalue pair." />
       <item value="simple property" />
       <item value="Variants" />
-      <item value="{@link PsiElement} andor {@link com.intellij.codeInsight.lookup.LookupElement} instances representing all identifiers that are visible at the location of the reference" />
-      <item value="the array of available identifiers" />
-      <item value="visible identifiers" />
-      <item value="(The list of visible identifiers may not be filtered by the completion prefix string - the filtering is performed later by the IDE.)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="823" />
+        <entry key="CHINESE" value="828" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="780" />
+        <entry key="ENGLISH" value="785" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
