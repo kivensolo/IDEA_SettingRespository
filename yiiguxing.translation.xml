@@ -15,6 +15,10 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A wrapper around map, allowing to put and get values by keys in a type-safe way. Used in various extension implementations to manage temporary state. For example:" />
+      <item value="allowing to put and get values by keys in a type-safe way" />
+      <item value="Simple processing context can contain a shared processing context inside, which should be used when iterating over several patterns or extensions, possibly from different plugins. They may still wish to reuse some cached information that a previous extension has already calculated. &lt;p&gt;" />
+      <item value="A wrapper around map, allowing to put and get values by keys in a type-safe way. Used in various extension implementations to manage temporary state. For example: &lt;ul&gt; &lt;li&gt;When creating {@code ElementPattern}, processing context may be used to cache some intermediate data to be shared between pattern parts.&lt;li&gt; &lt;li&gt;Some extensions (e.g, {@code PsiReferenceProvider}, {@code CompletionContributors}) use per-pattern registration. That allows to use {@code ElementPatternsave} to put matched objects into processing contexts and then retrieve those objects inside extension implementation after the matching is complete.&lt;li&gt; &lt;ul&gt;" />
       <item value="prefix to look up" />
       <item value="look up prefix" />
       <item value="Slash" />
@@ -61,18 +65,14 @@
       <item value="the array of available identifiers" />
       <item value="visible identifiers" />
       <item value="(The list of visible identifiers may not be filtered by the completion prefix string - the filtering is performed later by the IDE.)" />
-      <item value="the returned array are used to build the lookup list for basic code completion" />
-      <item value="The contents of the returned array are used to build the lookup list for basic code completion." />
-      <item value="Returns the array of String, {@link PsiElement} andor {@link com.intellij.codeInsight.lookup.LookupElement} instances representing all identifiers that are visible at the location of the reference. The contents of the returned array are used to build the lookup list for basic code completion. (The list of visible identifiers may not be filtered by the completion prefix string - the filtering is performed later by the IDE.) &lt;p&gt; This method is default since 2018.3." />
-      <item value="Inherit this interface if you want the reference to resolve to more than one element, or if you want to provide resolve result(s) for a superset of valid resolve cases." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="818" />
+        <entry key="CHINESE" value="823" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="775" />
+        <entry key="ENGLISH" value="780" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
