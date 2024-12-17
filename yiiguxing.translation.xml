@@ -15,10 +15,10 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="slash" />
       <item value="already followed by slash" />
       <item value="caret" />
       <item value="need insert slash" />
-      <item value="slash" />
       <item value="Creates a default camel-hump prefix matcher based on given prefix" />
       <item value="BASIC" />
       <item value="SMART" />
@@ -70,9 +70,9 @@
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="810" />
+        <entry key="CHINESE" value="811" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="767" />
+        <entry key="ENGLISH" value="768" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
