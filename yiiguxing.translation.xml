@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="prefix to look up" />
+      <item value="look up prefix" />
       <item value="Slash" />
       <item value="last slash index" />
       <item value="typing text" />
@@ -63,16 +65,14 @@
       <item value="The contents of the returned array are used to build the lookup list for basic code completion." />
       <item value="Returns the array of String, {@link PsiElement} andor {@link com.intellij.codeInsight.lookup.LookupElement} instances representing all identifiers that are visible at the location of the reference. The contents of the returned array are used to build the lookup list for basic code completion. (The list of visible identifiers may not be filtered by the completion prefix string - the filtering is performed later by the IDE.) &lt;p&gt; This method is default since 2018.3." />
       <item value="Inherit this interface if you want the reference to resolve to more than one element, or if you want to provide resolve result(s) for a superset of valid resolve cases." />
-      <item value="Inherit this interface if you want the reference to resolve to more than one element, or if you want to provide resolve result(s) for a superset of valid resolve cases. For example, in Java, references in a static context are resolved to non-static methods in case there is no valid candidate. isValidResult() in this case should return false for later analysis by highlighting pass." />
-      <item value="if true, the code in the context of which the reference is being resolved is considered incomplete, and the method may return additional invalid results." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="815" />
+        <entry key="CHINESE" value="818" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="ENGLISH" value="775" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />

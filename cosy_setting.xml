@@ -696,6 +696,73 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="如何将结果集的查找元素进行排序，目录类型的优先展示" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine" />
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent" />
+                          <entry key="startLine" />
+                        </map>
+                      </option>
+                      <option name="id" value="E:\GitHubProjects\IntelliJ\intellij-sdk-code-samples\zeke_wildfire_samples\src\main\kotlin\org\intellij\samples\completion\AndroidAssetsPathCompletionContributor.kt" />
+                      <option name="name" value="E:\GitHubProjects\IntelliJ\intellij-sdk-code-samples\zeke_wildfire_samples\src\main\kotlin\org\intellij\samples\completion\AndroidAssetsPathCompletionContributor.kt" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="AndroidAssetsPathCompletionContributor.kt" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
