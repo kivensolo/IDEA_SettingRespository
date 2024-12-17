@@ -15,6 +15,10 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Slash" />
+      <item value="last slash index" />
+      <item value="typing text" />
+      <item value="There is more than one label with such a name in this scope" />
       <item value="slash" />
       <item value="already followed by slash" />
       <item value="caret" />
@@ -61,18 +65,14 @@
       <item value="Inherit this interface if you want the reference to resolve to more than one element, or if you want to provide resolve result(s) for a superset of valid resolve cases." />
       <item value="Inherit this interface if you want the reference to resolve to more than one element, or if you want to provide resolve result(s) for a superset of valid resolve cases. For example, in Java, references in a static context are resolved to non-static methods in case there is no valid candidate. isValidResult() in this case should return false for later analysis by highlighting pass." />
       <item value="if true, the code in the context of which the reference is being resolved is considered incomplete, and the method may return additional invalid results." />
-      <item value="Returns the results of resolving the reference." />
-      <item value="Scheme" />
-      <item value="patterns" />
-      <item value="Factory for {@link String}, {@link Character} and {@link Object}-based patterns. Provides methods for composing patterns with e.g. logical operations." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="811" />
+        <entry key="CHINESE" value="815" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="768" />
+        <entry key="ENGLISH" value="772" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
