@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Filter" />
       <item value="Return true in this case if you'd like to switch this kind of highlighting in ANY file" />
       <item value="compute if absent" />
       <item value="text attributes key" />
@@ -64,15 +65,14 @@
       <item value="leaf psi element" />
       <item value="Attempts to collect any comment elements above the Simple keyvalue pair." />
       <item value="simple property" />
-      <item value="Variants" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="828" />
+        <entry key="CHINESE" value="829" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="785" />
+        <entry key="ENGLISH" value="786" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
