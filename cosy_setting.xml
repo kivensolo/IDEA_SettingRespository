@@ -60,19 +60,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="在开发IDEA插件时，我想实现针对java代码中某个字符串，当字符串时resource目录下的资源时，比如“resource/images/hello.png”，可以直接Ctrl+左键点击字符串进行跳转。&#10;这个功能需要掌握哪方面的知识？如何实现？" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="PsiFile对象如何判断当前类型是不是java代码，如果是，如何获取当前文件所在的包路径" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -768,6 +755,19 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="android 手机webview的浏览器内核用的是设呢么？" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="com.intellij.lang.annotation.HighlightSeverity 有哪些严重性级别?分别是什么" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>

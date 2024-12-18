@@ -15,11 +15,12 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Defines a highlighting severity level for an annotation." />
+      <item value="highlight severity" />
       <item value="Filter" />
       <item value="Return true in this case if you'd like to switch this kind of highlighting in ANY file" />
       <item value="compute if absent" />
       <item value="text attributes key" />
-      <item value="highlight severity" />
       <item value="A wrapper around map, allowing to put and get values by keys in a type-safe way. Used in various extension implementations to manage temporary state. For example:" />
       <item value="allowing to put and get values by keys in a type-safe way" />
       <item value="Simple processing context can contain a shared processing context inside, which should be used when iterating over several patterns or extensions, possibly from different plugins. They may still wish to reuse some cached information that a previous extension has already calculated. &lt;p&gt;" />
@@ -64,15 +65,14 @@
       <item value="Literal" />
       <item value="leaf psi element" />
       <item value="Attempts to collect any comment elements above the Simple keyvalue pair." />
-      <item value="simple property" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="829" />
+        <entry key="CHINESE" value="831" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="786" />
+        <entry key="ENGLISH" value="788" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
