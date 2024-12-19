@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Expression" />
+      <item value="Represents a Java literal expression." />
       <item value="strategy" />
       <item value="the name of the highlighting level." />
       <item value="WARNINGS ATTRIBUTES" />
@@ -63,16 +65,14 @@
       <item value="See {@link withType(CompletionType)}, {@link withInvocationCount(int)} and {@link withPosition(PsiElement, int)} to create modified copy of given current parameters." />
       <item value="completion parameters" />
       <item value="type" />
-      <item value="place" />
-      <item value="Commenter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="856" />
+        <entry key="CHINESE" value="858" />
         <entry key="DANISH" value="2" />
-        <entry key="ENGLISH" value="811" />
+        <entry key="ENGLISH" value="813" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />

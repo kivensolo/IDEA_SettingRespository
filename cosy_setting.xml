@@ -60,73 +60,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="在PSI中，Literal是个什么概念，比如JsonStringLiteral，它和JsonToken有什么区别和关系，请举例说明" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="file" />
-                          <option name="drillDownEnable" value="true" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="file" />
-                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
-                          <option name="text" value="#file" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine" />
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent" />
-                          <entry key="startLine" />
-                        </map>
-                      </option>
-                      <option name="id" value="E:\GitHubProjects\IntelliJ\intellij-sdk-code-samples\zeke_wildfire_samples\src\main\kotlin\org\intellij\samples\psi\reference\MySimpleURIReferenceContributor.kt" />
-                      <option name="name" value="E:\GitHubProjects\IntelliJ\intellij-sdk-code-samples\zeke_wildfire_samples\src\main\kotlin\org\intellij\samples\psi\reference\MySimpleURIReferenceContributor.kt" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="text" value="MySimpleURIReferenceContributor.kt" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="JsonLiteral 和 JsonProperty有什么区别？" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -936,6 +869,19 @@
                       <option name="type" value="currentFile" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="通过com.intellij.psi.PsiReferenceRegistrar的registerReferenceProvider方法注册引用提供者时，如果需要指定目标范围是java或者kotlin代码，其ElementPattern该如何设置？" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
