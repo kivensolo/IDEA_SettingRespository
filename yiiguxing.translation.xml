@@ -15,8 +15,11 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Standard severity levels." />
+      <item value="过滤器" />
+      <item value="过滤" />
+      <item value="Filte" />
       <item value="Severity" />
+      <item value="Standard severity levels." />
       <item value="策略" />
       <item value="Defines a highlighting severity level for an annotation." />
       <item value="highlight severity" />
@@ -62,17 +65,14 @@
       <item value="Returns the first element matching the given [predicate], or `null` if no such element was found." />
       <item value="@param file - might (and will be) null. Return true in this case if you'd like to switch this kind of highlighting in ANY file" />
       <item value="annotator" />
-      <item value="manipulator" />
-      <item value="qualified name provider" />
-      <item value="Qualified" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="835" />
+        <entry key="CHINESE" value="840" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="792" />
+        <entry key="ENGLISH" value="796" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
@@ -80,7 +80,7 @@
         <entry key="INDONESIAN" value="6" />
         <entry key="ITALIAN" value="1" />
         <entry key="LATIN" value="3" />
-        <entry key="NORWEGIAN" value="3" />
+        <entry key="NORWEGIAN" value="4" />
         <entry key="POLISH" value="2" />
         <entry key="SUNDANESE" value="2" />
         <entry key="SWEDISH" value="5" />
