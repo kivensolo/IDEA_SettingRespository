@@ -60,19 +60,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="插电式混合动力汽车PHEV的定义" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="com.intellij.psi.PsiReferenceContributor的registerReferenceProviders方法中，对引用提供者进行注册时，如何进行注册，参数分别是什么？" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -950,6 +937,19 @@
                       <option name="type" value="currentFile" />
                     </ChatContextTag>
                   </list>
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="通过Collection.stream()方法转出来的Stream对象，可以重复使用吗？" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
                 </option>
               </ChatRecentQuery>
             </list>
