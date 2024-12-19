@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="highlight severity" />
       <item value="is present" />
       <item value="Present" />
       <item value="analyse" />
@@ -26,7 +27,6 @@
       <item value="Standard severity levels." />
       <item value="策略" />
       <item value="Defines a highlighting severity level for an annotation." />
-      <item value="highlight severity" />
       <item value="Filter" />
       <item value="Return true in this case if you'd like to switch this kind of highlighting in ANY file" />
       <item value="compute if absent" />
@@ -70,9 +70,9 @@
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="846" />
+        <entry key="CHINESE" value="847" />
         <entry key="DANISH" value="2" />
-        <entry key="ENGLISH" value="801" />
+        <entry key="ENGLISH" value="802" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
