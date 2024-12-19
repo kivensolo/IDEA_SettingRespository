@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="strategy" />
       <item value="the name of the highlighting level." />
       <item value="WARNINGS ATTRIBUTES" />
       <item value="GENERIC SERVER ERROR OR WARNING" />
@@ -64,15 +65,14 @@
       <item value="type" />
       <item value="place" />
       <item value="Commenter" />
-      <item value="Finds file by path relative to this file." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="855" />
+        <entry key="CHINESE" value="856" />
         <entry key="DANISH" value="2" />
-        <entry key="ENGLISH" value="810" />
+        <entry key="ENGLISH" value="811" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
