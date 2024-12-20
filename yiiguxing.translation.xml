@@ -15,6 +15,7 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="literal with no quote" />
       <item value="psi literal expression" />
       <item value="Returns the initializer for the variable." />
       <item value="Searches the project for the package with the specified full-qualified name and returns one if it is found." />
@@ -64,15 +65,14 @@
       <item value="A wrapper around map, allowing to put and get values by keys in a type-safe way. Used in various extension implementations to manage temporary state. For example: &lt;ul&gt; &lt;li&gt;When creating {@code ElementPattern}, processing context may be used to cache some intermediate data to be shared between pattern parts.&lt;li&gt; &lt;li&gt;Some extensions (e.g, {@code PsiReferenceProvider}, {@code CompletionContributors}) use per-pattern registration. That allows to use {@code ElementPatternsave} to put matched objects into processing contexts and then retrieve those objects inside extension implementation after the matching is complete.&lt;li&gt; &lt;ul&gt;" />
       <item value="prefix to look up" />
       <item value="look up prefix" />
-      <item value="Slash" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="877" />
+        <entry key="CHINESE" value="878" />
         <entry key="DANISH" value="2" />
-        <entry key="ENGLISH" value="832" />
+        <entry key="ENGLISH" value="833" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
