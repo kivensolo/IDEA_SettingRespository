@@ -15,6 +15,8 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="REGULAR STRING PART" />
+      <item value="jvm expression reference provider" />
       <item value="Expression" />
       <item value="Represents a Java literal expression." />
       <item value="strategy" />
@@ -63,16 +65,14 @@
       <item value="An item shown in a {@link Lookup} suggestion list, most often produced by code completion or live templates. A typical way to create lookup element is to use {@link LookupElementBuilder}. Another way is to subclass it. Use the latter way only if you need it to implement some additional interface, to modify equalshashCode or other advanced logic." />
       <item value="Lookup" />
       <item value="See {@link withType(CompletionType)}, {@link withInvocationCount(int)} and {@link withPosition(PsiElement, int)} to create modified copy of given current parameters." />
-      <item value="completion parameters" />
-      <item value="type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="858" />
+        <entry key="CHINESE" value="860" />
         <entry key="DANISH" value="2" />
-        <entry key="ENGLISH" value="813" />
+        <entry key="ENGLISH" value="815" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
