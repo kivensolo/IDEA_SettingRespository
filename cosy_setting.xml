@@ -60,100 +60,6 @@
                 <option name="chatInputElements">
                   <list>
                     <ChatInputElement>
-                      <option name="text" value="JsonLiteral 和 JsonProperty有什么区别？" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list>
-                    <ChatContextTag>
-                      <option name="componentType" value="comboBox" />
-                      <option name="contextProvider">
-                        <SuggestPrompt>
-                          <option name="componentType" value="comboBox" />
-                          <option name="contextName" value="selectedCode" />
-                          <option name="drillDownEnable" value="false" />
-                          <option name="enabled" value="true" />
-                          <option name="extra">
-                            <map>
-                              <entry key="contextType">
-                                <value>
-                                  <Object />
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="hint" value="selectedCode" />
-                          <option name="id" value="858b986a-9b02-4d41-87ef-c7b6b92b44d7" />
-                          <option name="text" value="#selectedCode" />
-                          <option name="type" value="context" />
-                        </SuggestPrompt>
-                      </option>
-                      <option name="endLine" value="37" />
-                      <option name="extra">
-                        <map>
-                          <entry key="contextType">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="endLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="fileName">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="filePath">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="selectedItemContent">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                          <entry key="startLine">
-                            <value>
-                              <Object />
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="id" value="E:\GitHubProjects\IntelliJ\intellij-sdk-code-samples\zeke_wildfire_samples\src\main\kotlin\org\intellij\samples\psi\reference\MySimpleURIReferenceContributor.kt#L37-L37" />
-                      <option name="name" value="E:\GitHubProjects\IntelliJ\intellij-sdk-code-samples\zeke_wildfire_samples\src\main\kotlin\org\intellij\samples\psi\reference\MySimpleURIReferenceContributor.kt#L37-L37" />
-                      <option name="payload">
-                        <Object />
-                      </option>
-                      <option name="statLine" value="37" />
-                      <option name="text" value="MySimpleURIReferenceContributor.kt" />
-                      <option name="type" value="currentFile" />
-                    </ChatContextTag>
-                  </list>
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
-                      <option name="text" value="请详细介绍一下inside方法和PlatformPatterns以及PsiElementPattern.Capture的其他API" />
-                      <option name="type" value="text" />
-                    </ChatInputElement>
-                  </list>
-                </option>
-                <option name="contextTags">
-                  <list />
-                </option>
-              </ChatRecentQuery>
-              <ChatRecentQuery>
-                <option name="chatInputElements">
-                  <list>
-                    <ChatInputElement>
                       <option name="text" value="IDEA插件开发中，沙箱运行后，无法查找AndroidFacet类，报错java.lang.NoClassDefFoundError: org/jetbrains/android/facet/AndroidFacet&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
@@ -882,6 +788,86 @@
                 </option>
                 <option name="contextTags">
                   <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="开发IDEA插件时，我想通过实现自定义PsiReferenceProvider，实现一个功能，在A.xml文件中，有一个节点&lt;node&gt;file:///.assets/plugin/settingV3/images/child/step_2.png&lt;/node&gt;。在B.java文件中，有一个字符串是“file:///.assets/plugin/settingV3/images/child/step_2.png”，我想实现在A.xml文件中Ctrl+鼠标左键跳转到B.java文件的字符串处。我不清楚如何去实现PsiReference的关联，请指导我一下。" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="这个字符串在java代码中可能以field变量存在m,如： String contentUrl = &quot;file:///.assets/plugin/settingV3/images/child/step_2.png&quot;，也可能以某个函数的入参存在，比如print(&quot;file:///.assets/plugin/settingV3/images/child/step_2.png&quot;)&#10;请问你提供的ImagePathReference的解析逻辑，还适用吗，如果不适用，该如何修改？" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list>
+                    <ChatContextTag>
+                      <option name="componentType" value="comboBox" />
+                      <option name="contextProvider">
+                        <SuggestPrompt>
+                          <option name="componentType" value="comboBox" />
+                          <option name="contextName" value="file" />
+                          <option name="drillDownEnable" value="true" />
+                          <option name="enabled" value="true" />
+                          <option name="extra">
+                            <map>
+                              <entry key="contextType">
+                                <value>
+                                  <Object />
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="hint" value="file" />
+                          <option name="id" value="7a0c2792-b1ed-49ec-a82b-d97b16a242b4" />
+                          <option name="text" value="#file" />
+                          <option name="type" value="context" />
+                        </SuggestPrompt>
+                      </option>
+                      <option name="extra">
+                        <map>
+                          <entry key="contextType">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="endLine" />
+                          <entry key="fileName">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="filePath">
+                            <value>
+                              <Object />
+                            </value>
+                          </entry>
+                          <entry key="selectedItemContent" />
+                          <entry key="startLine" />
+                        </map>
+                      </option>
+                      <option name="id" value="E:\GitHubProjects\IntelliJ\intellij-sdk-code-samples\zeke_wildfire_samples\src\main\kotlin\org\intellij\samples\psi\reference\JvmLiteralReference.kt" />
+                      <option name="name" value="E:\GitHubProjects\IntelliJ\intellij-sdk-code-samples\zeke_wildfire_samples\src\main\kotlin\org\intellij\samples\psi\reference\JvmLiteralReference.kt" />
+                      <option name="payload">
+                        <Object />
+                      </option>
+                      <option name="text" value="JvmLiteralReference.kt" />
+                      <option name="type" value="currentFile" />
+                    </ChatContextTag>
+                  </list>
                 </option>
               </ChatRecentQuery>
             </list>
