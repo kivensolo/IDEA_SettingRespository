@@ -15,6 +15,9 @@
   <component name="Translation.States">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Searches the project for the package with the specified full-qualified name and returns one if it is found." />
+      <item value="incomplete code" />
+      <item value="psi poly variant reference base" />
       <item value="literal assets URI reference provider" />
       <item value="delimited list converter" />
       <item value="is text block" />
@@ -62,17 +65,14 @@
       <item value="Slash" />
       <item value="last slash index" />
       <item value="typing text" />
-      <item value="There is more than one label with such a name in this scope" />
-      <item value="slash" />
-      <item value="already followed by slash" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="5" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="872" />
+        <entry key="CHINESE" value="875" />
         <entry key="DANISH" value="2" />
-        <entry key="ENGLISH" value="827" />
+        <entry key="ENGLISH" value="830" />
         <entry key="FINNISH" value="2" />
         <entry key="FRENCH" value="3" />
         <entry key="HINDI" value="1" />
